@@ -1,6 +1,6 @@
 
 function bumpchart() {
-//    const compact = drawingStyle === "compact";
+    const compact = drawingStyle === "compact";
     const svg = d3.select("div#bump-chart")
 //        .create("svg")
         .append("svg")
@@ -143,7 +143,7 @@ y = d3.scalePoint()
     .range([margin.top, height - margin.bottom - padding]);
 
 // toCurrency = f(num)
-toCurrency = (num) => d3.format("$,.2f")(num);
+//toCurrency = (num) => d3.format("$,.2f")(num);
 
 // data -> Array[19369]
 //data = d3.csvParse(await FileAttachment("../data/git-log-tensorflow-stat-v2.icsv").text(), d3.autoType);
