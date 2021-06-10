@@ -24,12 +24,13 @@
             (function () {
                 var sunburst = new Sunburst({
                     colors: {
-                        "Pull Request": "#5687d1",
+
+                        "Pull Request": d3.interpolateYlGnBu(0.25),
                         // "Comment": "#7b615c",
-                        "Comment": "#de783b",
-                        "Commit": "#6ab975",
+                        "Comment": d3.interpolateYlGnBu(0.5),
+                        "Commit": d3.interpolateYlGnBu(0.75),
                         // "other": "#a173d1",
-                        "Review": "#bbbbbb"
+                        "Review": d3.interpolateYlGnBu(1)
                     }
                 });
                 // sunburst.loadJson("visit-sequences.json");
