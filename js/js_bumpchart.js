@@ -2,7 +2,7 @@
 function bumpchart() {
     const compact = drawingStyle === "compact";
     const svg = d3.select("div#bump-chart")
-//        .create("svg")
+        //.create("svg")
         .append("svg")
         .attr("cursor", "default")
         .attr("viewBox", [0, 0, width, height]);
@@ -102,6 +102,51 @@ function bumpchart() {
     }
 }
 
+// data -> Array[19369]
+data = d3.csv("../data/git-log-tensorflow-stat-v2.csv");
+console.log(data);
+
+// Names = Array[9]
+Names = Array.from(new Set(data.flatMap(d => [d.Name])));
+
+// Quarters = Array[14]
+Quarters = Array.from(new Set(data.flatMap(d => [d.Quarter])));
+
+// chartDate = Array[9]
+ChartData = () => {
+    const ti = new Map(Names.map((Name, i) => [Name, i]));
+    const qi = new Map(Quarters.map((Quarter, i) => [Quarter, i]));
+    const matrix = Array.from(ti, () => new Array(Quarters.length).fill(null));
+
+    for (const {Name, Quarter, File_Changed} of data)
+        matrix[ti.get(Name)][qi.get(Quarter)] = {rank: 0, File_Changed: +File_Changed, next: null};
+
+    matrix.forEach((d) => {
+            for (let i = 0 ; i < d.length - 1 ; i++)
+            d[i].next = d[i + 1];
+            });
+
+    Quarters.forEach((d, i) => {
+            const array = [];
+            matrix.forEach((d) => array.push(d[i]));
+            array.sort((a, b) => b.File_Changed - a.File_Changed);
+            array.forEach((d, j) => d.rank = j);
+            });
+
+    return matrix;
+}
+chartData = ChartData();
+console.log(chartData);
+
+// ranking = Array[9]
+Ranking = () => {
+    const len = Quarters.length - 1;
+    const ranking = chartData.map((d, i) => ({Name: Names[i], first: d[0].rank, last: d[len].rank}));
+    return ranking;
+};
+ranking = Ranking();
+console.log(ranking);
+
 // drawAxis = f(g, x, y, axis, domain)
 drawAxis = (g, x, y, axis, domain) => {
     g.attr("transform", `translate(${x}, ${y})`)
@@ -116,7 +161,7 @@ drawAxis = (g, x, y, axis, domain) => {
 
 // title = f(g)
 title = g => g.append("title")
-        .text((g, i) => `${d.Name} - ${Quarters[i]}\nRank: ${d.File_Changed.rank + 1}\nFile_Changed: ${d.File_Changed}`);
+    .text((g, i) => `${d.Name} - ${Quarters[i]}\nRank: ${d.File_Changed.rank + 1}\nFile_Changed: ${d.File_Changed}`);
 
 // strokeWidth = f(i)
 strokeWidth = d3.scaleOrdinal()
@@ -142,53 +187,9 @@ ax = d3.scaldPoint()
 y = d3.scalePoint()
     .range([margin.top, height - margin.bottom - padding]);
 
-// toCurrency = f(num)
-//toCurrency = (num) => d3.format("$,.2f")(num);
-
-// data -> Array[19369]
-//data = d3.csvParse(await FileAttachment("../data/git-log-tensorflow-stat-v2.icsv").text(), d3.autoType);
-data = d3.csv("/data/git-log-tensorflow-stat-v2.csv")
-
-// Names = Array[9]
-Names = Array.from(new Set(data.flowMap(d => [d.Name])));
-
-// Quarters = Array[14]
-Quarters = Array.from(new Set(data.flowMap(d => [d.Quarter])));
-
-// chartDate = Array[9]
-chartData = {
-    const ti = new Map(Names.map((Name, i) => [Name, i]));
-    const qi = new Map(Quarters.map((Quarter, i) => [Quarter, i]));
-    const matrix = Array.from(ti, () => new Array(Quarters.length).fill(null));
-
-    for (const {Name, Quarter, File_Changed} of data)
-        matrix[ti.get(Name)][qi.get(Quarter)] = {rank: 0, File_Changed: +File_Changed, next: null};
-
-    matrix.forEach((d) => {
-        for (let i = 0 ; i < d.length - 1 ; i++)
-            d[i].next = d[i + 1];
-    });
-
-    Quarters.forEach((d, i) => {
-        const array = [];
-        matrix.forEach((d) => array.push(d[i]));
-        array.sort((a, b) => b.File_Changed - a.File_Changed);
-        array.forEach((d, j) => d.rank = j);
-    });
-
-    return matrix;
-}
-
-// ranking = Array[9]
-ranking = {
-    const len = Quarters.length - 1;
-    const ranking = chartData.map((d, i) => ({Name: Names[i], first: d[0].rank, last: d[len].rank}));
-    return ranking;
-}
-
 // color = f(i)
 color = d3.scaleOrdinal(d3.schemeTableau10)
-    .domain(seq(0, ranking.length));
+.domain(seq(0, ranking.length));
 
 // seq = f(start, length)
 seq = (start, length) => Array.apply(null, {length: length}).map((d, i) => i + start);
@@ -218,5 +219,5 @@ margin = ({left: 105, right: 105, top: 20, bottom: 50});
 d3 = require("d3@6")
 
 
-
+bumpchart()
 
