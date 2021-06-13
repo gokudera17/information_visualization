@@ -103,7 +103,6 @@ function bumpchart() {
 }
 
 // data -> Array[19369]
-a = []
 data = [];
 //data.push({"Name": "Chi-Hung Chang", "Quarter": "2021-Q2", "File_Changed": 100, "Insertions": 20, "Deletions": 14});
 d3.csv("../data/git-log-tensorflow-stat-v2.csv", function(row){
