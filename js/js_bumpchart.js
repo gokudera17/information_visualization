@@ -103,14 +103,28 @@ function bumpchart() {
 }
 
 // data -> Array[19369]
-data = d3.csv("../data/git-log-tensorflow-stat-v2.csv");
-console.log(data);
+data = [];
+//data.push({"Name": "Chi-Hung Chang", "Quarter": "2021-Q2", "File_Changed": 100, "Insertions": 20, "Deletions": 14});
+d3.csv("../data/git-log-tensorflow-stat-v2.csv", function(row){
+    data.push({
+        "Name": row.Name,
+        "Quarter": row.Quarter,
+        "File_Changed": +row.File_Changed,
+        "Insertions": +row.Insertions,
+        "Deletions": +row.Deletions
+    });
+});
+console.log(data);      // Array(19368)
+console.log(data.length);      // 0
+console.log(data[1]);       // undefined
 
 // Names = Array[9]
 Names = Array.from(new Set(data.flatMap(d => [d.Name])));
+console.log(Names);
 
 // Quarters = Array[14]
 Quarters = Array.from(new Set(data.flatMap(d => [d.Quarter])));
+console.log(Quarters);
 
 // chartDate = Array[9]
 ChartData = () => {
