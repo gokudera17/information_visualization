@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<script src="//d3js.org/d3.v6.min.js"></script>
+<script>
+
+
+///////////////////////
+// Parse the Data
+d3.csv("../data/git-log-tensorflow-stat-v2.csv", function(data) {
+	data.sort(function(a, b) {
+		if(b['Quarter'] != a['Quarter']) {
+			return b['Quarter'] - a['Quarter'];
+		}
+		if(b['File_Changed'] != a['File_Changed']) {
+			return b['File_Changed'] - a['File_Changed'];
+		}
+	});
+
+	var pos = 1;
+	data[0].position = pos;
+	for(var i=1; i<data.length; i++) {
+		if(data[i - 1].Quarter != data[i].Quarter) {
+			pos = 1;
+		} else {
+			pos++;
+		}
+		data[i].position = pos;
+	}
+
+	// add a css safe class for use in hover interactions and coloring
+	data.forEach(function(d) {
+		d['class'] = d['Name'].toLowerCase().replace(/ /g, '-').replace(/\./g,'');
+	})
+
+	///////////////////////
+	// Chart Size Setup
+	var margin = { top: 35, right: 0, bottom: 30, left: 70 };
+
+	var width = 960 - margin.left - margin.right;
+	var height = 500 - margin.top - margin.bottom;
+
+	var chart = d3.select(".chart")
+			.attr("width", 960)
+			.attr("height", 500)
+		.append("g")
+			.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+	///////////////////////
+	// Scales
+	var x = d3.scaleBand()
+			.domain(data.map(function(d) { return d['Quarter']; }).reverse())
+			.rangeRound([25, width - 15]);
+
+	var y = d3.scaleLinear()
+			.domain([d3.min(data, function(d) { return d['position'] }), d3.max(data, function(d) { return d['position']; })])
+			.range([20, height - 30]);
+
+	///////////////////////
+	// Axis
+	var xAxis = d3.axisBottom(x);
+
+	var yAxis = d3.axisLeft(y);
+
+	chart.append("g")
+			.attr("class", "x axis")
+			.attr("transform", "translate(-"+ x.bandwidth()/2.0 +"," + height + ")")
+			.call(xAxis);
+
+	chart.append("g")
+			.attr("class", "y axis")
+			.call(yAxis);
+
+	///////////////////////
+	// Title
+	chart.append("text")
+		.text('Git-Log Actions')
+		.attr("text-anchor", "middle")
+		.attr("class", "graph-title")
+		.attr("y", -10)
+		.attr("x", width / 2.0);
+
+	chart.append("text")
+		.text('File Changed')
+		.attr("text-anchor", "middle")
+		.attr("class", "graph-title")
+		.attr("y", -35)
+		.attr("x", width / -4.0)
+		.attr("transform", "rotate(-90)");
+
+	///////////////////////
+	// Lines
+	var Names = d3.map(data, function(d) {
+		return d['Name'];
+	}).keys();
+
+	Names.forEach(function(Name) {
+		var currData = data.filter(function(d) {
+			if(d['Name'] == Name) {
+				return d;
+			}
+		});
+
+		var line = d3.line()
+				.x(function(d) { return x(d['Quarter']); })
+				.y(function(d) { return y(d['position']); });
+
+		chart.append("path")
+				.datum(currData)
+				.attr("class", Name.toLowerCase().replace(/ /g, '-').replace(/\./g,'') )
+				.attr("style", "fill:none !important")
+				.attr("stroke-linejoin", "round")
+				.attr("stroke-linecap", "round")
+				.attr("stroke-width", 2)
+				.attr("stroke-opacity", 0.1)
+				.attr("d", line);
+	});
+
+	///////////////////////
+	// Nodes
+	var node = chart.append("g")
+		.selectAll("circle")
+		.data(data)
+		.enter().append("circle")
+		.attr("class", "point")
+		.attr("cx", function(d) { return x(d['Quarter']); })
+		.attr("cy", function(d) { return y(d['position']); })
+		.attr('fill', 'blue')
+		// replace spaces with - and remove '.' (from d.c. united)
+		.attr("class", function(d) { return d['Name'].toLowerCase().replace(/ /g, '-').replace(/\./g,'') })
+		.attr("r", 6)
+		//.attr("r", function(d) { return size(d['goals_for']) })
+		.attr("stroke-width", 1.5)
+		.attr('opacity', '0.6');
+
+	///////////////////////
+	// Tooltips
+	var tooltip = d3.select("body").append("div")
+			.attr("class", "tooltip");
+
+	chart.selectAll("circle")
+			.on("mouseover", function(d) {
+				chart.selectAll('.' + d['class'])
+						.classed('active', true);
+
+				var tooltip_str = "Name: " + d['Name'] +
+								"<br/>" + "Quarter: " + d['Quarter'] +
+								"<br/>" + "File Changed: " + d['File_Changed'];
+								"<br/>" + "Insertions: " + d['Insertions'];
+								"<br/>" + "Deletions: " + d['Deletions'];
+
+				tooltip.html(tooltip_str)
+						.style("visibility", "visible");
+			})
+			.on("mousemove", function(d) {
+				tooltip.style("top", event.pageY - (tooltip.node().clientHeight + 5) + "px")
+						.style("left", event.pageX - (tooltip.node().clientWidth / 2.0) + "px");
+			})
+			.on("mouseout", function(d) {
+				chart.selectAll('.'+d['class'])
+						.classed('active', false);
+
+				tooltip.style("visibility", "hidden");
+			})
+			.on('click', function(d) {
+				chart.selectAll('.' + d['class'])
+						.classed('click-active', function(d) {
+							// toggle state
+							return !d3.select(this).classed('click-active');
+						});
+			})
+
+});
+</script>
+
+<style>
+
+.click-active, .active {
+	opacity: 1.0;
+	stroke-opacity: 1.0;
+	z-index: 1000;
+	/*r: 8;*/
+}
+
+path.click-active {
+	stroke-width: 3.0;
+}
+
+path.active {
+	stroke-width: 3.0;
+}
+
+.axis text {
+	font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+}
+
+.x.axis path {
+	display: none;
+}
+
+.tooltip {
+	position: absolute;
+	padding: 10px;
+	font: 12px sans-serif;
+	background: #222;
+	color: #fff;
+	border: 0px;
+	border-radius: 8px;
+	pointer-events: none;
+	opacity: 0.9;
+	visibility: hidden;
+}
+
+/* soccer team colors */
+/* http://teamcolors.arc90.com/ */
+.chicago-fire {
+	fill: #AF2626;
+	stroke: #0A174A;
+}
+.colorado-rapids {
+	fill: #91022D;
+	stroke: #85B7EA;
+}
+.columbus-crew-sc {
+	fill: #FFDB00;
+	stroke: #000000;
+}
+.dc-united {
+	fill: #DD0000;
+	stroke: #000000;
+}
+.fc-dallas {
+	fill: #CF0032;
+	stroke: #07175C;
+}
+.houston-dynamo {
+	fill: #F36600;
+	stroke: #85b7EA;
+}
+.la-galaxy {
+	fill: #00245D;
+	stroke: #FFD200;
+}
+.montreal-impact {
+	fill: #122089;
+	stroke: #7A878F;
+}
+.new-england-revolution {
+	fill: #0A2141;
+	stroke: #D80016;
+}
+.new-york-city-fc {
+	fill: #6CADDF;
+	stroke: #00285E;
+}
+.new-york-red-bulls {
+	fill: #FFFFFF;
+	stroke: #D50031;
+}
+.orlando-city-sc {
+	fill: #633492;
+	stroke: #FDE192;
+}
+.philadelphia-union {
+	fill: #B18500;
+	stroke: #348AE1;
+}
+.portland-timbers {
+	fill: #004812;
+	stroke: #EBE72B;
+}
+.real-salt-lake {
+	fill: #F2D11A;
+	stroke: #A50531;
+}
+.san-jose-earthquakes {
+	fill: #0051BA;
+	stroke: #000000;
+}
+.seattle-sounders-fc {
+	fill: #4F8A10;
+	stroke: #11568C;
+}
+.sporting-kansas-city {
+	fill: #91B0D5;
+	stroke: #002B5C;
+}
+.toronto-fc {
+	fill: #D80016;
+	stroke: #313F49;
+}
+.vancouver-whitecaps-fc {
+	fill: #12264C;
+	stroke: #85B7EA;
+}
+
+/* defunct teams :( */
+.tampa-bay-mutiny { /* Using tampa bay rays colors */
+	fill: #092C5C;
+	stroke: #8FBCE6;
+}
+.miami-fusion { /* Using miami marlins colors */
+	fill: #0077C8;
+	stroke: #FFD100;
+}
+.cd-chivas-usa {
+	fill: #FFF;
+	stroke: #0A2141; /* blue of new england and ny red bulls */
+}
+
+</style>
+
+<body>
+	<svg class="chart"></svg>
+</body>
