@@ -1,4 +1,6 @@
-/*#bump-chart {*/
-/*    width: 1500px;*/
-/*    height: 1000px;*/
-/*}*/
+#bump-chart {
+    margin-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    height: 700px;
+}

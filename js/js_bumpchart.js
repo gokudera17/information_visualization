@@ -7,7 +7,7 @@ function bumpchart() {
     padding = 25;
 
     // margin = Object {left: 105, right: 105, top: 20, bottom: 50}
-    margin = ({left: 105, right: 105, top: 20, bottom: 50});
+    margin = ({left: 200, right: 200, top: 20, bottom: 50});
 
     //const compact = drawingStyle === "compact";
 
@@ -21,8 +21,8 @@ function bumpchart() {
             "Deletions": +row.Deletions
         });
     }).then(function() {
-        data = data.slice(0,100);
-        console.log(data)
+        data = data.slice(0,200);
+        // console.log(data)
         // Names = Array[9]
         Names = Array.from(new Set(data.flatMap(d => [d.Name])));
 
@@ -90,7 +90,7 @@ function bumpchart() {
             g.attr("transform", `translate(${x}, ${y})`)
                 .call(axis)
                 .selectAll(".tick text")
-                .attr("font-size", "12px");
+                .attr("font-size", "16px");
 
             if (!domain)
                 g.select(".domain")
