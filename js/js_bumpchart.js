@@ -12,7 +12,6 @@ function bumpchart() {
     //const compact = drawingStyle === "compact";
 
     data = [];
-    //data.push({"Name": "Chi-Hung Chang", "Quarter": "2021-Q2", "File_Changed": 100, "Insertions": 20, "Deletions": 14});
     d3.csv("../data/git-log-tensorflow-stat-v2.csv", function(row){
         data.push({
             "Name": row.Name,
@@ -22,24 +21,18 @@ function bumpchart() {
             "Deletions": +row.Deletions
         });
     }).then(function() {
-        //console.log(data);      // Array(19368)
-        //console.log(data.length);      // 0
-        //console.log(data[1])       // undefined
         
         // Names = Array[9]
         Names = Array.from(new Set(data.flatMap(d => [d.Name])));
-        //console.log(Names);
 
         // Quarters = Array[14]
         Quarters = Array.from(new Set(data.flatMap(d => [d.Quarter])));
-        //console.log(Quarters);
 
         // chartDate = Array[9]
         ChartData = () => {
             const ti = new Map(Names.map((Name, i) => [Name, i]));
             const qi = new Map(Quarters.map((Quarter, i) => [Quarter, i]));
             const matrix = Array.from(ti, () => new Array(Quarters.length).fill(null));
-            //console.log(matrix);
 
             for (const {Name, Quarter, File_Changed} of data)
                 matrix[ti.get(Name)][qi.get(Quarter)] = {rank: 0, File_Changed: +File_Changed, next: null};
@@ -67,13 +60,11 @@ function bumpchart() {
                         d.rank = j
                     }
                 });
-                //console.log(array);
             });
 
             return matrix;
         }
         chartData = ChartData();
-        console.log(chartData);
 
         // ranking = Array[9]
         Ranking = () => {
@@ -92,7 +83,6 @@ function bumpchart() {
             return ranking;
         };
         ranking = Ranking();
-        console.log(ranking);
 
         // drawAxis = f(g, x, y, axis, domain)
         drawAxis = (g, x, y, axis, domain) => {
