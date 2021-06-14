@@ -21,7 +21,7 @@ function bumpchart() {
             "Deletions": +row.Deletions
         });
     }).then(function() {
-        data = data.slice(0,100);
+        data = data.slice(0,112);
         // console.log(data)
         // Names = Array[9]
         Names = Array.from(new Set(data.flatMap(d => [d.Name])));
