@@ -28,6 +28,7 @@ function bumpchart() {
 
         // Quarters = Array[14]
         Quarters = Array.from(new Set(data.flatMap(d => [d.Quarter])));
+        Quarters = Quarters.reverse();
 
         // chartDate = Array[9]
         ChartData = () => {
