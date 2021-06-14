@@ -1,0 +1,14 @@
+.tooltip {
+    position: sticky;
+    font-size: 15px;
+    font-family: system-ui;
+    font-weight: bold;
+    text-align: match-parent;
+    color: #000000;
+    background: #ffffff;
+    height: 12px;
+    padding: 12px;
+    border: solid;
+    border-radius: 5px;
+    pointer-events: none;
+}
