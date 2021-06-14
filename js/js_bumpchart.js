@@ -9,8 +9,6 @@ function bumpchart() {
     // margin = Object {left: 105, right: 105, top: 20, bottom: 50}
     margin = ({left: 150, right: 150, top: 20, bottom: 50});
 
-    //const compact = drawingStyle === "compact";
-
     data = [];
     d3.csv("../data/git-log-tensorflow-stat-v2.csv", function(row){
         data.push({
@@ -100,12 +98,7 @@ function bumpchart() {
 
         // title = f(g)
         title = g => g.append("title")
-            .text((g, i) => `${d.Name} - ${Quarters[i]}\nRank: ${d.File_Changed.rank + 1}\nFile_Changed: ${d.File_Changed}`);
-
-        // strokeWidth = f(i)
-        strokeWidth = d3.scaleOrdinal()
-            .domain(["default", "transit", "compact"])
-            .range([5, bumpRadius * 2 + 2, 2]);
+            .text((d, i) => `${d.Name} - ${Quarters[i]}\nRank: ${d.File_Changed.rank + 1}\nFile_Changed: ${d.File_Changed.File_Changed}`);
 
         // seq = f(start, length)
         seq = (start, length) => Array.apply(null, {length: length}).map((d, i) => i + start);
@@ -146,7 +139,6 @@ function bumpchart() {
             .domain(seq(0, ranking.length));
 
         const svg = d3.select("div#bump-chart")
-            //.create("svg")
             .append("svg")
             .attr("cursor", "default")
             .attr("viewBox", [0, 0, width, height]);
@@ -183,7 +175,6 @@ function bumpchart() {
         series.selectAll("path")
             .data(d => d)
             .join("path")
-            //.attr("stroke-width", strokeWidth(drawingStyle))
             .attr("d", (d, i) => {
                 if ((d) && (d.next))
                     return d3.line()([[bx(i), by(d.rank)], [bx(i + 1), by(d.next.rank)]]);
@@ -202,25 +193,19 @@ function bumpchart() {
                     return `translate(${bx(i)}, ${by(d.File_Changed.rank)})`
                 }
             })
-            //.call(g => g.append("title").text((d, i) => `${d.Name} - ${Quarters[i]}\n${d.File_Changed}`));
-            //.call("title");
+            .call(title);
 
         bumps.append("circle")
-            //.attr("r", compact ? 5 : bumpRadius);
             .attr("r", bumpRadius);
 
         bumps.append("text")
-            //.attr("dy", compact ? "-0.75em" : "0.35em")
-            //.attr("fill", compact ? null : "white")
+            .attr("dy", "0.35em")
+            .attr("fill", "white")
             .attr("stroke", "none")
             .attr("text-anchor", "middle")
             .style("font-weight", "bold")
             .style("font-size", "14px")
-            .text(d => {
-                if (d.File_Changed) {
-                    return d.File_Changed.rank + 1;
-                }
-            });
+            .text(d => d.File_Changed.rank + 1);
 
         svg.append("g")
             .call(g => drawAxis(g, 0, height - margin.top - margin.bottom + padding, d3.axisBottom(ax), true));
