@@ -6,15 +6,16 @@ National Chengchi University
 ## Dataset
 
 ### Git Log
-<p>
 The command `git log` is to show the commit logs.
-</p>
+
+<br><br>
 
 List commits that are reachable by following the `parent` links from the given commit(s), 
 but exclude commits that are reachable from the one(s) given with a `^` in front of them. 
 The output is given in reverse chronological order by default.
 
-<p>
+<br><br>
+
 Follow the command below, you can get the commit logs of our experiment repo `tensorflow`,
 and store the data to `data/git-log_tensorflow.txt`:
 
@@ -44,7 +45,7 @@ cd ../
 ```
 
 After that, you can get the dataset with foemats that we need.
-</p>
+
 
 
 ## https://github.com/d3/d3-scale-chromatic
