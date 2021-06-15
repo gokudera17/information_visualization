@@ -8,13 +8,13 @@ National Chengchi University
 ### Git Log
 The command `git log` is to show the commit logs.
 
-<br><br>
+<br>
 
 List commits that are reachable by following the `parent` links from the given commit(s), 
 but exclude commits that are reachable from the one(s) given with a `^` in front of them. 
 The output is given in reverse chronological order by default.
 
-<br><br>
+<br>
 
 Follow the command below, you can get the commit logs of our experiment repo `tensorflow`,
 and store the data to `data/git-log_tensorflow.txt`:
