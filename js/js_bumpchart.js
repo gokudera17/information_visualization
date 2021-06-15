@@ -135,8 +135,9 @@ function bumpchart() {
             .range([margin.top, height - margin.bottom - padding]);
 
         // color = f(i)
-        color = d3.scaleOrdinal(d3.schemeTableau10)
+        color = d3.scaleOrdinal([d3.interpolateYlGnBu(0.2),d3.interpolateYlGnBu(0.25),d3.interpolateYlGnBu(0.3),d3.interpolateYlGnBu(0.4),d3.interpolateYlGnBu(0.55),d3.interpolateYlGnBu(0.7),d3.interpolateYlGnBu(0.85),d3.interpolateYlGnBu(1)])
             .domain(seq(0, ranking.length));
+        console.log(color)
 
         const svg = d3.select("div#bump-chart")
             .append("svg")
