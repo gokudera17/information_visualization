@@ -1,0 +1,2246 @@
+{
+  "nodes": [
+    {
+      "name": "A. Unique TensorFlower",
+      "id": 0,
+      "type": "author"
+    },
+    {
+      "name": "third_party/tf_runtime/workspace.bzl",
+      "id": 1,
+      "type": "file"
+    },
+    {
+      "name": "third_party/mlir/BUILD",
+      "id": 2,
+      "type": "file"
+    },
+    {
+      "name": "Jiri Simsa",
+      "id": 3,
+      "type": "author"
+    },
+    {
+      "name": "tensorflow/core/grappler/mutable_graph_view.cc",
+      "id": 4,
+      "type": "file"
+    },
+    {
+      "name": ".../mlir/tools/kernel_gen/transforms/buffer_reuse_pass.cc",
+      "id": 5,
+      "type": "file"
+    },
+    {
+      "name": ".../mlir/tools/kernel_gen/transforms/vectorization_pass.cc",
+      "id": 6,
+      "type": "file"
+    },
+    {
+      "name": "third_party/llvm/workspace.bzl",
+      "id": 7,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/core/public/version.h",
+      "id": 8,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/python/compat/compat.py",
+      "id": 9,
+      "type": "file"
+    },
+    {
+      "name": "Chao Mei",
+      "id": 10,
+      "type": "author"
+    },
+    {
+      "name": ".../mlir/lite/tests/mlir2exec/tfl_while_op.mlir",
+      "id": 11,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/lite/optional_debug_tools.cc",
+      "id": 12,
+      "type": "file"
+    },
+    {
+      "name": "Isha Arkatkar",
+      "id": 13,
+      "type": "author"
+    },
+    {
+      "name": "tensorflow/python/distribute/parameter_server_strategy_v2.py",
+      "id": 14,
+      "type": "file"
+    },
+    {
+      "name": ".../python/keras/distribute/parameter_server_training_test.py",
+      "id": 15,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/xla/service/algebraic_simplifier.cc",
+      "id": 16,
+      "type": "file"
+    },
+    {
+      "name": "Shivani Agrawal",
+      "id": 17,
+      "type": "author"
+    },
+    {
+      "name": "tensorflow/python/ops/math_ops_test.py",
+      "id": 18,
+      "type": "file"
+    },
+    {
+      "name": "HanBin Yoon",
+      "id": 19,
+      "type": "author"
+    },
+    {
+      "name": "tensorflow/compiler/xla/service/gpu/BUILD",
+      "id": 20,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/xla/service/gpu/bef_thunk.cc",
+      "id": 21,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/xla/service/gpu/bef_thunk.h",
+      "id": 22,
+      "type": "file"
+    },
+    {
+      "name": ".../xla/service/gpu/ir_emitter_unnested.cc",
+      "id": 23,
+      "type": "file"
+    },
+    {
+      "name": ".../compiler/xla/service/gpu/thunk_config.bzl",
+      "id": 24,
+      "type": "file"
+    },
+    {
+      "name": "Robert David",
+      "id": 25,
+      "type": "author"
+    },
+    {
+      "name": "tensorflow/compiler/mlir/lite/transforms/optimize.cc",
+      "id": 26,
+      "type": "file"
+    },
+    {
+      "name": "Meghna Natraj",
+      "id": 27,
+      "type": "author"
+    },
+    {
+      "name": "tensorflow/lite/python/lite.py",
+      "id": 28,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/lite/python/metrics_nonportable_test.py",
+      "id": 29,
+      "type": "file"
+    },
+    {
+      "name": "Geoffrey Martin-Noble",
+      "id": 30,
+      "type": "author"
+    },
+    {
+      "name": "Xiao Yu",
+      "id": 31,
+      "type": "author"
+    },
+    {
+      "name": ".../compiler/xla/client/lib/self_adjoint_eig_test.cc",
+      "id": 32,
+      "type": "file"
+    },
+    {
+      "name": "Tomer Kaftan",
+      "id": 33,
+      "type": "author"
+    },
+    {
+      "name": "tensorflow/core/kernels/BUILD",
+      "id": 34,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/core/kernels/gpu_prim_helpers.h",
+      "id": 35,
+      "type": "file"
+    },
+    {
+      "name": ".../core/kernels/gpu_prim_helpers_test.cu.cc",
+      "id": 36,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/core/kernels/segment_reduction_ops.h",
+      "id": 37,
+      "type": "file"
+    },
+    {
+      "name": ".../core/kernels/segment_reduction_ops_gpu.cu.cc",
+      "id": 38,
+      "type": "file"
+    },
+    {
+      "name": ".../core/kernels/segment_reduction_ops_impl.h",
+      "id": 39,
+      "type": "file"
+    },
+    {
+      "name": ".../core/kernels/segment_reduction_ops_impl_1.cc",
+      "id": 40,
+      "type": "file"
+    },
+    {
+      "name": ".../core/kernels/segment_reduction_ops_impl_5.cc",
+      "id": 41,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/core/util/gpu_device_functions.h",
+      "id": 42,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/core/util/gpu_kernel_helper.h",
+      "id": 43,
+      "type": "file"
+    },
+    {
+      "name": ".../kernel_tests/segment_reduction_ops_test.py",
+      "id": 44,
+      "type": "file"
+    },
+    {
+      "name": "Li Lao",
+      "id": 45,
+      "type": "author"
+    },
+    {
+      "name": ".../core/distributed_runtime/rpc/grpc_server_lib.cc",
+      "id": 46,
+      "type": "file"
+    },
+    {
+      "name": ".../core/distributed_runtime/rpc/grpc_server_lib.h",
+      "id": 47,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/mlir/lite/tests/optimize.mlir",
+      "id": 48,
+      "type": "file"
+    },
+    {
+      "name": ".../mlir/lite/transforms/optimize_patterns.td",
+      "id": 49,
+      "type": "file"
+    },
+    {
+      "name": "Yash Katariya",
+      "id": 50,
+      "type": "author"
+    },
+    {
+      "name": "tensorflow/python/keras/engine/base_layer.py",
+      "id": 51,
+      "type": "file"
+    },
+    {
+      "name": "George Karpenkov",
+      "id": 52,
+      "type": "author"
+    },
+    {
+      "name": "tensorflow/stream_executor/cuda/cuda_blas.cc",
+      "id": 53,
+      "type": "file"
+    },
+    {
+      "name": "Alexander Belyaev",
+      "id": 54,
+      "type": "author"
+    },
+    {
+      "name": ".../compiler/mlir/tools/kernel_gen/transforms/bufferize_pass.cc",
+      "id": 55,
+      "type": "file"
+    },
+    {
+      "name": "Peter Hawkins",
+      "id": 56,
+      "type": "author"
+    },
+    {
+      "name": "third_party/nccl/build_defs.bzl.tpl",
+      "id": 57,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/python/ops/math_ops.py",
+      "id": 58,
+      "type": "file"
+    },
+    {
+      "name": "Saurabh Saxena",
+      "id": 59,
+      "type": "author"
+    },
+    {
+      "name": "tensorflow/c/eager/BUILD",
+      "id": 60,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/c/eager/abstract_function.h",
+      "id": 61,
+      "type": "file"
+    },
+    {
+      "name": ".../c/eager/c_api_unified_experimental_graph.cc",
+      "id": 62,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/c/eager/graph_function.cc",
+      "id": 63,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/c/eager/graph_function.h",
+      "id": 64,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/c/eager/unified_api_testutil.cc",
+      "id": 65,
+      "type": "file"
+    },
+    {
+      "name": ".../python/framework/experimental/unified_api.cc",
+      "id": 66,
+      "type": "file"
+    },
+    {
+      "name": "Feng Liu",
+      "id": 67,
+      "type": "author"
+    },
+    {
+      "name": ".../compiler/mlir/lite/tests/modify_io_nodes.mlir",
+      "id": 68,
+      "type": "file"
+    },
+    {
+      "name": ".../mlir/lite/transforms/modify_io_nodes.cc",
+      "id": 69,
+      "type": "file"
+    },
+    {
+      "name": "Berkin Ilbeyi",
+      "id": 70,
+      "type": "author"
+    },
+    {
+      "name": "tensorflow/compiler/xla/service/BUILD",
+      "id": 71,
+      "type": "file"
+    },
+    {
+      "name": ".../xla/service/memory_space_assignment.cc",
+      "id": 72,
+      "type": "file"
+    },
+    {
+      "name": ".../xla/service/memory_space_assignment_test.cc",
+      "id": 73,
+      "type": "file"
+    },
+    {
+      "name": ".../xla/service/memory_space_assignment_utils.cc",
+      "id": 74,
+      "type": "file"
+    },
+    {
+      "name": ".../xla/service/memory_space_assignment_utils.h",
+      "id": 75,
+      "type": "file"
+    },
+    {
+      "name": ".../compiler/xla/service/while_loop_analysis.cc",
+      "id": 76,
+      "type": "file"
+    },
+    {
+      "name": ".../service/while_loop_invariant_code_motion.cc",
+      "id": 77,
+      "type": "file"
+    },
+    {
+      "name": "Mingming Liu",
+      "id": 78,
+      "type": "author"
+    },
+    {
+      "name": "tensorflow/core/kernels/batch_kernels.cc",
+      "id": 79,
+      "type": "file"
+    },
+    {
+      "name": ".../batching_util/adaptive_shared_batch_scheduler.h",
+      "id": 80,
+      "type": "file"
+    },
+    {
+      "name": "RELEASE.md",
+      "id": 81,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/python/kernel_tests/BUILD",
+      "id": 82,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/python/kernel_tests/linalg_ops_test.py",
+      "id": 83,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/python/ops/linalg/linalg_impl.py",
+      "id": 84,
+      "type": "file"
+    },
+    {
+      "name": ".../tools/api/golden/v1/tensorflow.linalg.pbtxt",
+      "id": 85,
+      "type": "file"
+    },
+    {
+      "name": ".../tools/api/golden/v2/tensorflow.linalg.pbtxt",
+      "id": 86,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/python/framework/auto_control_deps.py",
+      "id": 87,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/python/ops/control_flow_ops_test.py",
+      "id": 88,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/python/ops/while_v2.py",
+      "id": 89,
+      "type": "file"
+    },
+    {
+      "name": "Rajkumar Samuel",
+      "id": 90,
+      "type": "author"
+    },
+    {
+      "name": "Roman Dzhabarov",
+      "id": 91,
+      "type": "author"
+    },
+    {
+      "name": ".../tests/tpu_extract_outside_compilation.mlir",
+      "id": 92,
+      "type": "file"
+    },
+    {
+      "name": ".../transforms/tpu_extract_outside_compilation.cc",
+      "id": 93,
+      "type": "file"
+    },
+    {
+      "name": "Tatiana Shpeisman",
+      "id": 94,
+      "type": "author"
+    },
+    {
+      "name": ".../transforms/cluster_ops_by_policy_pass.cc",
+      "id": 95,
+      "type": "file"
+    },
+    {
+      "name": "Rahul Joshi",
+      "id": 96,
+      "type": "author"
+    },
+    {
+      "name": ".../compiler/xla/service/spmd/spmd_partitioner.cc",
+      "id": 97,
+      "type": "file"
+    },
+    {
+      "name": ".../xla/service/spmd/spmd_partitioner_test.cc",
+      "id": 98,
+      "type": "file"
+    },
+    {
+      "name": ".../xla/service/spmd/spmd_partitioner_util.cc",
+      "id": 99,
+      "type": "file"
+    },
+    {
+      "name": ".../xla/service/spmd/spmd_partitioner_util.h",
+      "id": 100,
+      "type": "file"
+    },
+    {
+      "name": "Dan Moldovan",
+      "id": 101,
+      "type": "author"
+    },
+    {
+      "name": "Smit Hinsu",
+      "id": 102,
+      "type": "author"
+    },
+    {
+      "name": "tensorflow/python/keras/distribute/custom_training_loop_metrics_test.py",
+      "id": 103,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/python/keras/integration_test/tpu_strategy_test.py",
+      "id": 104,
+      "type": "file"
+    },
+    {
+      "name": "Benjamin Kramer",
+      "id": 105,
+      "type": "author"
+    },
+    {
+      "name": ".../compiler/mlir/tools/kernel_gen/tests/bufferize.mlir",
+      "id": 106,
+      "type": "file"
+    },
+    {
+      "name": ".../mlir/tools/kernel_gen/transforms/bufferize_pass.cc",
+      "id": 107,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/xla/client/lib/self_adjoint_eig.cc",
+      "id": 108,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/xla/client/lib/self_adjoint_eig.h",
+      "id": 109,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/xla/python/ops.cc",
+      "id": 110,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/xla/python/xla_client.py",
+      "id": 111,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/xla/python/xla_extension/ops.pyi",
+      "id": 112,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/xla/service/eigh_expander.cc",
+      "id": 113,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/xla/service/eigh_expander.h",
+      "id": 114,
+      "type": "file"
+    },
+    {
+      "name": "Stephan Herhut",
+      "id": 115,
+      "type": "author"
+    },
+    {
+      "name": "tensorflow/compiler/xla/client/lib/self_adjoint_eig_test.cc",
+      "id": 116,
+      "type": "file"
+    },
+    {
+      "name": "Marvin Kim",
+      "id": 117,
+      "type": "author"
+    },
+    {
+      "name": ".../python/framework/convert_to_constants.py",
+      "id": 118,
+      "type": "file"
+    },
+    {
+      "name": ".../python/framework/convert_to_constants_test.py",
+      "id": 119,
+      "type": "file"
+    },
+    {
+      "name": "Tian Lin",
+      "id": 120,
+      "type": "author"
+    },
+    {
+      "name": "tensorflow/lite/g3doc/_book.yaml",
+      "id": 121,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/lite/g3doc/api_docs/index.md",
+      "id": 122,
+      "type": "file"
+    },
+    {
+      "name": "Alex Zinenko",
+      "id": 123,
+      "type": "author"
+    },
+    {
+      "name": "Jinliang Wei",
+      "id": 124,
+      "type": "author"
+    },
+    {
+      "name": "tensorflow/compiler/xla/client/xla_builder.cc",
+      "id": 125,
+      "type": "file"
+    },
+    {
+      "name": ".../compiler/xla/service/hlo_dataflow_analysis.cc",
+      "id": 126,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/xla/service/hlo_instruction.cc",
+      "id": 127,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/xla/service/hlo_instruction.h",
+      "id": 128,
+      "type": "file"
+    },
+    {
+      "name": ".../compiler/xla/service/hlo_instructions.cc",
+      "id": 129,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/xla/service/hlo_instructions.h",
+      "id": 130,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/xla/service/hlo_opcode.h",
+      "id": 131,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/xla/service/hlo_opcode_test.cc",
+      "id": 132,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/xla/service/hlo_parser.cc",
+      "id": 133,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/xla/service/hlo_parser_test.cc",
+      "id": 134,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/xla/service/hlo_verifier.cc",
+      "id": 135,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/xla/service/shape_inference.cc",
+      "id": 136,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/xla/service/shape_inference.h",
+      "id": 137,
+      "type": "file"
+    },
+    {
+      "name": "Raman Sarokin",
+      "id": 138,
+      "type": "author"
+    },
+    {
+      "name": ".../gpu/common/testing/tflite_model_reader.cc",
+      "id": 139,
+      "type": "file"
+    },
+    {
+      "name": "Thai Nguyen",
+      "id": 140,
+      "type": "author"
+    },
+    {
+      "name": "tensorflow/lite/python/BUILD",
+      "id": 141,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/lite/python/metrics_nonportable.py",
+      "id": 142,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/lite/python/metrics_portable.py",
+      "id": 143,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/lite/python/metrics_wrapper/BUILD",
+      "id": 144,
+      "type": "file"
+    },
+    {
+      "name": ".../lite/python/metrics_wrapper/metrics_wrapper.h",
+      "id": 145,
+      "type": "file"
+    },
+    {
+      "name": ".../metrics_wrapper/metrics_wrapper_nonportable.cc",
+      "id": 146,
+      "type": "file"
+    },
+    {
+      "name": ".../metrics_wrapper/metrics_wrapper_portable.cc",
+      "id": 147,
+      "type": "file"
+    },
+    {
+      "name": ".../metrics_wrapper/metrics_wrapper_pybind11.cc",
+      "id": 148,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/stream_executor/stream.h",
+      "id": 149,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/lite/python/analyzer.py",
+      "id": 150,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/lite/tools/visualize.py",
+      "id": 151,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/lite/tools/visualize_test.py",
+      "id": 152,
+      "type": "file"
+    },
+    {
+      "name": "Terry Heo",
+      "id": 153,
+      "type": "author"
+    },
+    {
+      "name": "Marat Dukhan",
+      "id": 154,
+      "type": "author"
+    },
+    {
+      "name": "tensorflow/lite/delegates/xnnpack/xnnpack_delegate.cc",
+      "id": 155,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/python/keras/callbacks.py",
+      "id": 156,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/mlir/hlo/tests/lhlo_ops.mlir",
+      "id": 157,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/core/kernels/data/BUILD",
+      "id": 158,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/core/kernels/data/iterator_ops.cc",
+      "id": 159,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/core/kernels/data/reduce_dataset_op.cc",
+      "id": 160,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/core/kernels/data/reduce_dataset_op.h",
+      "id": 161,
+      "type": "file"
+    },
+    {
+      "name": "Mihai Maruseac",
+      "id": 162,
+      "type": "author"
+    },
+    {
+      "name": "tensorflow/core/kernels/fused_batch_norm_op.cc",
+      "id": 163,
+      "type": "file"
+    },
+    {
+      "name": "Qiao Zhang",
+      "id": 164,
+      "type": "author"
+    },
+    {
+      "name": "tensorflow/stream_executor/cuda/cuda_11_0.inc",
+      "id": 165,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/xla/service/gpu/gemm_thunk.cc",
+      "id": 166,
+      "type": "file"
+    },
+    {
+      "name": "Haoliang Zhang",
+      "id": 167,
+      "type": "author"
+    },
+    {
+      "name": "tensorflow/lite/delegates/flex/delegate_data.cc",
+      "id": 168,
+      "type": "file"
+    },
+    {
+      "name": ".../lite/delegates/flex/delegate_data_test.cc",
+      "id": 169,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/stream_executor/blas.h",
+      "id": 170,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/stream_executor/cuda/cuda_blas.h",
+      "id": 171,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/stream_executor/rocm/rocm_blas.cc",
+      "id": 172,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/stream_executor/rocm/rocm_blas.h",
+      "id": 173,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/core/kernels/sparse_split_op.cc",
+      "id": 174,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/core/kernels/conv_grad_filter_ops.cc",
+      "id": 175,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/core/kernels/conv_grad_input_ops.cc",
+      "id": 176,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/core/kernels/conv_grad_ops_3d.cc",
+      "id": 177,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/core/kernels/conv_ops.cc",
+      "id": 178,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/core/kernels/conv_ops_3d.cc",
+      "id": 179,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/core/kernels/matmul_op_impl.h",
+      "id": 180,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/core/kernels/rnn/blas_gemm.cc",
+      "id": 181,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/stream_executor/cuda/cuda_dnn.cc",
+      "id": 182,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/stream_executor/rocm/rocm_dnn.cc",
+      "id": 183,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/stream_executor/stream.cc",
+      "id": 184,
+      "type": "file"
+    },
+    {
+      "name": ".../mlir/xla/transforms/mhlo_to_lhlo_with_xla.cc",
+      "id": 185,
+      "type": "file"
+    },
+    {
+      "name": ".../compiler/xla/service/gpu/gpu_compiler.cc",
+      "id": 186,
+      "type": "file"
+    },
+    {
+      "name": ".../compiler/xla/service/gpu/ir_emission_utils.cc",
+      "id": 187,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/core/kernels/dequantize_op.cc",
+      "id": 188,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/core/framework/resource_op_kernel.h",
+      "id": 189,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/core/kernels/ctc_decoder_ops.cc",
+      "id": 190,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/core/kernels/maxpooling_op.cc",
+      "id": 191,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/xla/client/lib/BUILD",
+      "id": 192,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/core/kernels/fractional_avg_pool_op.cc",
+      "id": 193,
+      "type": "file"
+    },
+    {
+      "name": "Jing Pu",
+      "id": 194,
+      "type": "author"
+    },
+    {
+      "name": "tensorflow/compiler/mlir/lite/ir/tfl_ops.cc",
+      "id": 195,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/mlir/lite/ir/tfl_ops.td",
+      "id": 196,
+      "type": "file"
+    },
+    {
+      "name": ".../compiler/mlir/lite/tests/const-fold.mlir",
+      "id": 197,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/compiler/mlir/lite/tests/quantize.mlir",
+      "id": 198,
+      "type": "file"
+    },
+    {
+      "name": "Allen Lavoie",
+      "id": 199,
+      "type": "author"
+    },
+    {
+      "name": "tensorflow/python/eager/function_test.py",
+      "id": 200,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/python/tfe_wrapper.cc",
+      "id": 201,
+      "type": "file"
+    },
+    {
+      "name": "Reed Wanderman-Milne",
+      "id": 202,
+      "type": "author"
+    },
+    {
+      "name": "tensorflow/stream_executor/cuda/cusparse_11_0.inc",
+      "id": 203,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/go/op/wrappers.go",
+      "id": 204,
+      "type": "file"
+    },
+    {
+      "name": "Yang Chen",
+      "id": 205,
+      "type": "author"
+    },
+    {
+      "name": ".../core/kernels/data/experimental/snapshot_dataset_op.cc",
+      "id": 206,
+      "type": "file"
+    },
+    {
+      "name": ".../data/experimental/kernel_tests/snapshot_test.py",
+      "id": 207,
+      "type": "file"
+    },
+    {
+      "name": "tensorflow/core/kernels/linalg/tridiagonal_solve_op_gpu.cu.cc",
+      "id": 208,
+      "type": "file"
+    },
+    {
+      "name": "Daniel Speckhard",
+      "id": 209,
+      "type": "author"
+    },
+    {
+      "name": "tensorflow/python/saved_model/save.py",
+      "id": 210,
+      "type": "file"
+    },
+    {
+      "name": ".../mlir/hlo/include/mlir-hlo/Dialect/mhlo/IR/lhlo_ops.td",
+      "id": 211,
+      "type": "file"
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "weight": 4
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "weight": 4
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "weight": 4
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "weight": 20
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "weight": 4
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "weight": 10
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "weight": 4
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "weight": 4
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "weight": 2
+    },
+    {
+      "source": 0,
+      "target": 9,
+      "weight": 2
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "weight": 4
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "weight": 10
+    },
+    {
+      "source": 10,
+      "target": 12,
+      "weight": 184
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "weight": 3
+    },
+    {
+      "source": 13,
+      "target": 15,
+      "weight": 11
+    },
+    {
+      "source": 0,
+      "target": 16,
+      "weight": 13
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "weight": 2
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "weight": 4
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "weight": 28
+    },
+    {
+      "source": 19,
+      "target": 21,
+      "weight": 191
+    },
+    {
+      "source": 19,
+      "target": 22,
+      "weight": 78
+    },
+    {
+      "source": 19,
+      "target": 23,
+      "weight": 45
+    },
+    {
+      "source": 19,
+      "target": 24,
+      "weight": 9
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "weight": 4
+    },
+    {
+      "source": 0,
+      "target": 16,
+      "weight": 13
+    },
+    {
+      "source": 25,
+      "target": 26,
+      "weight": 3
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "weight": 254
+    },
+    {
+      "source": 27,
+      "target": 29,
+      "weight": 4
+    },
+    {
+      "source": 30,
+      "target": 2,
+      "weight": 5
+    },
+    {
+      "source": 31,
+      "target": 32,
+      "weight": 19
+    },
+    {
+      "source": 33,
+      "target": 34,
+      "weight": 1
+    },
+    {
+      "source": 33,
+      "target": 35,
+      "weight": 38
+    },
+    {
+      "source": 33,
+      "target": 36,
+      "weight": 74
+    },
+    {
+      "source": 33,
+      "target": 37,
+      "weight": 9
+    },
+    {
+      "source": 33,
+      "target": 38,
+      "weight": 464
+    },
+    {
+      "source": 33,
+      "target": 39,
+      "weight": 134
+    },
+    {
+      "source": 33,
+      "target": 40,
+      "weight": 46
+    },
+    {
+      "source": 33,
+      "target": 41,
+      "weight": 70
+    },
+    {
+      "source": 33,
+      "target": 42,
+      "weight": 6
+    },
+    {
+      "source": 33,
+      "target": 43,
+      "weight": 47
+    },
+    {
+      "source": 33,
+      "target": 44,
+      "weight": 75
+    },
+    {
+      "source": 45,
+      "target": 46,
+      "weight": 21
+    },
+    {
+      "source": 45,
+      "target": 47,
+      "weight": 16
+    },
+    {
+      "source": 25,
+      "target": 48,
+      "weight": 20
+    },
+    {
+      "source": 25,
+      "target": 49,
+      "weight": 12
+    },
+    {
+      "source": 50,
+      "target": 51,
+      "weight": 2
+    },
+    {
+      "source": 52,
+      "target": 53,
+      "weight": 22
+    },
+    {
+      "source": 50,
+      "target": 51,
+      "weight": 34
+    },
+    {
+      "source": 54,
+      "target": 55,
+      "weight": 4
+    },
+    {
+      "source": 56,
+      "target": 57,
+      "weight": 2
+    },
+    {
+      "source": 17,
+      "target": 58,
+      "weight": 3
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "weight": 80
+    },
+    {
+      "source": 59,
+      "target": 60,
+      "weight": 20
+    },
+    {
+      "source": 59,
+      "target": 61,
+      "weight": 4
+    },
+    {
+      "source": 59,
+      "target": 62,
+      "weight": 34
+    },
+    {
+      "source": 59,
+      "target": 63,
+      "weight": 29
+    },
+    {
+      "source": 59,
+      "target": 64,
+      "weight": 45
+    },
+    {
+      "source": 59,
+      "target": 65,
+      "weight": 2
+    },
+    {
+      "source": 59,
+      "target": 66,
+      "weight": 5
+    },
+    {
+      "source": 67,
+      "target": 68,
+      "weight": 52
+    },
+    {
+      "source": 67,
+      "target": 69,
+      "weight": 4
+    },
+    {
+      "source": 70,
+      "target": 71,
+      "weight": 2
+    },
+    {
+      "source": 70,
+      "target": 72,
+      "weight": 32
+    },
+    {
+      "source": 70,
+      "target": 73,
+      "weight": 66
+    },
+    {
+      "source": 70,
+      "target": 74,
+      "weight": 24
+    },
+    {
+      "source": 70,
+      "target": 75,
+      "weight": 4
+    },
+    {
+      "source": 70,
+      "target": 76,
+      "weight": 4
+    },
+    {
+      "source": 70,
+      "target": 77,
+      "weight": 13
+    },
+    {
+      "source": 78,
+      "target": 79,
+      "weight": 11
+    },
+    {
+      "source": 78,
+      "target": 80,
+      "weight": 21
+    },
+    {
+      "source": 0,
+      "target": 81,
+      "weight": 6
+    },
+    {
+      "source": 0,
+      "target": 82,
+      "weight": 1
+    },
+    {
+      "source": 0,
+      "target": 83,
+      "weight": 102
+    },
+    {
+      "source": 0,
+      "target": 84,
+      "weight": 225
+    },
+    {
+      "source": 0,
+      "target": 85,
+      "weight": 4
+    },
+    {
+      "source": 0,
+      "target": 86,
+      "weight": 4
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "weight": 4
+    },
+    {
+      "source": 0,
+      "target": 87,
+      "weight": 6
+    },
+    {
+      "source": 0,
+      "target": 88,
+      "weight": 11
+    },
+    {
+      "source": 0,
+      "target": 89,
+      "weight": 3
+    },
+    {
+      "source": 90,
+      "target": 46,
+      "weight": 21
+    },
+    {
+      "source": 90,
+      "target": 47,
+      "weight": 16
+    },
+    {
+      "source": 91,
+      "target": 92,
+      "weight": 2
+    },
+    {
+      "source": 91,
+      "target": 93,
+      "weight": 48
+    },
+    {
+      "source": 94,
+      "target": 95,
+      "weight": 37
+    },
+    {
+      "source": 96,
+      "target": 97,
+      "weight": 19
+    },
+    {
+      "source": 96,
+      "target": 98,
+      "weight": 74
+    },
+    {
+      "source": 96,
+      "target": 99,
+      "weight": 24
+    },
+    {
+      "source": 96,
+      "target": 100,
+      "weight": 2
+    },
+    {
+      "source": 101,
+      "target": 87,
+      "weight": 6
+    },
+    {
+      "source": 101,
+      "target": 88,
+      "weight": 11
+    },
+    {
+      "source": 101,
+      "target": 89,
+      "weight": 3
+    },
+    {
+      "source": 102,
+      "target": 103,
+      "weight": 2
+    },
+    {
+      "source": 102,
+      "target": 104,
+      "weight": 2
+    },
+    {
+      "source": 105,
+      "target": 106,
+      "weight": 12
+    },
+    {
+      "source": 105,
+      "target": 107,
+      "weight": 1
+    },
+    {
+      "source": 56,
+      "target": 108,
+      "weight": 4
+    },
+    {
+      "source": 56,
+      "target": 109,
+      "weight": 3
+    },
+    {
+      "source": 56,
+      "target": 32,
+      "weight": 17
+    },
+    {
+      "source": 56,
+      "target": 110,
+      "weight": 9
+    },
+    {
+      "source": 56,
+      "target": 111,
+      "weight": 2
+    },
+    {
+      "source": 56,
+      "target": 112,
+      "weight": 3
+    },
+    {
+      "source": 56,
+      "target": 113,
+      "weight": 17
+    },
+    {
+      "source": 56,
+      "target": 114,
+      "weight": 3
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "weight": 4
+    },
+    {
+      "source": 115,
+      "target": 7,
+      "weight": 4
+    },
+    {
+      "source": 56,
+      "target": 116,
+      "weight": 8
+    },
+    {
+      "source": 117,
+      "target": 118,
+      "weight": 2
+    },
+    {
+      "source": 117,
+      "target": 119,
+      "weight": 67
+    },
+    {
+      "source": 120,
+      "target": 121,
+      "weight": 1
+    },
+    {
+      "source": 120,
+      "target": 122,
+      "weight": 4
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "weight": 4
+    },
+    {
+      "source": 115,
+      "target": 7,
+      "weight": 4
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "weight": 4
+    },
+    {
+      "source": 123,
+      "target": 2,
+      "weight": 16
+    },
+    {
+      "source": 123,
+      "target": 2,
+      "weight": 58
+    },
+    {
+      "source": 0,
+      "target": 9,
+      "weight": 2
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "weight": 2
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "weight": 4
+    },
+    {
+      "source": 115,
+      "target": 7,
+      "weight": 4
+    },
+    {
+      "source": 124,
+      "target": 125,
+      "weight": 2
+    },
+    {
+      "source": 124,
+      "target": 126,
+      "weight": 31
+    },
+    {
+      "source": 124,
+      "target": 127,
+      "weight": 107
+    },
+    {
+      "source": 124,
+      "target": 128,
+      "weight": 25
+    },
+    {
+      "source": 124,
+      "target": 129,
+      "weight": 65
+    },
+    {
+      "source": 124,
+      "target": 130,
+      "weight": 21
+    },
+    {
+      "source": 124,
+      "target": 131,
+      "weight": 216
+    },
+    {
+      "source": 124,
+      "target": 132,
+      "weight": 2
+    },
+    {
+      "source": 124,
+      "target": 133,
+      "weight": 58
+    },
+    {
+      "source": 124,
+      "target": 134,
+      "weight": 66
+    },
+    {
+      "source": 124,
+      "target": 135,
+      "weight": 20
+    },
+    {
+      "source": 124,
+      "target": 136,
+      "weight": 39
+    },
+    {
+      "source": 124,
+      "target": 137,
+      "weight": 11
+    },
+    {
+      "source": 138,
+      "target": 139,
+      "weight": 39
+    },
+    {
+      "source": 140,
+      "target": 141,
+      "weight": 2
+    },
+    {
+      "source": 140,
+      "target": 28,
+      "weight": 9
+    },
+    {
+      "source": 140,
+      "target": 142,
+      "weight": 26
+    },
+    {
+      "source": 140,
+      "target": 29,
+      "weight": 54
+    },
+    {
+      "source": 140,
+      "target": 143,
+      "weight": 12
+    },
+    {
+      "source": 140,
+      "target": 144,
+      "weight": 40
+    },
+    {
+      "source": 140,
+      "target": 145,
+      "weight": 58
+    },
+    {
+      "source": 140,
+      "target": 146,
+      "weight": 62
+    },
+    {
+      "source": 140,
+      "target": 147,
+      "weight": 59
+    },
+    {
+      "source": 140,
+      "target": 148,
+      "weight": 42
+    },
+    {
+      "source": 52,
+      "target": 149,
+      "weight": 21
+    },
+    {
+      "source": 0,
+      "target": 141,
+      "weight": 12
+    },
+    {
+      "source": 0,
+      "target": 150,
+      "weight": 70
+    },
+    {
+      "source": 0,
+      "target": 151,
+      "weight": 22
+    },
+    {
+      "source": 0,
+      "target": 152,
+      "weight": 6
+    },
+    {
+      "source": 153,
+      "target": 141,
+      "weight": 12
+    },
+    {
+      "source": 153,
+      "target": 150,
+      "weight": 70
+    },
+    {
+      "source": 153,
+      "target": 151,
+      "weight": 22
+    },
+    {
+      "source": 153,
+      "target": 152,
+      "weight": 6
+    },
+    {
+      "source": 154,
+      "target": 155,
+      "weight": 8
+    },
+    {
+      "source": 0,
+      "target": 156,
+      "weight": 6
+    },
+    {
+      "source": 96,
+      "target": 157,
+      "weight": 4
+    },
+    {
+      "source": 3,
+      "target": 34,
+      "weight": 2
+    },
+    {
+      "source": 3,
+      "target": 158,
+      "weight": 21
+    },
+    {
+      "source": 3,
+      "target": 159,
+      "weight": 110
+    },
+    {
+      "source": 3,
+      "target": 160,
+      "weight": 138
+    },
+    {
+      "source": 3,
+      "target": 161,
+      "weight": 43
+    },
+    {
+      "source": 52,
+      "target": 149,
+      "weight": 4
+    },
+    {
+      "source": 162,
+      "target": 163,
+      "weight": 28
+    },
+    {
+      "source": 164,
+      "target": 165,
+      "weight": 8
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "weight": 4
+    },
+    {
+      "source": 52,
+      "target": 166,
+      "weight": 62
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "weight": 4
+    },
+    {
+      "source": 167,
+      "target": 168,
+      "weight": 4
+    },
+    {
+      "source": 167,
+      "target": 169,
+      "weight": 33
+    },
+    {
+      "source": 52,
+      "target": 166,
+      "weight": 4
+    },
+    {
+      "source": 52,
+      "target": 170,
+      "weight": 107
+    },
+    {
+      "source": 52,
+      "target": 53,
+      "weight": 215
+    },
+    {
+      "source": 52,
+      "target": 171,
+      "weight": 10
+    },
+    {
+      "source": 52,
+      "target": 172,
+      "weight": 96
+    },
+    {
+      "source": 52,
+      "target": 173,
+      "weight": 15
+    },
+    {
+      "source": 52,
+      "target": 149,
+      "weight": 25
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "weight": 4
+    },
+    {
+      "source": 162,
+      "target": 174,
+      "weight": 13
+    },
+    {
+      "source": 52,
+      "target": 166,
+      "weight": 37
+    },
+    {
+      "source": 52,
+      "target": 175,
+      "weight": 8
+    },
+    {
+      "source": 52,
+      "target": 176,
+      "weight": 8
+    },
+    {
+      "source": 52,
+      "target": 177,
+      "weight": 16
+    },
+    {
+      "source": 52,
+      "target": 178,
+      "weight": 8
+    },
+    {
+      "source": 52,
+      "target": 179,
+      "weight": 8
+    },
+    {
+      "source": 52,
+      "target": 180,
+      "weight": 14
+    },
+    {
+      "source": 52,
+      "target": 181,
+      "weight": 5
+    },
+    {
+      "source": 52,
+      "target": 170,
+      "weight": 74
+    },
+    {
+      "source": 52,
+      "target": 53,
+      "weight": 267
+    },
+    {
+      "source": 52,
+      "target": 171,
+      "weight": 9
+    },
+    {
+      "source": 52,
+      "target": 182,
+      "weight": 6
+    },
+    {
+      "source": 52,
+      "target": 172,
+      "weight": 230
+    },
+    {
+      "source": 52,
+      "target": 173,
+      "weight": 10
+    },
+    {
+      "source": 52,
+      "target": 183,
+      "weight": 6
+    },
+    {
+      "source": 52,
+      "target": 184,
+      "weight": 95
+    },
+    {
+      "source": 52,
+      "target": 149,
+      "weight": 93
+    },
+    {
+      "source": 96,
+      "target": 185,
+      "weight": 68
+    },
+    {
+      "source": 96,
+      "target": 186,
+      "weight": 2
+    },
+    {
+      "source": 96,
+      "target": 187,
+      "weight": 73
+    },
+    {
+      "source": 162,
+      "target": 188,
+      "weight": 12
+    },
+    {
+      "source": 0,
+      "target": 60,
+      "weight": 20
+    },
+    {
+      "source": 0,
+      "target": 61,
+      "weight": 4
+    },
+    {
+      "source": 0,
+      "target": 62,
+      "weight": 34
+    },
+    {
+      "source": 0,
+      "target": 63,
+      "weight": 29
+    },
+    {
+      "source": 0,
+      "target": 64,
+      "weight": 45
+    },
+    {
+      "source": 0,
+      "target": 66,
+      "weight": 5
+    },
+    {
+      "source": 0,
+      "target": 189,
+      "weight": 11
+    },
+    {
+      "source": 162,
+      "target": 190,
+      "weight": 3
+    },
+    {
+      "source": 162,
+      "target": 191,
+      "weight": 4
+    },
+    {
+      "source": 56,
+      "target": 192,
+      "weight": 1
+    },
+    {
+      "source": 56,
+      "target": 116,
+      "weight": 3
+    },
+    {
+      "source": 56,
+      "target": 113,
+      "weight": 13
+    },
+    {
+      "source": 56,
+      "target": 114,
+      "weight": 2
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "weight": 4
+    },
+    {
+      "source": 162,
+      "target": 193,
+      "weight": 13
+    },
+    {
+      "source": 194,
+      "target": 195,
+      "weight": 23
+    },
+    {
+      "source": 194,
+      "target": 196,
+      "weight": 2
+    },
+    {
+      "source": 194,
+      "target": 197,
+      "weight": 16
+    },
+    {
+      "source": 194,
+      "target": 198,
+      "weight": 28
+    },
+    {
+      "source": 59,
+      "target": 60,
+      "weight": 20
+    },
+    {
+      "source": 59,
+      "target": 61,
+      "weight": 4
+    },
+    {
+      "source": 59,
+      "target": 62,
+      "weight": 34
+    },
+    {
+      "source": 59,
+      "target": 63,
+      "weight": 29
+    },
+    {
+      "source": 59,
+      "target": 64,
+      "weight": 45
+    },
+    {
+      "source": 59,
+      "target": 66,
+      "weight": 5
+    },
+    {
+      "source": 199,
+      "target": 200,
+      "weight": 11
+    },
+    {
+      "source": 199,
+      "target": 201,
+      "weight": 15
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "weight": 4
+    },
+    {
+      "source": 202,
+      "target": 203,
+      "weight": 4
+    },
+    {
+      "source": 0,
+      "target": 204,
+      "weight": 110
+    },
+    {
+      "source": 205,
+      "target": 206,
+      "weight": 15
+    },
+    {
+      "source": 205,
+      "target": 207,
+      "weight": 13
+    },
+    {
+      "source": 0,
+      "target": 208,
+      "weight": 10
+    },
+    {
+      "source": 209,
+      "target": 210,
+      "weight": 4
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "weight": 4
+    },
+    {
+      "source": 96,
+      "target": 211,
+      "weight": 6
+    },
+    {
+      "source": 96,
+      "target": 157,
+      "weight": 10
+    }
+  ]
+}
