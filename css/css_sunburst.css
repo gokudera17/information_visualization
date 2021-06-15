@@ -1,4 +1,5 @@
 #sunburst-breadcrumbs {
+  margin-left: 300px;
   width: 600px;
   height: 70px;
 }
@@ -56,7 +57,12 @@ body {
 }
 
 #sidebar {
+  margin-right: 300px;
   float: right;
   width: 100px;
   padding: 10px;
+}
+
+.pd-sunburst-top{
+  margin-top: 700px;
 }

@@ -1,0 +1,199 @@
+/* html */
+.center_word {
+    font-weight: bold;
+    text-align: center;
+    color: #453246;
+}
+
+.word {
+    border: 5px solid #E3E4E0;
+    border-radius: 10px;
+    align: center;
+    width: 65%;
+    background-color: #E3E4E0;
+}
+
+.left_word {
+    font-size: 22.5px;
+    font-weight: bold;
+    text-align: left;
+    color: #453246;
+    width: 95%;
+}
+
+.left__word {
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+    color: #453246;
+    width: 85%;
+}
+
+.null {
+    background: #000000;
+    opacity: 0;
+}
+
+
+/* js */
+
+.svg_1 {
+    background-color: #EAE6DF;
+    border-radius: 20px;
+}
+
+.tag {
+    position: absolute;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: left;
+    color: #453246;
+    width: 81px;
+    height: 210px;
+}
+
+.tag_word {
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+    fill: #453246;
+}
+
+.category_tag_color {
+    height: 15px;
+    width: 15px;
+    fill: #9d2503;
+    stroke: #453246;
+}
+
+.side_tag_color {
+    height: 15px;
+    width: 15px;
+    fill: #df8543;
+    stroke: #453246;
+}
+
+.role_tag_color {
+    height: 15px;
+    width: 15px;
+    fill: #fdf1d6;
+    stroke: #453246;
+}
+
+.tooltip {
+    position: absolute;
+    font-size: 15px;
+    font-family: times;
+    font-weight: bold;
+    text-align: left;
+    color: #453246;
+    background: #eae7d9;
+    width: 155px;
+    height: 105px;
+    padding: 10px;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}
+
+.tooltip2 {
+    position: absolute;
+    font-size: 16px;
+    font-family: times;
+    font-weight: bold;
+    text-align: left;
+    color: #453246;
+    background: #eae7d9;
+    width: 185px;
+    height: 210px;
+    padding: 10px;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}
+
+.tooltip3 {
+    position: absolute;
+    font-size: 8px;
+    font-family: Lucida Console;
+    font-weight: bold;
+    text-align: center;
+    background: #F6F5F0;
+    width: 85px;
+    height: 40px;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+
+div.tooltip_2 {
+    position: absolute;
+    text-align: center;
+    color: "black";
+    width: 235px;
+    height: 40px;
+    padding: 2px;
+    font: 13px sans-serif;
+    background: rgb(255, 255, 255);
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}
+
+.node {
+    cursor: pointer;
+}
+
+.node:hover {
+    stroke: #453246;
+    stroke-width: 3px;
+}
+
+.label {
+    text-anchor: middle;
+    font-size: 18px;
+    font-weight: bold;
+    fill: #453246;
+    stroke: #F6F5F0;
+    stroke-width: 0.20px;
+}
+
+.label2 {
+    text-anchor: middle;
+    font-size: 15px;
+    font-weight: bold;
+    fill: #453246;
+    stroke: #F6F5F0;
+    stroke-width: 0.20px;
+}
+
+.label,
+.label2,
+.node--root,
+.node--leaf {
+    pointer-events: none;
+}
+
+.text_p {
+    display: block;
+    padding: 5px;
+    width: 65%;
+    margin: 10px auto;
+    background-color: #f2f2f2;
+    font-size: 18px;
+}
+
+.text_title {
+    font-size: 28px;
+    color: #453246;
+    font-weight: bold;
+}
+
+.svg-container {
+    background-color: #F6F5F0;
+    position: relative;
+    width: 95%;
+    font-family: "Lucida Console";
+    vertical-align: top;
+    overflow: hidden;
+}

@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title>爽吃免費壽司小心體重「同鮭魚盡」！營養師：生魚片熱量爆高兩倍</title>
+    <link rel=stylesheet href="../css/index.css">
+    <link rel="stylesheet" type="text/css" href="../css/css_sunburst.css"/>
+    <script src="https://d3js.org/d3.v6.js"></script>
+    <script src="../js/js_sunburst.js" type="text/javascript"></script>
+</head>
+
+<body style="background-color:#F6F5F0">
+
+<div class="center_word">
+    <h1><b>爽吃免費壽司小心體重「同鮭魚盡」！營養師：生魚片熱量爆高兩倍<b></h1>
+    <h4>新聞發佈日期：2021/03/18 15:09 &emsp;&emsp;&emsp;<span>新聞網址：<a
+            href="https://food.ltn.com.tw/article/11330">自由時報</a></span></h4>
+    <p align="left" class="text_p">
+        日本迴轉壽司連鎖店推出姓名中有「鮭魚」同音同字者即享免費的優惠，在近期掀起一陣改名潮。營養師就整理國人最喜愛的握壽司、生魚片等熱量表，提醒民眾酌量取食比較健康。<br><br>
+        以下為改良後的三張視覺化圖表：
+    </p>
+</div>
+<br/>
+<br/>
+
+<div class="chart" align="center">
+    <h3 class="text_title">1. Top 100 PR占比圖</h3>
+</div>
+
+<div id="sunburst">
+    <div id="main">
+        <div id="sunburst-breadcrumbs"></div>
+        <div id="sunburst-chart">
+            <div id="sunburst-description"></div>
+        </div>
+    </div>
+    <div id="sidebar">
+        <input type="checkbox" id="togglelegend"> Legend<br/>
+        <div id="sunburst-legend" style="visibility: hidden;"></div>
+    </div>
+</div>
+
+<div class="pd-sunburst-top">
+    <p class="center_word">資料來源：<a href="https://www.instagram.com/learneating/?utm_source=ig_embed">好食課</a></p>
+</div>
+
+
+
+<br>
+<div align="center">
+    <div class="word">
+        <h3 class="left_word">改良分析：</h3>
+        <p class="left__word">
+            原新聞依各種生魚片、壽司的類別以三張相似的圖表展示，並在圖表後以文字方式補充圖表中未顯示的數值資料。本圖表將各種生魚片、壽司的資料以一張圖表進行呈現，提供階層式的資訊視覺化效果，比起原新聞中的三張圖表分別展示更能讓讀者快速了解壽司相關的資料。
+        </p>
+        <h3 class="left_word">設計選擇：</h3>
+        <p class="left__word">
+            1.&emsp;使用圓圈的大小來表示每種營養的多寡，展示不同營養成分之間數量的區別。<br>
+            2.&emsp;將圖中的圓圈分層展示，說明壽司類別的層級關係。<br>
+        </p>
+        <h3 class="left_word">考量相關的經驗法則：</h3>
+        <p class="left__word">
+            1.&emsp;考量 Eyes beat memory<br>&emsp;&emsp;將相同層級的壽司資料以相同顏色置於同一平面上，讓讀者不用依賴記憶去比較不同壽司的營養成分多寡，可以通過簡單的圓圈數量和大小來評判。<br><br>
+            2.&emsp;考量 Change blindness<br>&emsp;&emsp;為了讓讀者可以更好的了s解壽司的詳細資料，在點擊對應的圓圈後，顯示的視角將進一步放大，聚焦於讀者所關注的內容。
+        </p>
+        <div class="null">after</div>
+    </div>
+    <br/>
+    <br/>
+
+    <!--        <hr>-->
+    <!-- 第2張圖表 -->
+    <div>
+        <h3 class="text_title">2. 壽司三大營養素組成比例</h3>
+        <br/>
+        <!-- Create a div where the graph will take place -->
+        <div align="center" class="svg-container"></div>
+    </div>
+
+
+    <br>
+    <p class="center_word">資料來源：<a href="https://www.instagram.com/learneating/?utm_source=ig_embed">好食課</a></p>
+
+    <br>
+    <div align="center">
+        <div class="word">
+            <h3 class="left_word">改良分析：</h3>
+            <p class="left__word">
+                原文中生魚片、握壽司以及軍艦壽司用了三張分開的圖，以Donut圖呈現營養成份，但比例被圖片佔據使得要觀查各項壽司三大營養素之間的差異較難，因此將所有壽司用圓餅圖完整呈現，使讀者能在頁面上清楚理解營養素在各個壽司的占比。
+            </p>
+            <h3 class="left_word">設計選擇：</h3>
+            <p class="left__word">
+                1.&emsp;使用圓餅圖表示三大營養素比例：蛋白質、脂質以及碳水化合物。<br>
+                2.&emsp;將三種類別分開用並排的方式，使用不同顏色凸顯同一類別各種壽司的營養素比例。<br>
+            </p>
+            <h3 class="left_word">考量相關的經驗法則：</h3>
+            <p class="left__word">
+                1.&emsp;考量 Eyes beat memory<br>&emsp;&emsp;同類別的圓餅圖擺成一列 (side-by-side)，讓讀者可以透過顏色面積知道各種壽司項目的比例差異。<br><br>
+                2.&emsp;考量 Change blindness<br>&emsp;&emsp;透過滑鼠移動到圓餅圖上的營養素項目，會有動畫在選取時該營養素的面積放大，並利用Tooltip顯示營養素的實際數字，使讀者清楚知道詳細的營養素內容。
+            </p>
+            <div class="null">after</div>
+        </div>
+        <br/>
+        <br/>
+        <!-- 第3張圖表 -->
+        <div>
+            <h3 class="text_title">3. 熱量總覽圖表</h3>
+            <div id="buttons" align="center">
+                <button onclick="update_all()" onmouseover="this.style.color='blue'"
+                        onmouseout="this.style.color='black'"
+                        style="background-color:white;text-align:center;font-size:20px;border-radius: 5px;border:4px peru double;">
+                    全部
+                </button>
+                <button onclick="update_sasimi()" onmouseover="this.style.color='blue'"
+                        onmouseout="this.style.color='black'"
+                        style="background-color:gold;text-align:center;font-size:20px;border-radius: 5px;border:4px peru double">
+                    生魚片
+                </button>
+                <button onclick="update_sushi()" onmouseover="this.style.color='blue'"
+                        onmouseout="this.style.color='black'"
+                        style="background-color:#FA8072;text-align:center;font-size:20px;border-radius: 5px;border:4px peru double">
+                    握壽司
+                </button>
+                <button onclick="update_salad_sushi()" onmouseover="this.style.color='blue'"
+                        onmouseout="this.style.color='black'"
+                        style="background-color:#F4A460;text-align:center;font-size:20px;border-radius: 5px;border:4px peru double">
+                    軍艦壽司
+                </button>
+            </div>
+            <br/>
+            <!-- Create a div where the graph will take place -->
+            <div id="my_dataviz" align="center"></div>
+        </div>
+
+
+        <br>
+        <p class="center_word">資料來源：<a href="https://www.instagram.com/learneating/?utm_source=ig_embed">好食課</a></p>
+
+        <br>
+        <div align="center">
+            <div class="word">
+                <h3 class="left_word">改良分析：</h3>
+                <p class="left__word">
+                    原新聞依各種生魚片、壽司的類別以圓餅圖展示它們的營養成份，並在圖表後以文字方式補充圖表中未顯示的熱量數值資料。本圖表將壽司的熱量數值資料先轉化消耗相應熱量需要的運動時間(分鐘)，再以一張橫條圖進行呈現，比起原新聞中的只以文字來展示熱量數值資料更能讓讀者快速了解各種生魚片、壽司的熱量與人體健康的關係。
+                </p>
+                <h3 class="left_word">設計選擇：</h3>
+                <p class="left__word">
+                    1.&emsp;使用橫條的長度來表示熱量/消耗相應熱量需要的運動時間的多寡，展示各種生魚片、壽司之間熱量/消耗相應熱量需要的運動時間的區別。<br>
+                    2.&emsp;將代表不同類別生魚片、壽司的橫條以不同顏色展示，讓讀者能夠更快的了解不同類別生魚片、壽司的熱量/消耗相應熱量需要的運動時間的差別。<br>
+                </p>
+                <h3 class="left_word">考量相關的經驗法則：</h3>
+                <p class="left__word">
+                    1.&emsp;考量 Eyes beat memory<br>&emsp;&emsp;將同類別的橫條以相同顏色置於同一平面上，讓讀者不用依賴記憶去比較不同類別生魚片、壽司的熱量/消耗相應熱量需要的運動時間多寡，可以通過簡單的橫條長度來評判。<br><br>
+                    2.&emsp;考量 Change blindness<br>&emsp;&emsp;為了讓讀者可以更好的了解同類別的熱量/消耗相應熱量需要的運動時間的差別，在點擊對應類別的按鈕後，圖表會切換成只有該類別的橫條圖，聚焦於讀者所關注的內容。
+                </p>
+                <div class="null">after</div>
+            </div>
+            <br/>
+            <br/>
+
+
+        </div>
+    </div>
+</div>
+
+<script  type="text/javascript">
+
+    (function () {
+        var sunburst = new Sunburst({
+            colors: {
+
+                "Pull Request": d3.interpolateYlGnBu(0.25),
+                // "Comment": "#7b615c",
+                "Comment": d3.interpolateYlGnBu(0.5),
+                "Commit": d3.interpolateYlGnBu(0.75),
+                // "other": "#a173d1",
+                "Review": d3.interpolateYlGnBu(1)
+            }
+        });
+        // sunburst.loadJson("visit-sequences.json");
+        sunburst.loadJson("../data/data_sunburst.json");
+
+
+        d3.select("#togglelegend").on("click", function () {
+            var legend = d3.select('#sunburst-legend');
+            if (legend.style("visibility") == "hidden") {
+                legend.style("visibility", "");
+            } else {
+                legend.style("visibility", "hidden");
+            }
+        });
+    })();
+</script>
+</body>
+
+
+
+</html>
