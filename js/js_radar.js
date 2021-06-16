@@ -2,7 +2,7 @@ var Js_radar = {
     draw: function(id, d, options) {
         var cfg = {
             radius: 5,
-            w: 600,
+            w: 800,
             h: 600,
             factor: 1,
             factorLegend: .85,
@@ -44,41 +44,42 @@ var Js_radar = {
         var tooltip;
 
         g.append("rect")
-            .attr("x", "250") //300
-            .attr("y", "10")
+            .attr("x", "300") //300
+            .attr("y", "-10")
             .attr("width", "20")
             .attr("height", "20")
             .attr("fill", d3.interpolateYlGnBu(0.3))
 
         g.append("text")
-            .attr("x", "280")
-            .attr("y", "25")
+            .attr("x", "330")
+            .attr("y", "5")
+            .attr("width", "100px")
             .text("Top 1 Author : A. Unique TensorFlower")
             .attr("font-weight", "bold")
 
         g.append("rect")
-            .attr("x", "250") //415
-            .attr("y", "40")
+            .attr("x", "300") //415
+            .attr("y", "20")
             .attr("width", "20")
             .attr("height", "20")
             .attr("fill", d3.interpolateYlGnBu(0.5))
 
         g.append("text")
-            .attr("x", "280")
-            .attr("y", "55")
+            .attr("x", "330")
+            .attr("y", "35")
             .text("Top 2 Author : Gunhan Gulsoy")
             .attr("font-weight", "bold")
 
         g.append("rect")
-            .attr("x", "250") //610
-            .attr("y", "70")
+            .attr("x", "300") //610
+            .attr("y", "50")
             .attr("width", "20")
             .attr("height", "20")
             .attr("fill", d3.interpolateYlGnBu(0.8))
 
         g.append("text")
-            .attr("x", "280")
-            .attr("y", "85")
+            .attr("x", "330")
+            .attr("y", "65")
             .text("Top 3 Author : Peter Hawkins")
             .attr("font-weight", "bold")
 
@@ -111,7 +112,7 @@ var Js_radar = {
                 .attr("y", function(d) { return levelFactor * (1 - cfg.factor * Math.cos(0)); })
                 .attr("class", "legend")
                 .style("font-family", "sans-serif")
-                .style("font-size", "10px")
+                .style("font-size", "12px")
                 .attr("transform", "translate(" + (cfg.w / 2 - levelFactor + cfg.ToRight) + ", " + (cfg.h / 2 - levelFactor) + ")")
                 .attr("fill", "#737373")
                 .text((j + 1) * 15 / cfg.levels);
@@ -138,9 +139,9 @@ var Js_radar = {
             .attr("class", "legend")
             .text(function(d) { return d })
             .style("font-family", "sans-serif")
-            .style("font-size", "11px")
+            .style("font-size", "14px")
             .attr("text-anchor", "middle")
-            .attr("dy", "1.5em")
+            .attr("dy", "1.0em")
             .attr("transform", function(d, i) { return "translate(0, -10)" })
             .attr("x", function(d, i) { return cfg.w / 2 * (1 - cfg.factorLegend * Math.sin(i * cfg.radians / total)) - 60 * Math.sin(i * cfg.radians / total); })
             .attr("y", function(d, i) { return cfg.h / 2 * (1 - Math.cos(i * cfg.radians / total)) - 20 * Math.cos(i * cfg.radians / total); });
@@ -248,7 +249,7 @@ var Js_radar = {
         tooltip = g.append('text')
             .style('opacity', 0)
             .style('font-family', 'sans-serif')
-            .style('font-size', '13px');
+            .style('font-size', '14px');
 
 
     }
