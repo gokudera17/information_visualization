@@ -97,3 +97,16 @@ function draw_network() {
   })
 }
 draw_network()
+
+
+
+// draw box
+// tag
+// svg.append('rect')
+//     .attr("class", "color_tag_1")
+//     .attr("transform", "translate(-380,-280)");
+//
+// svg.append("text")
+//     .attr("class","text_tag")
+//     .attr("transform", "translate(-355,-268)")
+//     .text("實際報到");
