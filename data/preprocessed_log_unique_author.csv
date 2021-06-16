@@ -1,0 +1,3399 @@
+Unique_Author,File_changed,Insertions,Deletions,Issue
+A. Unique TensorFlower,118992,7560883,5726547,108
+Jiri Simsa,5257,107393,77224,4
+Chao Mei,829,13822,9106,6
+Isha Arkatkar,59,2528,584,1
+Shivani Agrawal,519,15307,10466,0
+HanBin Yoon,29,728,36,0
+Robert David,1012,15959,14972,0
+Meghna Natraj,357,19047,11620,2
+Geoffrey Martin-Noble,344,6877,4683,0
+Xiao Yu,799,11934,5901,4
+Tomer Kaftan,482,17783,11782,1
+Li Lao,60,2474,2133,0
+Yash Katariya,261,10368,7018,1
+George Karpenkov,2399,39979,28932,1
+Alexander Belyaev,1215,22580,12880,0
+Peter Hawkins,6287,268718,74123,7
+Saurabh Saxena,1245,42424,10175,3
+Feng Liu,1449,40248,14311,1
+Berkin Ilbeyi,438,17932,4545,0
+Mingming Liu,76,2076,324,0
+Rajkumar Samuel,27,564,76,0
+Roman Dzhabarov,75,1151,547,1
+Tatiana Shpeisman,214,4904,1160,1
+Rahul Joshi,1194,26760,11801,1
+Dan Moldovan,2303,60880,32201,3
+Smit Hinsu,1824,30978,16358,0
+Benjamin Kramer,1884,19610,14709,0
+Stephan Herhut,1004,17505,10753,2
+Marvin Kim,14,722,80,0
+Tian Lin,88,842,2243,0
+Alex Zinenko,1331,44811,19024,0
+Jinliang Wei,65,3970,284,0
+Raman Sarokin,4570,83939,69396,0
+Thai Nguyen,668,17108,3812,0
+Terry Heo,463,14521,4156,2
+Marat Dukhan,322,33187,5401,0
+Mihai Maruseac,2405,31111,38009,3
+Qiao Zhang,240,7534,3517,0
+Haoliang Zhang,463,11404,2080,0
+Jing Pu,128,2060,442,0
+Allen Lavoie,3811,92143,30115,4
+Reed Wanderman-Milne,1644,32042,12325,8
+Yang Chen,29,521,133,0
+Daniel Speckhard,2,2,2,0
+Prakalp Srivastava,690,13771,3651,0
+Michael Delorimier,87,2135,368,0
+Adrian Kuegel,2327,35739,23507,0
+Eugene Zhulenev,1410,51749,21242,0
+Amit Patankar,2153,29491,26168,29
+Hyeonjong Ryu,113,1607,674,0
+Jaesung Chung,1321,34304,9526,0
+Shlomi Regev,54,424,97,0
+Renjie Liu,743,34566,20679,1
+David Majnemer,836,11213,4741,0
+Marcello Maggioni,152,7408,2347,0
+T.J. Alumbaugh,325,14018,3907,0
+Katherine Wu,1493,35889,15834,3
+Suraj Sudhir,71,18116,1820,0
+Monica Song,72,1504,579,0
+Edward Loper,1182,46015,15744,1
+Wenhao Jia,370,5065,1974,0
+Yunxing Dai,1394,43717,16579,0
+Nat Jeffries,878,35408,28979,8
+Tim Shen,1884,54270,30883,0
+Laura Pak,61,1046,48,0
+Amogh Joshi,12,145,58,0
+Rohan Jain,2107,89774,45147,8
+David Pal,2,26,0,0
+Matt Watson,735,5926,7692,0
+Haitang Hu,29,664,157,0
+Ken Franko,549,15651,6628,0
+Sanjoy Das,3771,217912,46838,1
+Yi Situ,256,5842,1961,1
+Rick Chao,975,23022,7628,3
+Scott Zhu,3816,101634,66552,18
+Advait Jain,1670,26626,33754,1
+Mark Daoust,2076,89399,127539,0
+Tres Popp,469,5902,3411,0
+Julian Gross,10,749,256,0
+Jian Li,935,35160,5245,1
+Måns Nilsson,342,8356,2652,3
+Christian Sigg,2083,162042,29262,0
+Tianrun Li,38,409,237,0
+Kaixi Hou,634,18560,8970,8
+Dave Moore,17,405,71,0
+Andrew Audibert,1554,35569,14348,4
+Bixia Zheng,1073,24898,12798,0
+Abdurrahman Akkas,67,1285,278,0
+Russell Power,1222,20201,21267,1
+Kuangyuan Chen,274,7053,4009,1
+Michael Banfield,101,4404,2195,0
+Yu-Cheng Ling,1024,26276,11059,0
+Austin Anderson,3342,205652,207984,0
+Ran Chen,1121,22709,15008,1
+Frank Chen,1695,65283,20358,7
+Jacques Pienaar,4024,123662,197069,0
+Jing Dong,81,1584,759,0
+nammbash,270,27064,22988,0
+Michael Gester,195,10145,4836,0
+Eirikur Agustsson,2,14,6,0
+Stefano Galarraga,212,13663,6769,0
+Lu Wang,289,12968,1531,0
+wamuir,6,11,0,0
+Loren Maggiore,24,567,97,0
+Henri Woodcock,4,5,6,0
+Fredrik Knutsson,52,1889,520,1
+Vignesh Kothapalli,557,9201,9796,2
+Taehee Jeong,544,16402,3803,0
+Ian Langmore,732,34529,6534,0
+Daniel Ellis,77,2125,257,0
+Hongmin Fan,15,611,340,0
+vishakha.agrawal,31,546,160,0
+Chris Jones,376,8119,5908,0
+Yuefeng Zhou,869,27922,9754,2
+rsun,129,3399,1360,0
+Zhuo Peng,23,343,155,0
+George Necula,5,17,3,0
+Chenkai Kuang,272,9009,4502,0
+Nick Kreeger,617,19134,9048,0
+bhanu prakash bandaru venkata,31,5694,24,0
+Yuqi Li,28,1943,1374,0
+Sean Morgan,2,4,2,0
+Skye Wanderman-Milne,1424,31411,15371,0
+Lisa Wang,1,7,7,0
+Karim Nosir,1462,28592,9118,1
+Chuanhao Zhuge,179,1381,399,1
+Andy Ly,1810,80395,27284,0
+Yong Tang,2113,29319,7741,110
+Joshua Maynez,1,5,0,1
+Jay Shi,380,8329,3138,1
+Gaurav Jain,4315,51111,37725,0
+River Riddle,8500,133537,101773,1
+YoungSeok Yoon,318,4378,2456,0
+Jean-Baptiste Lespiau,93,2854,1340,0
+Ilya Tokar,10,559,223,0
+Williard Joshua Jose,6,30,17,0
+Ben Barsdell,347,12074,4565,3
+Jiri Podivin,1,3,4,0
+Geeta Chavan,102,1014,550,2
+Fergus Henderson,280,6603,1956,1
+Sachin Joglekar,918,31512,10795,1
+Jared Duke,2155,40922,23181,10
+Haoyu Zhang,545,11493,5062,0
+Dero Gharibian,659,5380,3271,0
+Thomas Köppe,4,15,5,0
+Robert Kalmar,2,22,2,0
+Hengwen Tong,1,0,0,0
+Soojeong,2,38,7,0
+Juanli Shen,8,41,27,0
+Trent Lo,319,8359,2247,0
+Ruoxin Sang,480,8207,4363,5
+Mehdi Amini,2443,43117,29656,2
+Andrew Selle,1282,97181,9883,4
+wcn,1,3,4,0
+evelynmitchell,2,3,0,0
+Bruce Fontaine,314,14587,3496,1
+Lukas Geiger,529,3705,2617,0
+Hanhan Wang,78,3238,711,0
+William Chargin,129,2684,1328,0
+Khanh LeViet,93,3952,2216,1
+Hyeonji Lee,2,5,5,0
+Patrik Laurell,122,3189,1935,0
+Duncan Riach,95,2464,890,0
+Rajeshwar Reddy T,16,114,33,0
+Artem Belevich,142,31854,1572,1
+Jun Xu,54,2944,2516,0
+Mahmoud Abuzaina,373,21537,4350,9
+Thibaut Goetghebuer-Planchon,111,1707,806,0
+Pedro Marques,23,504,21,0
+MH Kwon,1,2,2,0
+Hiran Sarkar,16,95,75,0
+wenwu,1,0,0,0
+Kevin Cheng,5,2636,1659,0
+Frederic Bastien,581,8708,4817,0
+Markus Kunesch,2,42,25,0
+Robert Neale,16,736,55,0
+Cesar Crusius,156,5255,2750,0
+xiaohong1031,133,1551,3417,3
+Zachary Garrett,47,874,65,0
+Liubov Batanina,2,14,8,0
+Alan Green,2,3,0,0
+bhack,198,3211,2174,0
+Aleksandr Nikolaev,23,265,52,0
+Jose Baiocchi,841,7896,5173,0
+Yuanzhong Xu,842,52876,8990,1
+Koan-Sin Tan,304,2318,948,0
+Billy Lamberta,837,16817,25663,2
+Jeremy Meredith,54,959,762,0
+Kibeom Kim,462,5749,3041,0
+Richard Uhler,96,1767,699,0
+Saduf2019,5,2,2,0
+François Chollet,3,4,5,0
+Yujing Zhang,714,11673,21231,3
+Nick Felt,302,6124,4675,1
+Adam Hillier,6,12,14,0
+Justin Lebar,4118,63957,40604,0
+Brian Patton,333,8923,2267,0
+Ian Kivlichan,3,51,44,0
+Johannes Ballé,4,22,9,0
+ddavis-2015,207,8982,5314,0
+Ihor Indyk,57,2857,1110,0
+Jake VanderPlas,3,28,0,0
+Jim Fisher,3,3,3,0
+Chuan He,92,3283,637,0
+Aditya Kane,18,34,15,0
+Deven Desai,1085,26592,7309,0
+Cheng Ren,4,35,5,0
+Aadhitya A,6,2,6,0
+stevenireeves,12,136,112,0
+root,1,7,0,0
+Daniel Situnayake,267,11473,4777,0
+Neil Girdhar,3,6,6,0
+Gabriele Macchi,2,3,4,0
+Yasir Modak,16,24,14,0
+Ce Zheng,103,4610,1506,0
+Pankaj Kanwar,226,8755,3452,0
+Prashant Kumar,7,346,8,0
+Abhilash Mahendrakar,4,3,7,0
+Blake Hechtman,542,12023,4795,2
+Sheng Yang,42,1687,521,0
+Rama ketineni,1,0,0,0
+Nirjas Jakilim,1,0,0,0
+QQ喵,5,12,10,0
+Rama Ketineni,6,161,42,0
+Stella Laurenzo,444,31625,4503,0
+Johannes Lade,1,2,2,0
+David Rim,214,17528,1757,0
+Shanqing Cai,3359,125122,41084,25
+Srinivas Vasudevan,450,14369,2742,0
+Jens Meder,1,0,0,0
+Dmitry Kovalev,52,390,308,0
+zilinzhu,141,2301,953,0
+Vishnuvardhan Janapati,41,232,120,0
+Xiaoming (Jason) Cui,122,1620,2092,3
+Hao Xiong,11,63,24,0
+Ilya Arzhannikov,9,37,30,0
+Ryan Nett,33,399,83,0
+Randy Dodgen,53,906,495,0
+Jerry Shih,44,722,191,0
+Paul Donnelly,153,3373,1735,0
+Francois Chollet,5239,157488,61166,13
+Jake Vanderplas,1,41,2,0
+Bas Aarts,94,853,428,0
+Bradley Reece,1,0,0,1
+Juhyun Lee,1605,55929,18835,0
+Tayo Oguntebi,149,3062,1125,0
+Philip Sun,14,156,95,0
+Chen Chen,101,403,381,0
+Sergei Lebedev,807,12864,12456,0
+Piergiacomo De Marchi,1,5,0,0
+Till Brychcy,1,2,0,0
+Jiho Choi,517,8561,3586,0
+TensorFlow Release Automation,1,31,0,0
+Penporn Koanantakool,555,30841,15605,2
+Abhijit Karmarkar,7,59,18,0
+Thomas O'Malley,1486,29165,14940,7
+DEKHTIARJonathan,52,1776,992,0
+Tamas Bela Feher,268,10448,5606,0
+Shaochen Shi,21,307,89,0
+Yilei Yang,35,464,327,0
+Yair Ehrenwald,167,12008,3530,0
+wxinix,1,0,2,0
+彭震东,1,0,0,0
+Yimei Sun,12,367,120,0
+Niroop Ammbashankar,1,0,0,0
+Joachim Gehweiler,3,0,7,0
+jgehw,16,70,5,0
+ag.ramesh,92,627,432,0
+Guanxin Qiao,1,15,0,0
+Yuriy Chernyshov,4,7,7,0
+Cuong V. Nguyen,1,0,0,0
+fsx950223,44,472,196,0
+Noam Shazeer,1,12,5,0
+Zhoulong Jiang,216,4632,1392,1
+Xinyi Wang,148,4504,1487,0
+Hye Soo Yang,630,12985,3201,3
+Mangpo Phothilimthana,18,146,51,1
+Allen Wang,47,3065,78,0
+PratsBhatt,5,120,40,0
+Kulin Seth,9,140,12,0
+Lev Proleev,37,2004,367,0
+Sunoru,4,76,65,0
+Peng Wang,484,20065,9707,0
+Parker Schuh,60,2186,175,0
+Dimitris Vardoulakis,406,6530,3226,0
+Pete Warden,2352,108811,25570,5
+Dawid Wojciechowski,3,5,5,0
+Doe Hyun Yoon,105,4596,1561,0
+Eugene Kuznetsov,193,2245,1511,0
+Ewa Matejska,2,37,0,0
+Ron Shapiro,6,101,71,1
+Tom Hennigan,368,5330,2325,0
+Chen Qian,28,819,138,0
+Stephan Lee,50,1119,120,0
+Peter Ma,84,3835,2721,0
+Trevor Gale,4,7,0,0
+Guangda Lai,1138,49369,22134,1
+Frederic Rechtenstein,76,1606,1635,0
+Orivej Desh,2,3,3,0
+Zeno Gantner,12,33,52,0
+CyanXu,13,157,143,0
+Waqar Hameed,2,21,0,0
+Maxiwell S. Garcia,2,16,0,0
+Andrew Goodbody,2,4,0,0
+Juho Ha,110,3073,776,0
+ShengYang1,81,2482,1324,1
+Yanhua Sun,409,5621,3412,13
+Ashish Jha,1,0,0,0
+Julien STEPHAN,1,0,0,0
+Jasmijn Bastings,1,0,0,0
+Mahesh Ravishankar,422,15835,4425,0
+Gil Tabak,8,237,61,0
+Haiming Bao,10,393,36,0
+Sergii Khomenko,66,455,152,1
+Mikhail Stepanov,5,34,19,0
+Colin Carroll,6,31,2,0
+Rohit Santhanam,64,428,388,0
+Ben,15,166,121,0
+Tzu-Wei Sung,193,4289,1554,0
+Andiry Xu,40,1461,293,0
+annarev,10,167,12,0
+Michael Kuperstein,368,6661,2826,0
+Srinivasan Narayanamoorthy,70,1032,838,0
+Michal Szutenberg,2,14,6,0
+Tiezhen WANG,371,5142,2003,6
+Võ Văn Nghĩa,194,3799,3935,0
+Stephan,35,1690,1304,0
+Quintin,14,437,82,0
+Bairen Yi,89,2539,652,0
+Junha Park,1,0,2,0
+Marius Brehler,7,20,11,0
+Frederick Liu,3,40,17,0
+ksood12345,1,0,0,0
+Sung Jin Hwang,115,4074,473,0
+justkw,8,29,17,0
+Omri Steiner,4,73,45,0
+puneeshkhanna,2,7,7,0
+AG Ramesh,175,1510,1958,1
+Chris Olivier,1,2,2,0
+Keith Rush,16,430,137,0
+Bastiaan Aarts,4,20,13,0
+Piotr Zierhoffer,1,0,0,0
+Michael Gielda,6,43,19,0
+WindQAQ,54,786,484,0
+Yunlu Li,373,12983,2048,0
+Sai Ganesh Bandiatmakuri,7,314,150,0
+Simon Maurer,2,4,4,0
+Anirudh Sriram,50,700,768,0
+Guillaume Klein,26,534,48,1
+youshenmebutuo,1,0,0,0
+Nico Jahn,1,0,0,0
+Harry Slatyer,9,73,35,0
+Maozhou Ge,2,15,14,0
+Zhuoran Liu,27,538,133,0
+Xunkai Zhang,164,4103,11005,0
+Vinayaka Bandishti,2,14,5,0
+Alex Stark,289,22371,6573,0
+Revan Sopher,291,4860,2455,0
+Scott Wegner,29,230,55,0
+Eric Spishak-Thomas,3,30,16,0
+viktprog,1,5,0,0
+Scott Main,20,994,754,0
+Rehan Guha,2,8,7,0
+Mao Yunfei,14,236,78,0
+Jungshik Jang,2,2,2,0
+Marconi Jiang,1,0,0,0
+Sean Moriarity,1,0,0,0
+gerbauz,32,985,751,0
+Håkon Sandsmark,8,47,6,0
+marconi1964,1,0,0,0
+Ryan Kuester,47,1479,404,0
+Paul Klinger,2,22,9,0
+Jonathan Shen,29,651,513,0
+Phoenix Meadowlark,10,107,2,0
+pnikam-cad,2,4,4,0
+Scott Tseng,15,86,40,0
+Suxin Guo,1,0,0,0
+Mingsheng Hong,228,12867,1451,0
+Behzad Abghari,1,4,2,0
+zhuyie,3,76,7,0
+Marissa Ikonomidis,107,787,310,0
+Takayoshi Koizumi,12,599,0,0
+Oceania2018,24,235,83,0
+Harry Zhang,1,4,2,0
+8bitmp3,11,21,16,0
+Summer Yue,1,0,0,0
+mbhuiyan,64,1845,1777,0
+Ayush Dubey,688,18328,8360,0
+Taebum Kim,1,2,0,0
+Hongkun Yu,25,199,112,0
+Jaehong Kim,24,125,53,0
+David Davis,16,1321,597,0
+Yanhui Liang,412,9558,4535,0
+Suraj Upadhyay,2,4,2,0
+Abolfazl Shahbazi,309,8319,1401,0
+Vincent ABRIOU,8,5,8,1
+Xinan Jiang,79,2619,1239,0
+Stephen Matthews,1,2,2,0
+Anh Tuan Nguyen,1,5,4,0
+David Kao,13,93,88,0
+Jin Young Sohn,19,665,275,0
+Christina Sorokin,15,17,101,0
+Lei Zhang,1834,48110,19105,0
+Ayan Moitra,2,11,0,0
+Alfie Edwards,14,114,20,0
+Etienne Pot,12,90,7,0
+Mohamed Nour Abouelseoud,37,355,6,0
+Xiao Yang,1,3,0,0
+fo40225,64,353,270,0
+Eli Osherovich,1,0,0,0
+yair_ehrenwald,9,372,2068,0
+Måns Bermell,1,14,0,0
+Harsh188,20,239,81,0
+Traun Leyden,1,0,0,0
+rmothukuru,9,64,49,0
+Sami Kama,596,18105,7772,6
+Natanael,3,8,15,0
+Liangzhe Yuan,1,0,0,0
+ravikyram,2,0,2,0
+Matej,1,2,0,0
+Jingyue Wu,210,4271,928,0
+Simrit,2,0,48,0
+Artemiy Ryabinkov,1,18,0,0
+Mark Sandler,4,121,78,0
+Jens Elofsson,169,7807,4568,0
+wangsiyu,48,661,216,0
+henri,2,0,0,0
+RJ Skerry-Ryan,113,2677,2227,0
+Nathan Luehr,201,47109,15794,0
+Benjamin Klimczak,9,118,16,0
+Matej Rizman,41,1367,475,0
+Daniel Moore,1,0,0,0
+kushanam,94,1169,686,0
+Chunxiang (Jake) Zheng,2,3,0,0
+Jeremy Lau,189,3141,2776,2
+Corey Cole,3,2,2,0
+Yun Peng,323,3159,1527,1
+Phat Tran,1,3,3,0
+Eugene Brevdo,3805,130068,47211,1
+Bramandia Ramadhana,29,318,55,1
+TVLIgnacy,1,0,0,0
+Abhinav Upadhyay,4,2,4,0
+Mehmet Deveci,30,906,520,0
+Sean Silva,417,10240,3016,0
+rposts,9,95,4,0
+Mitchel Humpherys,1,6,3,0
+Jia Fu Low,1,4,4,0
+rsun-bdti,1,0,123,0
+Kazuaki Ishizaki,1335,2673,2665,0
+kashyapraval,1,0,0,0
+mdfaijul,137,5809,4161,0
+ganand1,10,297,47,0
+Keith Mok,1,0,0,0
+Martin Kubovčík,11,65,34,0
+Bart Ribbers,1,3,3,0
+ewsn1593,1,0,0,0
+machineko,2,14,4,0
+Junhyuk So,1,0,0,0
+Dean Wyatte,2,164,22,0
+dependabot[bot],3,0,0,0
+Ikko Ashimine,2,0,0,0
+Chris Leary,383,8692,3018,0
+ather,5,867,860,0
+Dominic Jack,9,35,15,0
+Vikram Dattu,16,146,42,1
+vaibhav,5,46,2,0
+yunfeima,40,462,103,0
+Teng Lu,49,669,432,2
+yqtianust,1,0,0,0
+Oskar Flordal,3,3,3,0
+Jae H. Yoo,46,570,274,0
+mazharul,11,271,300,0
+Samuel Marks,148,834,829,0
+Chris Kennelly,37,86,80,0
+Dong Lin,192,3789,651,1
+jpodivin,4,27,22,0
+Erik Smistad,10,62,28,2
+Simrit Kaur,1,0,22,0
+Jakub Jatczak,56,352,358,0
+Mingxing Tan,195,8048,2130,0
+Robert Suderman,172,6205,1138,2
+Mazhar,3,18,18,0
+Anna R,5592,147551,82095,2
+Victor de Souza,13,714,272,0
+Thomas Joerg,350,7180,2819,0
+Sidong-Wei,32,168,48,1
+Yosshi999,1,0,0,0
+Prateek Gupta,19,400,238,0
+Alexander Grund,60,739,492,1
+Georgiy Manuilov,5,44,14,0
+TomWildenhain-Microsoft,1,0,0,0
+latyas,2,5,5,0
+Marcin Juszkiewicz,1,2,2,0
+Wang Yanzhang,6,292,99,0
+Jared Smolens,14,2983,2318,0
+Jab Hofmeier,1,6,0,0
+James Qin,250,12649,4609,4
+Yifeng Cui,1,0,0,0
+Jungsub Lim,1,0,0,0
+shwetaoj,22,181,59,0
+Can Wang,1,2,2,0
+Jenny Plunkett,2,6,6,0
+Phil Stahlfeld,46,1306,547,0
+Denisa Roberts,9,75,26,0
+icysapphire,1,3,3,0
+Zhenyu Tan,1297,51096,25653,1
+Hollow Man,2,7,4,0
+Maria Vexlard,1,15,0,0
+Milan Straka,16,305,27,0
+Clemens Giuliani,10,20,19,0
+Aman Kishore,3,23,23,0
+Lucy Fox,188,4745,1402,0
+Vivek Panyam,2,3,0,0
+Pravin Karandikar,2,24,17,0
+Yajush Vyas,2,0,0,0
+Trevor Cai,8,68,218,0
+James Bernardi,1,9,5,0
+Roger Cheng,2,33,5,0
+Jeffrey A. Dean,87,3225,1623,0
+Priya Gupta,468,9726,4342,2
+Rui Huang,2,0,0,0
+ryanking13,2,2,2,0
+kopytjuk,1,54,28,0
+Andrzej Pomirski,1,0,0,0
+Pavithra Vijay,3694,66869,22319,11
+Yiming Zhang,1,0,0,0
+Simrit-Kaur,2,7,0,0
+Aaron S. Mondal,1,0,0,0
+Nick Johnston,2,2,0,0
+Dmitry Volodin,208,499,483,0
+Mohamed Moselhy,3,6,4,0
+Cloud Han,5,42,4,0
+qqq.jq,18,372,179,0
+Yuta Fukasawa,2,6,3,0
+Ben Vanik,22,630,129,0
+Peter Buchlovsky,80,788,396,0
+Pedro Gonnet,3,12,13,0
+gbaned,2,20,5,0
+Jacob Valdez,1,0,0,0
+Sergey Popov,2,9,0,0
+Vishakha Agrawal,17,76,60,0
+Felix Fent,9,223,118,1
+Michael Kuchnik,66,429,284,0
+Yuan Tang,6,50,103,0
+Luca Versari,1,28,19,0
+Albert Villanova del Moral,6,14,14,0
+Alexander Bayandin,4,30,0,0
+Will Cromar,2,14,12,0
+Brendan Collins,4,29,6,0
+Maxwell Bileschi,2,3,3,0
+firejq,8,123,188,0
+Vladimir Silyaev,5,78,39,0
+Jason Zaman,240,3243,639,0
+Aleksey Vitebskiy,25,568,211,0
+Sungmann Cho,15,28,28,0
+I Wayan Dharmana,1,0,0,0
+marload,19,166,111,0
+Anjali Sridhar,685,34038,9449,2
+Nicolas Vasilache,2506,71971,36987,3
+Elena Zhelezina,373,6511,2571,0
+oujiafan,1,0,7,0
+Mateusz Holenko,1,0,0,0
+Lequn Chen,1,0,0,0
+ahmedsabie,33,360,259,0
+Chenliang Xu,6,14,23,0
+James Keeling,182,3923,733,0
+rhdong,7,124,16,0
+dushuai,1,0,2,0
+Kristian Hartikainen,4,8,7,0
+Akshay Modi,1944,47640,25820,3
+Pawel Piskorski,6,30,0,0
+Abhishek Kulkarni,19,18,840,0
+Reed,78,1334,569,0
+Liam Miller-Cushon,3,27,24,0
+yuanbopeng,28,239,95,0
+Tyler Davis,17,164,43,0
+OscarVanL,1,0,0,0
+Gunhan Gulsoy,5784,129549,510064,2
+Jianwei Xie,1038,38638,21000,2
+evaderan-lab,1,0,0,0
+Michelle Casbon,7,215,0,0
+Long M. Lưu,1,0,0,0
+Abdullah Rashwan,1,3,4,0
+Matthias,1,7,9,0
+Paul B. Isaac's,2,11,2,0
+Robert Szczepanski,2,2,4,0
+Yoav Ramon,4,7,4,0
+piyushdatta,2,0,0,0
+Ian Beauregard,1,0,0,0
+Yiwen Li,9,36,21,0
+Tarandeep Singh,1,0,0,0
+Henry Tan,438,14608,6532,0
+PlusPlusUltra,3,99,2,0
+Maria Romanenko Vexlard,1,0,0,0
+Philip Pham,66,1584,288,0
+cfRod,6,50,0,0
+Marcos Pereira,1,2,0,0
+andreABbauer,1,5,0,0
+Poedator,1,0,0,0
+Alexey Radul,26,586,825,0
+Brent M. Spell,1,9,11,0
+Pavel Krajcevski,1,3,2,0
+Aavishkar Mishra,12,59,40,0
+Marcin Owsiany,1,4,4,0
+Chen Cen,16,984,19,0
+Ashwin Phadke,6,55,21,0
+ml-0,24,384,254,0
+Rohan Lekhwani,3,30,7,0
+Jung Daun,1,9,8,0
+Kasra Bigdeli,1,5,5,0
+Jakub Beránek,1,0,0,0
+Ryan Sepassi,2,4,0,0
+Adrian Garcia Badaracco,4,14,0,0
+Jonathan DEKHTIAR,11,125,63,0
+Dmitry Tsarkov,2,15,0,0
+Chao Xie,34,2115,804,0
+Matt Conley,98,5161,867,0
+Brian Zhao,1361,22756,12331,1
+Rachel Lim,837,29038,10550,3
+Kushan Ahmadian,3,0,80,0
+Paul Tanger,1,2,0,0
+dannyfriar,1,12,0,0
+Ahmed S. Taei,13,135,19,0
+zmx,1,2,2,0
+Zheng Xu,9,190,127,0
+Shi Guangyong,1,34,0,0
+Leslie-Fang,9,34,15,2
+Varghese Jojimon,2,34,2,0
+Felix Johnny,17,734,638,2
+Jan Jongboom,4,36,29,0
+Pierre-Antoine Manzagol,1,0,0,0
+Todd Lipcon,5,373,116,0
+Gaurav Agrawal,3,49,2,0
+jma,1,2,0,0
+George Grzegorz Pawelczak,12,75,44,0
+Jonathan Hseu,2586,71052,40798,3
+Vijay Vasudevan,5548,136869,69932,3
+Zhangqiang,3,14,0,0
+Michael137,3,8,0,0
+amturati,264,9722,6097,5
+sboshin,12,382,26,0
+Rickard,10,8,0,0
+emlaprise2358,2,0,0,0
+COTASPAR,1,13,32,0
+jedlimlx,9,59,75,0
+Vo Van Nghia,302,8797,1026,0
+Tomasz Strejczek,11,189,4,0
+Oleg Guba,2,2,0,0
+Ehsan Toosi,53,2019,1046,0
+Yasuhiro Matsumoto,72,945,216,0
+Dmitry Zakharov,174,6547,10984,0
+Fabio Riccardi,18,627,567,0
+Javier Montalt Tordera,3,13,0,0
+Basit Ayantunde,16,97,50,0
+bigcat-himax,11,71,43,0
+Emily Fertig,22,2420,223,0
+DarrenZhang01,21,94,44,0
+Martin Hwasser,2,2,2,0
+Eugene Burmako,11,35,0,0
+Sharada Shiddibhavi,8,13,44,0
+sshiddib,31,334,44,0
+anencore94,1,0,93,0
+Alexey Ivanov,2,2,0,0
+Johan Nordström,2,7,5,0
+Kushagra Sharma,1,2,0,0
+ngc92,61,631,225,0
+danielyou0230,25,1536,226,0
+Jongbin Park,1,7,7,0
+Jinjing Zhou,2,126,122,0
+Suharsh Sivakumar,1088,32368,15104,1
+ShuXiang Gao,1,0,0,0
+Peter Sobot,2,18,0,0
+Maderator,1,0,0,0
+Thibaut Goetghebuer,1,0,0,0
+nyagato_00,1,4,4,0
+bzhao,4,6,15,0
+Amir Yazdanbakhsh,1,0,34,0
+Yong Wu,2,0,0,0
+Eduard Feicho,1,2,2,0
+John Poole,2,0,2,0
+Ongun Kanat,1,0,0,0
+Leicong Li,1,8,8,0
+SiCong Li,13,266,97,0
+retonym,17,234,29,0
+levinxo,1,5,0,0
+Kamil Rakoczy,32,448,15,0
+drebain,9,41,10,1
+Yixing,1,10,9,0
+danielknobe,1,0,0,0
+VoVAllen,63,1035,382,0
+Natasha Kononenko,8,273,22,0
+Jonathan Chu,50,499,323,0
+Benjamin Chetioui,1,4,5,0
+Stephan Hoyer,49,6812,114,0
+Uday Bondhugula,1281,34716,15497,0
+Steven Clarkson,1,83,0,0
+Kai Katsumata,1,0,0,0
+Katherine Tian,265,23342,21843,0
+markf,1,29,6,0
+Evgeniy Polyakov,34,267,145,0
+Xingyu Long,121,3314,1282,0
+PiyushDatta,20,138,94,0
+Aniket Kumar Singh,1,2,2,0
+Ilya Persky,67,649,395,1
+Yunmo Koo,1,2,2,0
+Pulkit Bhuwalka,19,392,266,0
+Steven Hickson,5,24,3,0
+Josip Djolonga,15,694,33,0
+codeadmin_peritiae,4,33,16,1
+HarisWang,1,0,0,0
+Denis Vnukov,19,283,71,0
+Gmc2,1,7,10,0
+Hideto Ueno,1,2,0,0
+Yixing Fu,52,1699,619,0
+Mikhail Startsev,10,254,254,0
+jerryyin,180,1912,1432,0
+Daniel Nguyen,290,3698,3614,0
+Biagio Montaruli,14,33,36,0
+acxz,2,0,0,0
+Kedar Sovani,1,2,0,0
+Christian,1,0,0,0
+Paul Wankadia,3,67,19,0
+Abhineet Choudhary,28,427,415,0
+Myung-Hyun Kim,1,0,0,0
+Sandeep Giri,1,0,0,0
+Steve Chien,2,0,0,0
+Alexandre Passos,2547,56757,36543,18
+Balint Cristian,13,304,79,0
+Jan Pfeiffer,3,442,7,0
+Anthony Platanios,59,618,354,0
+Krzysztof Laskowski,2,23,15,0
+HyoukJoong Lee,422,8636,1892,0
+Lakshay Tokas,10,203,198,0
+Shawn Presser,4,14,8,0
+Steenu Johnson,33,408,172,0
+Terry Huang,6,85,2,0
+Tamas Nyiri,22,453,368,0
+Souradeep Nanda,6,93,54,0
+bbbboom,10,311,293,0
+Andy Lou,2,9,8,0
+Cheng CHEN,4,0,0,0
+Amy Skerry-Ryan,30,510,99,0
+Alexandre Lissy,1,5,2,0
+daria,29,484,448,0
+Taré Gaskin,141,730,479,0
+Karmel Allison,386,9307,4090,0
+tg-at-google,100,153,336,0
+Benoit Jacob,989,16218,42182,0
+Niranjan Hasabnis,292,18104,7754,4
+Gabriel Rasskin,29,483,100,1
+Alan Anderson,1,0,0,0
+Hemal Mamtora,1,2,2,0
+Hubert Eichner,1,6,6,0
+Vividha,1,0,0,0
+Haifeng Jin,50,1093,1069,0
+Pablo Samuel Castro,2,2,0,0
+Hannes Achleitner,10,10,8,0
+Jonah Kohn,9,11,6,0
+abhichou4,33,579,377,0
+Sayed Hadi Hashemi,9,158,25,0
+Ty Mick,1,3,3,0
+Fausto Morales,4,11,2,0
+redwrasse,1,0,0,0
+R. Alex hofer,2,33,11,0
+Koki Ibukuro,19,242,65,0
+Jakob Buchgraber,163,1035,20692,1
+Benjamin Peterson,6,136,126,0
+902449@58880@bigcat_chen@ASIC,47,3105,2300,0
+bubblebooy,3,5,5,0
+Prasad Nikam,14,1398,677,0
+Marcel Hlopko,14,55,68,0
+CuiYifeng,23,1066,406,0
+tenglu,13,138,83,0
+Zachary Deane-Mayer,1,0,0,0
+Tare Gaskin,275,729,703,0
+Toby Boyd,73,2886,1610,0
+Aart Bik,35,1117,217,0
+rahul-kamat,76,1601,617,0
+bzhaoopenstack,3,0,0,0
+Martin Wicke,4635,104056,89891,2
+ZhuBaohe,1,3,3,0
+Gaurav Singh,32,38,28,0
+Vladimir Menshakov,4,137,0,0
+aaa.jq,3,25,5,0
+Vishal Subbiah,9,31,26,0
+MichelBr,1,0,0,0
+ANSHUMAN TRIPATHY,120,2402,1135,0
+Harirai,1,4,4,0
+qhduan,2,6,6,0
+Torsten Rudolf,2,0,0,0
+XingyuLong,326,8601,2137,0
+Rishit Dagli,8,0,0,0
+Davide Libenzi,238,6858,2088,0
+Gauri1 Deshpande,2,4,4,0
+settle,24,179,116,0
+Chris Gorgolewski,2,13,0,0
+Ashwin Murthy,166,5421,1082,0
+Jack Hessel,2,5,0,0
+Tony,2,5,4,0
+Giorgio Arena,20,2126,579,0
+Srihari Humbarwadi,17,115,113,0
+hedgehog91,1,0,0,0
+Phil Pearl,12,980,467,0
+Lluis-Miquel Munguia,17,686,173,0
+Nupur Garg,976,22367,11365,2
+chuanqiw,4,12,13,0
+Tamara Norman,217,5094,1981,0
+Samuel Holt,1,0,0,0
+Devi Sandeep Endluri,1,11,7,0
+peng,4,3,7,0
+jonah-kohn,3,33,8,0
+Thomas Raoux,1,0,0,0
+Sam Holt,7,128,14,0
+Lukasz Kaiser,211,3205,2160,0
+Agoniii,7,29,22,0
+Nishidha Panpaliya,22,137,50,0
+Lutz Roeder,2,11,6,0
+Meteorix,1,0,0,0
+Chen Lei,2,0,0,0
+Amedeo Cavallo,1,9,0,0
+Gaurav Menghani,1,0,0,0
+stjohnso98,1,9,4,0
+Anthony Scherba,2,2,2,0
+Yifei Feng,4556,161096,175564,6
+Chris Knorowski,32,169,77,1
+Joshua Chia,1,2,0,0
+Christian Clauss,3,2,2,0
+Sean Settle,9,249,7,0
+Carlos Hernandez-Vaquero,1,3,3,0
+cclauss,28,49,32,0
+frreiss,284,6485,3607,2
+wyzhao,23,1747,18,0
+nihui,2,6,6,0
+Urs Koster,1,2,0,0
+M\u00e5ns Nilsson,7,226,0,0
+Hugh Ku,5,40,3,0
+Alexander Gorban,12,393,177,0
+Tongzhou Wang,2,5,5,0
+Gregory Clark,37,358,361,0
+Abdul Baseer Khan,3,2,2,0
+Alexey Rogachevskiy,2,43,14,0
+Keith Smiley,11,123,70,0
+Xiaoquan Kong,16,159,81,0
+Sreeni Kesavarapu,48,1072,102,0
+Gregory Keith,1,0,0,0
+Semun Lee,1,2,2,0
+Anudhyan Boral,213,9477,2828,0
+Vaibhav Jade,4,2,0,0
+Harjyot Bagga,2,0,0,0
+wondertx,1,2,2,0
+seo-inyoung,2,5,5,0
+Sergey Mironov,3,14,11,0
+Kilaru Yasaswi Sri Chandra Gandhi,12,11,11,0
+storypku,2,2,15,1
+Karol Gugala,1,4,4,0
+Young Soo Kim,1,10,7,1
+Alan Chiao,103,3004,3961,0
+stevensa,3,12,9,0
+Jake Tae,7,37,33,0
+Sam Kaufman,6,16,0,0
+rangjiaheng,1,0,0,0
+Will Battel,2,0,0,0
+Rahul Huilgol,95,1533,561,0
+Ajay P,27,410,177,1
+Ben Arnao,1,2,2,0
+Gian Marco Iodice,7,408,95,0
+Swapnil Parekh,1,0,0,0
+Janosh Riebesell,2,14,14,0
+Ryohei Ikegami,1,0,0,0
+Marcin Sielski,4,70,61,0
+Guozhong Zhuang,154,7816,8422,5
+Michael Moffitt,2,2,2,0
+Felix E. Klee,1,2,2,0
+amoitra,93,2734,993,0
+Andrew Stevens,16,1392,67,0
+Peng Sun,56,1964,683,0
+Shunya Ueta,1,2,2,0
+Shraiysh Vaishay,15,1393,2,0
+Derek Murray,5163,130878,64634,2
+Andrew Cavanaugh,8,136,13,0
+josh meyer,1,0,0,0
+leslie-fang-intel,15,110,66,3
+tongxuan.ltx,5,27,7,0
+Bryan Cutler,15,133,57,0
+Hahn Anselm,2,0,2,0
+Bastian Eichenberger,3,14,14,0
+Chris Tessum,2,97,0,0
+jacco,73,12273,677,3
+naumkin,4,1025,2525,0
+Daria Zhuravleva,8,968,229,0
+Christopher Suter,13,100,71,0
+Richard Levasseur,1,2,0,0
+Brian Lee,81,1581,405,0
+Neeraj Bhadani,4,6,4,0
+mshr-h,12,14,14,0
+902449@58880@bigcat_chen,1,33,0,0
+Fei Sun,7,37,14,0
+Bharat123rox,9,86,26,0
+Tzu-Wei Huang,1,2,2,0
+ouyang jin,20,178,73,0
+Kayou,1,0,0,0
+Mirko Visontai,1,57,40,0
+Logan Chien,41,1265,199,0
+Rushabh Vasani,9,46,16,0
+Evan Rosen,5,26,11,0
+Mia Roh,2,39,2,0
+periannath,1,8,0,0
+Edgar Liberis,1,0,0,0
+Ashutosh Hathidara,55,557,147,0
+Patrick Hemmer,2,30,32,1
+Eugene Mikhantiev,1,5,0,0
+feihugis,10,774,275,0
+Evgenii Zheltonozhskii,65,954,208,0
+Adam Roberts,46,1491,424,0
+Evgeniy Zheltonozhskiy,3,10,4,0
+gurushantj,1,2,2,0
+Peng Meng,5,118,16,0
+xutianming,1,0,0,0
+Angus-Luo,55,216,185,0
+flyingcat,1,0,0,0
+JLZ,1,17,0,0
+Guizi Li,140,4304,1853,7
+tomas,16,64,48,0
+Niranjan Yadla,24,3934,289,1
+Tony Tonev,4,21,13,0
+Itamar Turner-Trauring,7,106,6,0
+Marcel Koester,35,1713,634,0
+Manish,8,28,29,0
+ganler,2,5,10,0
+Owen Lyke,1,2,2,0
+oclyke,7,2,930,0
+Rohan Reddy,14,63,17,0
+vcarpani,8,112,46,0
+Kam D Kasravi,1,0,0,0
+Byambaa,64,535,285,0
+Jenni Kilduff,8,296,7,0
+James Bradbury,12,69,10,0
+blueyi,3,5,5,0
+Vijay Tadikamalla,1,0,0,0
+Artem Mavrin,10,63,147,0
+zhaozheng09,2,36,3,0
+Téo Bouvard,2,2,2,0
+Paul Andrey,13,191,146,0
+Sven-Hendrik Haase,2,0,0,0
+Michael Reneer,2,2,0,0
+Anush Elangovan,7,60,29,0
+khaled besrour,2,6,2,0
+Igor Ganichev,748,28746,10055,0
+Jonas Skog,6,34,5,0
+sunchenggen,2,39,3,0
+Tomohiro Ubukata,11,91,44,0
+Ir1d,5,43,17,0
+Kathy Ruan,3,4,2,0
+“jaketae”,51,318,84,0
+Siyavash Najafzade,3,118,0,0
+张志豪,15,46,44,0
+Fabio Di Domenico,13,27,13,0
+angusluo,9,10,8,0
+Oleg Rybakov,7,105,72,0
+Nick Morgan,1,3,0,0
+Guy David,5,71,58,0
+Georgios Pinitas,6,219,23,1
+Vojtech Bardiovsky,145,2576,865,0
+Rajan Singh,1,0,0,0
+Raziel Alvarez,6,152,16,0
+Martin Jul,4,6,6,0
+vijayphoenix,6,147,5,0
+Mokke Meguru,4,14,10,0
+Michael Käufl,2,2,3,0
+Ruan Kunliang,1,4,0,0
+Harald Husum,4,30,13,0
+Dayeong Lee,36,1305,420,0
+tigertang,4,4,4,0
+ayushmankumar7,5,0,0,0
+jayanth,2,26,22,0
+Giuseppe Rossini,11,1534,1627,0
+Haoyu Wu,17,249,217,0
+sunway513,9,21,6,0
+Alex Hoffman,8,54,17,0
+Yanping Huang,2,2,3,1
+OverLordGoldDragon,2,2,2,0
+lyonguyen8697,19,179,15,0
+Clayne Robison,144,3858,961,1
+jojimonv,18,735,499,0
+aaronhma,1,9,7,0
+jojivk-intel-nervana,1,0,0,0
+jmsmdy,2,29,21,0
+Brian Atkinson,836,7330,6570,0
+Jinzhe Zeng,7,8,7,0
+Alan Yee,76,352,316,0
+madisetti,3,0,6,0
+Zongwei Zhou,9,43,26,0
+JaehunRyu,4,12,17,0
+dothinking,1,11,7,0
+MoussaMM,6,50,14,0
+pingsutw,1,2,2,0
+Kwabena W. Agyeman,12,89,45,0
+nikochiko,33,502,424,0
+Benjamin Gaillard,2,4,0,0
+kurileo,2,2,2,0
+Pallavi G,9,462,182,0
+Youlong Cheng,90,2428,358,0
+Tom Forbes,1,0,0,0
+Officium,1,14,8,0
+Vincent Abriou,2,27,0,0
+William D. Irons,90,984,608,0
+Aditya Patwardhan,26,1627,103,0
+Frédéric Rechtenstein,6,51,5,0
+TengLu,41,1527,873,2
+FAIJUL,3,100,59,0
+Judd,6,24,24,0
+Timon Van Overveldt,16,74,97,0
+vladbataev,3,57,3,0
+Mitchell Vitez,3,4,4,0
+Puneeth K,19,119,81,0
+David Rees,3,7,0,0
+ga,1,0,0,0
+Tom Carchrae,11,22,0,0
+372046933,2,2,2,0
+MichaelKonobeev,14,51,54,0
+PhilipMay,1,0,0,0
+exfalso,1,0,0,0
+Fei Hu,1020,58905,40734,12
+punndcoder28,2,22,0,0
+Taylor Robie,536,8420,3000,0
+Jeff Daily,201,878,450,0
+Meng Zhang,3,0,0,0
+Elton Yang,1,19,0,0
+srinivasan.narayanamoorthy,62,1501,477,0
+Kevin Hanselman,7,7,7,0
+Stephan Uphoff,8,62,32,0
+Anthony Barbier,51,635,132,0
+Rasul Karimov,15,2000,1983,0
+Scott Todd,9,648,61,0
+Prashant Dandriyal,1,8,4,0
+comet,15,49,49,0
+Pooya Davoodi,238,2519,1161,1
+Maher Jendoubi,18,17,17,0
+Stanley Bileschi,5,33,12,0
+Erik Zettel,2,4,4,0
+Abin Shahab,2,33,0,0
+Michael Liao,2,2,0,0
+Owen L - SFE,69,1374,266,0
+Ahti Kitsik,1,0,0,0
+Zhou Peng,12,134,27,0
+IrinaM21,6,23,14,0
+Joseph-Rance,5,40,20,0
+Rick Wierenga,8,60,25,0
+Victor Peng,1,0,0,0
+Shyam Sundar Dhanabalan,1,0,0,0
+Tong Shen,486,15582,7840,0
+Saleem Abdulrasool,5,27,0,0
+archis,18,179,119,0
+Sasan Jafarnejad,1,0,0,0
+Christian Goll,2,16,5,0
+Qwerty71,7,51,36,0
+Hugo,13,32,31,0
+elzino,1,4,0,0
+Craig Citro,28,364,44,0
+Mrinal Jain,6,18,6,0
+ytyt-yt,1,0,0,0
+Yanan Cao,432,15056,7121,1
+Nicholas Gao,1,6,6,0
+Kaustubh Maske Patil,16,158,113,0
+William-Yin123,46,148,86,0
+Dheeraj R Reddy,4,18,16,0
+boron,11,66,43,0
+George Sterpu,7,10,10,0
+Andrei Kulik,8,58,44,0
+Eyvind Niklasson,2,33,4,0
+Richard Xiao,4,0,0,0
+Lamar,10,410,127,0
+Tetragramm,3,6,8,0
+sharkdtu,3,43,13,0
+Sami,72,2336,1637,1
+Paul Baranay,2,2,0,0
+autoih,39,347,297,1
+BashirSbaiti,3,10,2,0
+Adam Wood,7,310,289,0
+Mbah-Javis,36,340,266,0
+Yuki Ueda,4,4,4,0
+Shreyash Patodia,1,0,0,0
+Khor Chean Wei,1,0,0,0
+Ethan Saadia,4,58,16,0
+Hristo Vrigazov,18,328,72,0
+msteknoadam,25,1449,1275,0
+pshiko,3,22,13,0
+zhuwenxi,1,2,2,0
+arpan-dhatt,1,18,0,0
+HotPotatoC,22,109,87,0
+leike666666,5,41,45,0
+RichardXiao13,2,5,0,0
+Arvind Sundararajan,1,7,6,0
+Manuel Freiberger,26,657,53,0
+ruchit2801,1,0,0,0
+SumanSudhir,1,0,0,0
+Alexandre Abadie,1,2,0,0
+Frank Laub,3,34,0,0
+deepakm,1,2,2,0
+Wallyss Lima,2,7,3,0
+Noah Trenaman,1,0,0,0
+Andr? Susano Pinto,92,1329,774,0
+Marco Jacopo Ferrarotti,1,2,2,0
+Anuj Rawat,8,614,144,0
+Huanming Fang,1,5,0,0
+Jean-Denis Lesage,8,140,13,0
+Hans Gaiser,2,13,7,0
+Benjamin Barenblat,11,39,30,0
+William Zhang,18,112,80,0
+Jin Mingjian,1,0,0,0
+Taehun Kim,2,114,15,0
+Jose Ignacio Gomez,28,455,92,0
+Fangjun Kuang,11,11,11,0
+Drake Gens,2,5,5,0
+minoring,1,0,0,0
+Yaxun (Sam) Liu,1,0,0,0
+Alkis Evlogimenos,3,15,10,0
+thierry,4,54,27,0
+Thierry Herrmann,6,32,13,0
+Vishal Bhola,2,10,8,0
+Wen-Heng (Jack) Chung,358,6605,2580,1
+Denis Khalikov,167,9316,556,0
+Hugo Sjöberg,3,0,2,0
+www,3,0,8,0
+Ewout ter Hoeven,1,4,6,0
+Daniel Falbel,6,40,12,0
+LIUJIAN435,22,187,70,0
+Kimberly,1,3,0,0
+nmostafa,15,536,108,0
+Anthony Liu,8,624,13,0
+Shane Smiskol,1,2,0,0
+Alexandre E. Eichenberger,1,18,20,0
+David Chen,1,8,2,0
+David Soergel,360,11236,1803,0
+Robert Crowe,1,10,4,0
+Markus Franke,1,0,0,0
+Niels Ole Salscheider,11,249,14,0
+rpalakkal,2,22,7,0
+Diederik van Liere,1,2,0,0
+Christian Sachs,1,2,2,0
+Diego Caballero,50,583,131,0
+brett koonce,132,222,222,0
+JKIsaacLee,2,0,0,0
+Johan Euphrosine,12,17,13,0
+hsahovic,1,0,0,0
+Michal Tarnowski,1,5,0,0
+David Truby,1,0,0,0
+Amit Kumar Jaiswal,6,53,40,0
+Andrew Anderson,1,26,25,0
+Dan Zheng,6,34,32,0
+Jacob Burnim,3,44,35,0
+Jean-Michel Gorius,10,129,137,0
+zhangshijin,1,0,0,0
+nuka137,1,0,0,0
+Eric Schweitz,31,213,0,0
+Bharat Raghunathan,3,11,10,0
+Stefano Mazzocchi,1,7,4,0
+Srishti,1,0,0,1
+Namrata Bhave,3,6,4,0
+Tian Jin,32,1401,655,0
+Srishti Yadav,1,26,0,0
+Hans Pabst,17,370,342,2
+Peng Wu,8,184,163,0
+namrata-ibm,23,464,103,0
+MLIR Team,491,15155,4273,0
+Andy Davis,158,7599,3081,0
+PragmaTwice,1,0,0,0
+Sergio Guadarrama,172,4279,829,0
+Lee Netherton,1,17,10,0
+darsh8200,2,8,8,0
+Devansh Singh,1,12,12,0
+Douman,3,28,17,0
+Sarvesh Dubey,1,5,5,0
+steph-en-m,1,38,34,0
+Ending2015a,1,0,0,1
+Keunwoo Choi,2,12,3,0
+Somyajit Chakraborty Sam,8,6,11,0
+mattn,1,0,0,0
+scentini,3,18,4,0
+wenshuai-xiaomi,1,2,2,0
+R Gomathi,17,751,129,0
+wenshuai,5,217,0,0
+Roberto Rosmaninho,2,4,4,0
+James Molloy,68,2046,457,0
+djshen,2,9,0,0
+angeliand,2,8,2,0
+Yusup,2,17,3,0
+Jared Nielsen,3,23,19,0
+Abdülhamit Yilmaz,1,0,0,0
+caster,3,7,7,0
+Oleksii Volkovskyi,1,6,0,0
+Paige Bailey,5,15,17,0
+Jongwon Lee,1,2,2,0
+william,7,75,49,0
+Olivier Moindrot,4,8,6,0
+Trevor Hickey,1,2,2,0
+anujajakhade,2,9,9,0
+James Ring,298,6439,2970,0
+Keiji ARIYAMA,1,0,2,0
+Stephen Mugisha,3,49,4,0
+giuros01,5,779,0,0
+Jeff Poznanovic,6,7,65,0
+kamalkraj,4,17,25,0
+Zhenyu Guo,1,5,0,0
+Irina Bejan,39,1012,163,0
+reinerp,4,6,6,0
+Anuja Jakhade,1,0,0,0
+Abhai Kollara,4,13,21,0
+Rob Suderman,31,1110,272,0
+Alexander Vasilyev,2,3,4,0
+Sana Damani,45,2168,2817,0
+Laszlo Csomor,2,2,0,0
+Shahid,5,15,6,0
+Yannic,1,0,0,0
+Kristian Holsheimer,1,0,0,0
+EFanZh,11,149,62,0
+Adria Puigdomenech,62,2070,400,0
+Richard Barnes,1,11,4,0
+Lena Martens,2,34,0,0
+parkers,4,44,5,0
+Jasper Vicenti,1,0,0,0
+Prabindh Sundareson,3,14,6,0
+Gomathi Ramamurthy,1,0,0,0
+RALOVICH Kristof,6,390,109,0
+shahidhs-ibm,1,6,0,0
+David Refaeli,1,0,0,0
+Brett Koonce,77,122,122,0
+Wei Wang,11,108,41,1
+Dan Smilkov,880,41643,23926,2
+Kevin Wang,1,2,2,0
+Lasse Espeholt,36,499,257,0
+Simon Plovyt,3,27,5,0
+韩董,3,6,15,0
+Kevin Rose,5,57,48,0
+skeydan,1,14,3,0
+handong,1,6,0,0
+Juram Park,2,5,9,0
+aflc,1,7,10,0
+G. Ari Aye,1,0,0,0
+dengziming,9,13,13,0
+Joshua V. Dillon,863,40487,31298,1
+cathy,3,2,2,0
+Asmita Poddar,3,189,115,0
+wenxizhu,106,3241,1588,0
+Satoshi Tanaka,1,9,4,0
+yuan,19,1078,439,0
+Youwei Song,1,0,0,0
+Robert Herbig,1,3,3,0
+HarikrishnanBalagopal,5,11,7,0
+Greg Billock,12,407,317,0
+Tim Bradley,1,26,0,0
+Romeo Kienzler,1,0,0,0
+Stefan Dierauf,7,291,241,0
+DESKTOP-GOCKTI8\monkey_jesus,1,6,6,1
+saishruthi,102,411,124,3
+Yongfeng Gu,62,3031,1176,0
+Tim Gates,1,0,0,0
+Divyanshu,1,0,0,0
+Yuxin Wu,93,942,553,0
+Fred Reiss,44,998,253,0
+Nagy Mostafa,22,589,67,0
+Jessan Hutchison-Quillian,3,30,8,0
+refraction-ray,3,40,29,0
+Luciano Resende,8,15,5,0
+Huang Chen-Yi,3,4,7,0
+Nick Hamatake,35,611,27,0
+Alex Torres,2,14,26,0
+Colle,1,0,0,0
+candy.dc,9,79,27,0
+David Norman,102,1767,461,1
+Ilham Firdausi Putra,19,171,40,0
+James Martens,27,879,525,0
+Anton Kachatkou,12,200,29,0
+Zaccharie Ramzi,7,41,27,0
+Ryan McCormick,1,0,0,0
+Artem Ryabov,1,27,0,0
+Paul Wais,1,0,0,0
+Alina Sbirlea,19,1303,640,0
+Daniel Wong,3,41,28,0
+Chris Lattner,1982,40286,26978,2
+anubh-v,3,22,7,0
+Igor Saprykin,338,14725,7440,4
+Sundeep Gottipati,28,888,684,0
+Dan Ringwalt,205,5766,2024,0
+Muhwan Kim,2,0,0,0
+Chintan Kaur,3,45,21,0
+HJYOO,1,2,0,0
+Siddhartha Bagaria,2,12,2,0
+Zhang,1,0,0,0
+王振华 (Zhenhua WANG),8,124,54,0
+Karthik Muthuraman,55,677,258,0
+Camillo Lugaresi,1,3,0,0
+Jue Wang,1,53,53,0
+Oscar Ramirez,6,168,82,0
+Brendan McMahan,1,4,2,0
+Takeshi Watanabe,1,0,0,0
+Bhavani Subramanian,118,5497,2588,0
+TensorFlower Gardener,4,78,42,0
+Ivan Habernal,10,72,28,0
+Emily Glanz,1,14,19,0
+Matthew Denton,4,683,61,0
+Vinu Rajashekhar,142,4638,871,0
+Jun Wan,4,10,0,0
+Andrii Prymostka,19,859,766,0
+jpienaar,4,6,2,0
+kstuedem,2,9,3,0
+Matthew Bentham,1,0,0,0
+Timothy Liu,1,224,56,0
+Tomer Gafner,3,2,2,0
+Aaron Ma,1,0,0,0
+captain-pool,18,383,176,0
+olramde,1,0,0,0
+Lukas Folle,28,161,52,0
+Eileen Mao,1,2,0,0
+Dan Ganea,11,115,54,0
+richardbrks,3,0,0,0
+Trevor Morris,396,10236,3879,2
+Kan Chen,1,3,3,0
+Pete Blacker,25,235,99,0
+Mehrdad Khatir,26,1051,118,0
+Saket Khandelwal,2,6,6,0
+I-Hong,15,204,70,0
+Shining Sun,170,4973,2746,0
+Choong Yin Thong,1,0,0,1
+Yin Thong Choong,2,23,11,0
+4d55397500,8,17,11,0
+Edd Wilder-James,5,8,2,0
+Kashif Rasul,16,218,76,1
+Dr. Kashif Rasul,19,165,74,0
+Chong Yan,2,2,2,0
+fwcore,2,0,0,0
+Shubham Goyal,1,2,0,0
+ThisIsIsaac,65,395,301,0
+jojimon.varghese,6,33,30,0
+Neil,44,151,137,0
+Johan Gunnarsson,2,0,0,0
+Junyuan Xie,1,19,14,0
+ocjosen,4,22,4,0
+Alexey Romanov,18,79,48,0
+Reuben Morais,2,12,9,0
+Krzysztof Drewniak,2,11,5,0
+Saran Tunyasuvunakool,7,110,10,0
+Ben Lee,30,663,74,0
+Phillip Kravtsov,121,1837,1179,0
+Stephen McGroarty,2,10,0,0
+Patrick J. LoPresti,3,8,0,0
+jiakai,21,30,52,0
+Andrew Lihonosov,1,7,0,0
+Amit Srivastava,136,2016,394,1
+Mei Jie,1,3,2,0
+Till Hoffmann,40,921,178,0
+Gianluca Varisco,1,5,5,0
+Nathan Wells,9,216,214,0
+jayhpark530,1,0,0,0
+jim.meyer,1,2,0,0
+Yuchen Ying,1,0,0,0
+Sudip Roy,1,8,0,0
+Jeroen Bédorf,39,1336,126,0
+Siju Samuel,131,863,596,1
+RonLek,1,15,15,0
+Masaki Kozuki,4,7,7,0
+Alex Ilchenko,5,319,144,0
+vivek suryamurthy,1,4,7,0
+Alex Itkes,1,2,2,0
+Martin Mlostek,1,2,2,0
+Jekyll Lai,1,0,3,0
+Qingqing Cao,2,17,0,0
+Tae-Hwan Jung,1,2,8,0
+vbvg2008,2,3,0,0
+Casper da Costa-Luis,10,9,9,0
+Rishabh Kabra,9,30,28,0
+Dayananda-V,58,1067,712,2
+Srini511,1,0,0,0
+Taehoon Lee,385,911,917,0
+Patrik Gustavsson,1,2,2,0
+Imran Salam,21,259,100,0
+Abdullah Selek,4,32,14,0
+Karl Lessard,1432,12922,1975,1
+Patrick Coady,2,16,15,0
+Rasmus Diederichsen,6,25,19,0
+Zantares,14,505,737,1
+Jojimon Varghese,4,246,12,0
+alhkad,1,0,0,0
+Daryl Ng,26,1434,340,0
+Siju,90,75,75,0
+khanhlvg,1,0,0,0
+Martijn Vels,15,241,243,0
+Taylor Jakobson,25,1222,123,0
+Gabriel,1,3,3,0
+Manraj Singh Grover,1,11,0,0
+pkanwar23,5,76,32,0
+Zi Yang,2,3,0,0
+Rasmus Munk Larsen,552,10277,6385,0
+Jeremiah Harmsen,18,690,83,0
+Sourabh Bajaj,612,13615,4256,2
+Joel Shapiro,3,15,5,0
+musikisomorphie,4,64,19,0
+Kyuwon Kim,1,0,0,0
+Son Tran,16,310,67,0
+Suyog Gupta,30,858,296,0
+Jesper Dramsch,6,32,16,0
+Cao Zongyan,50,833,257,1
+Gleb Popov,11,81,24,0
+Severen Redwood,1,0,0,0
+Putra Manggala,2,10,10,0
+Vasileios Lioutas,5,55,16,0
+Bjarke Hammersholt Roune,151,4193,995,1
+Pranav Marathe,40,1055,1131,0
+Nayana Thorat,10,33,16,0
+terryky,1,0,0,0
+Greg Peatfield,7,673,0,0
+per1234,1,5,5,0
+Julian Niedermeier,14,64,32,0
+Gaurav Mishra,42,2864,77,0
+mpppk,16,24,24,0
+G. Hussain Chinoy,3,4,3,0
+jefby,1,3,3,0
+Alex Sergeev,31,199,36,0
+haison,1,0,0,0
+sleighsoft,16,271,87,0
+Eddie Zhou,31,658,115,0
+Cheng Chang,5,19,15,1
+JiangXIAO,1,0,0,0
+sumesh udayakumaran,58,761,574,0
+zyeric,1,0,0,0
+Dwight J Lyle,1,2,2,0
+gehring,3,3,0,0
+Elroy Ashtian Jr,1,0,0,0
+Eamon Ito-Fisher,2,14,0,0
+kbhute-ibm,3,5,0,0
+eashtian3,4,10,3,0
+David Bieber,4,4,2,0
+Kabir Kwatra,3,15,9,0
+Gustavo Lima Chaves,1,4,0,0
+Sigrid Keydana,1,0,0,0
+Grzegorz Pawelczak,87,1469,590,0
+sana-damani,82,781,492,0
+Alexander Pivovarov,1,0,0,0
+Chen Guoyin,2,5,0,0
+zhengdi,5,51,20,0
+Joon,1,3,0,0
+Amit Sabne,8,845,49,0
+Junqin Zhang,2,123,2,0
+ejot,1,3,3,0
+merturl,1,3,0,0
+koock yoon,1,0,0,0
+Haraldur Tómas Hallgrímsson,1,0,0,0
+yann-yy,2,6,4,0
+ymodak,3,2,5,0
+Jeffrey Poznanovic,36,370,239,0
+Joe Bowser,10,15,7,0
+Phan Van Nguyen Duc,1,0,0,0
+Niklas Silfverström,1,0,0,0
+Yan Facai (颜发才),474,8068,2721,1
+Christopher Yeh,11,77,74,0
+leonard951,1,5,0,0
+Justin Tunis,1,0,0,0
+Astropeak,2,7,6,0
+Tamas Berghammer,1,16,0,0
+Gurpreet singh,2,7,15,0
+chengchingwen,10,105,14,0
+Dominik Schlösser,3,4,0,0
+Michal W. Tarnowski,10,512,52,0
+zhuoryin,12,336,230,0
+gurpreetsingh9465,30,259,218,0
+jhalakp,21,549,492,0
+smilu97,4,16,2,0
+TheMindVirus,2,57,0,0
+Mike Dreves,2,0,7,0
+Charles Weill,1,8,4,0
+Arpit Shah,42,916,23895,0
+Adam Richter,4,8,5,0
+Bin Fan,6,618,12,0
+Takeo Sawada,1,4,2,0
+André Susano Pinto,6,36,122,0
+Paul Suganthan,1,0,5,0
+Tongxuan Liu,7,31,15,0
+Ramon Viñas,1,0,0,0
+Maksym Kysylov,3,31,12,0
+Pariksheet,23,300,62,0
+winstonq,1,5,3,0
+aweers,13,72,29,0
+Musikisomorphie,4,319,97,0
+Augustina Ragwitz,1,25,6,0
+Yuan (Terry) Tang,162,1455,2717,1
+Mikalai Drabovich,3,8,7,0
+Josh Beal,2,39,0,0
+Goutham Bhat,14,961,65,0
+Filip Matzner,4,19,2,0
+sxwang,13,616,27,0
+Brennan Saeta,830,26329,6386,0
+bodin-e,31,1160,441,0
+Duncan Dean,2,24,2,0
+Neal Wu,139,751,8392,0
+v1incent,3,2,2,0
+Vincent,3,11,0,0
+Cong Liu,93,2172,660,0
+Shashank Gupta,9,20,16,0
+FlashTek,21,324,183,0
+Anshuman Tripathy,3,145,7,0
+Anthony Hsu,1,5,3,0
+Justin DuJardin,7,131,53,0
+Subin,1,0,0,0
+GimYeongJin,1,2,2,0
+Geoffrey Irving,1287,16248,8367,1
+Thang Luong,2,43,5,0
+Pasquale Minervini,7,34,17,2
+avasid,1,5,3,0
+Philipp Jund,18,765,113,0
+Bayberry Z,2,7,7,0
+shashvatshahi1998,43,240,211,1
+Tyorden,2,2,2,0
+Thomas Hagebols,6,60,70,0
+R S Nikhil Krishna,1,10,10,0
+TungJerry,1,2,0,0
+Ruizhe,1,2,0,0
+mosesmarin,1,2,0,0
+Moses Marin,15,61,64,0
+Lifeng Nai,16,129,83,0
+robert,1,13,0,0
+Roman Soldatow,1,0,0,0
+Blénesi Attila,1,2,2,0
+Pengchong Jin,12,78,31,0
+Dustin Neighly,3,13,13,0
+Pavel Akhtyamov,7,67,15,0
+黄鑫,1,0,0,0
+mrTsjolder,48,585,340,0
+Hanton Yang,1,0,0,0
+luxupu,2,5,15,0
+Christian Hansen,4,10,12,0
+Vijay Ravichandran,2,23,14,0
+Brad Huang,2,13,9,0
+Nick,2,0,0,0
+KDR,1,7,7,0
+Sebastien Iooss,1,12,12,0
+Alex,1,0,0,0
+Edward Forgacs,1,0,0,0
+serv-inc,2,3,3,1
+Jason Zavaglia,1,0,0,0
+Albert Z. Guo,1,3,2,0
+Guokai Ma,47,1143,233,0
+Aman Patel,1,0,0,0
+Aurélien Geron,11,187,14,0
+Albin Joy,31,464,421,0
+Haakan Younes,5,10,6,1
+Kevin Mader,3,36,0,0
+DavidNorman,128,2768,1267,0
+gurpreet singh,25,445,279,0
+Dimitrios Vytiniotis,28,641,305,0
+nlewycky,1,0,0,0
+Ayush Agrawal,7,72,9,0
+chenchc,1,2,2,1
+Nick Lewycky,1,8,3,0
+Xin Gao,2,2,2,0
+Xin,1,2,3,0
+shashvat,1,9,2,0
+Pariksheet Pinjari,7,8,0,0
+Irene Dea,4,85,4,0
+Letian Kang,9,1220,879,0
+monklof,1,68,11,0
+Donovan Ong,1,23,7,0
+Noah Fiedel,32,3110,26,0
+Mandar Deshpande,5,13,8,0
+chie8842,1,0,3,0
+PeterLee,2,0,0,0
+Tim Zaman,3,14,0,0
+Shohini Ghosh,2,228,0,0
+ted chang,15,72,27,0
+omeir1,8,25,8,0
+mandroid6,19,125,82,0
+blairhan,1,0,0,0
+Petros Mol,82,4578,372,0
+nuka-137,1,0,0,0
+abenmao,3,48,6,0
+Viktor Gal,1,3,0,0
+Shashi Shekhar,544,19488,3629,1
+jer,3,9,9,0
+Matt Silverlock,1,0,7,0
+K Yasaswi Sri Chandra Gandhi,27,10,4,0
+sremedios,1,2,2,0
+Sumesh Udayakumaran,17,231,39,0
+P Sudeepam,10,64,23,0
+arp95,1,32,0,0
+seanshpark,1,0,4,0
+lvli,3,13,7,0
+Daniel Salvadori,4,8,7,0
+XinPing Wang,4,61,0,0
+Yeqing Li,3,46,13,0
+Aurelien Geron,55,1738,217,1
+Neeraj Pradhan,1,3,0,0
+RJ Ryan,490,12417,3620,1
+sdamani,13,76,40,0
+Mark Ryan,17,118,80,0
+Amit,25,23,22,0
+rthadur,1,3,3,0
+Gyoung-yoon Ryoo,2,0,6,0
+Alan Du,8,18,19,0
+jtressle,1,0,0,0
+a6802739,3,121,14,0
+Quan Wang,1,7,2,0
+Drew Szurko,1,0,0,0
+Margaret Maynard-Reid,2,5,2,0
+Brandon Carter,1,5,3,0
+Jacky,14,54,35,0
+karl@kubx.ca,219,5111,2467,0
+Andreas Eberle,6,21,27,0
+Jiankang,1,2,2,0
+Pan Daoxin,39,1522,897,0
+Lucas Hendren,14,41,32,0
+Huan LI (李卓桓),2,6,5,0
+Mike Arpaia,1,2,0,0
+Armen Poghosov,3,29,25,0
+Vladimir Moskva,7,14,16,0
+Melissa Grueter,4,382,11,0
+armenpoghosov,2,8,12,0
+Mustafa Ispir,702,26072,12055,2
+ryan jiang,3,18,0,0
+Natalia Gimelshein,2,18,0,0
+zjjott,1,0,0,1
+csukuangfj,1,2,2,0
+Marco Gaido,1,6,4,1
+Rohit Gupta,1,0,0,0
+Seth Troisi,1,0,0,0
+Joe Q,1,19,0,0
+jwu,10,72,53,0
+hari,35,1652,620,0
+HARI SHANKAR,37,101,79,0
+10000000000000000159028911097599180468360808563945281389781327557747838772170381060813469985856815104,17,467,346,0
+kaixih,33,1563,564,0
+Jonathan Kyl,1,0,0,0
+Noah Eisen,67,1210,1236,0
+Yuan Lin,14,119,84,0
+HanGuo97,1,0,0,0
+Dan Lazewatsky,1,3,3,0
+Vagif,1,0,0,0
+Loo Rong Jie,135,869,415,0
+K. Hodges,1,0,0,0
+Karl Weinmeister,2,20,8,0
+Mihail Salnikov,1,2,2,0
+Eric Liu,73,2274,265,0
+yonghuiguo,2,4,0,0
+Mani Varadarajan,2,3,3,0
+Hoeseong Kim,25,698,53,0
+Shahzad Lone,3,23,21,0
+Andrew Cotter,23,2802,81,0
+王振华 (WANG Zhenhua),5,37,6,0
+Supriya Rao,55,1785,761,0
+drpngx,461,23320,3973,0
+Vikram Tiwari,5,13,9,0
+Sherry Yang,12,331,98,0
+Joseph Friedman,1,0,0,0
+Roy Frostig,74,5103,602,0
+Michael Case,1220,15407,118466,1
+Mr. metal,2,3,0,0
+dmitrievanthony,26,642,763,0
+Thomas Deegan,11,104,53,0
+I-Hong Jhuo,1,2,2,0
+ctiijima,6,38,47,0
+Gautam,11,17,13,0
+Mark Collier,11,796,427,0
+Felix Lemke,1,0,0,0
+Chao Liu,1,0,0,0
+Mike Holcomb,1,3,3,0
+MattConley,3,0,0,0
+Miguel Morin,1,4,0,0
+Dheeraj Rajaram Reddy,30,769,175,0
+tomguluson92,4,0,0,0
+Spencer Schaber,4,8,7,0
+Marek Drozdowski,31,671,225,0
+Jonas Rauber,9,15,14,0
+Dayananda V,8,19,24,0
+Asim Shankar,1621,60682,20023,3
+Samantha Andow,3,27,10,0
+Saurabh Deoras,1,2,0,0
+Nutti,5,14,14,0
+Mark Heffernan,1974,61185,24528,2
+Jia Qingtong,1,0,0,0
+Ilango R,1,0,0,0
+ktaebum,1,0,0,0
+Adam Weiss,1,11,10,0
+awesomealex1,1,6,6,0
+Laurent Le Brun,1,4,4,0
+manhyuk,28,16,16,0
+Mickaël Schoentgen,14,28,28,0
+Ben Zinberg,3,30,29,0
+Heungsub Lee,2,0,0,0
+Kay Zhu,612,16538,11322,5
+Christoph Boeddeker,11,188,0,0
+Vishwak Srinivasan,1,0,0,0
+Jakub Lipinski,2,11,2,0
+Yves-Noel Weweler,12,225,70,0
+mars20,1,5,0,0
+vitor-alves,1,0,0,0
+Innovimax,1,0,0,0
+Ilya Biryukov,50,444,331,0
+WeberXie,2,8,6,1
+Taylor Thornton,2,12,4,0
+Ashwin Ramaswami,2,5,5,0
+jcf94,11,50,48,0
+Joe Quadrino,1,3,0,0
+Pavel Samolysov,2,5,0,0
+WeijieSun,1,0,10,0
+Keno Fischer,20,508,17,0
+Daniel Rasmussen,14,207,118,0
+Steve Lang,1,0,0,0
+Gautam Vasudevan,3,68,341,0
+Federico Martinez,1,0,2,0
+avijit-nervana,44,444,252,0
+Goldie Gadde,23,89,54,0
+Viacheslav Kovalevskyi,18,296,43,0
+hyunyoung,1,0,0,0
+Jacky Ko,33,162,114,0
+Jing Li,10,1191,10,0
+Meng Peng,10,157,143,0
+Luke Han,1,2,3,0
+Daniel Ingram,1,3,3,0
+neargye,5,5,15,0
+Dan Jarvis,5,56,4,0
+Andy Craze,4,12,6,0
+Steve Nesae,3535,191511,85826,0
+Dalmo Cirne,12,60,30,0
+Nayana-ibm,1,2,0,0
+卜居,6,52,57,0
+lxl910915,1,3,0,0
+vanderliang,2,25,0,0
+Vidak Kazic,2,62,0,0
+Chris Antaki,5,3,5,0
+Serge Panev,4,4,2,0
+John Lin,10,10,10,0
+Neargye,1,2,2,0
+Younes Khoudli,1,5,0,0
+Leon Graser,1,0,0,0
+Wen yun,2,23,0,0
+Benjamin Tan Wei Hao,1,0,0,0
+qiezi,1,12,0,0
+Feiyang Chen,1,0,0,0
+Sandip Giri,16,55,29,1
+Rajagopal Ananthanarayanan,2,9,23,0
+Castiel,1,2,0,0
+Jonathan,3,19,13,0
+Cibifang,17,698,80,0
+akikaaa,1,0,0,0
+olicht,10,157,158,0
+zhaoyongke,5,240,5,0
+Ouwen Huang,4,26,4,0
+sahilbadyal,1,0,0,0
+Yash Gaurkar,1,4,4,0
+Vadim Borisov,1,2,2,0
+Anders Huss,3,132,17,1
+Peng Yu,35,872,44,0
+NEWPLAN,1,0,0,0
+Dustin Tran,161,8602,4417,0
+Daniel Hunter,1,0,0,0
+Ubuntu,7,278,190,1
+Jiang Zhoulong,12,740,325,1
+Anton Dmitriev,200,6802,1731,0
+zldrobit,6,67,54,0
+fcole,1,4,0,0
+dianlujitao,3,14,9,0
+joaak,2,1158,1168,0
+Grzegorz George Pawelczak,1,0,4,0
+Mateusz Chudyk,4,5,5,0
+Thor Johnsen,21,8973,3163,0
+Artem Malykh,11,1211,0,0
+Michael,6,77,47,0
+Todd Wang,266,4068,2532,3
+HuiyangFei,4,18,449,0
+Javier Luraschi,5,11,10,0
+Pedro Monreal,18,25,25,0
+Daniel Visentin,2,7,5,0
+BY Shen,2,0,0,0
+margaretmz,12,2048,1758,0
+Rholais Lii,5,32,29,0
+Anna Revinskaya,4,0,31,0
+Jonathan J Hunt,10,280,49,0
+Yaniv Blumenfeld,8,35,33,0
+Jonathan Wyatt Hoech,20,443,53,0
+Palmer Lao,1,0,0,0
+Josh Gordon,5,956,1043,0
+Gitea,6,12,12,0
+Brendan Finan,1,0,0,0
+Cong Xu,6,616,5,0
+Roger Iyengar,2,8,17,0
+steven,10,435,87,0
+Brian Nemsick,2,0,0,0
+Deepak B,19,285,164,1
+Seunghoon Park,2,24,0,0
+Raghuraman Krishnamoorthi,156,5230,1532,0
+wateryzephyr,1,21,12,0
+Shimin Guo,8,13,2,0
+Shafi Dayatar,1,13,2,0
+himkt,1,5,5,0
+knight,3,20,21,0
+Richard Wei,10,60,84,0
+Alexis Louis,1,3,3,0
+rachellj218,1,7,0,0
+Jason Furmanek,7,126,49,0
+Muhammad Wildan,4,13,2,0
+Scott Leishman,2,6,2,0
+Pavel Sountsov,2,85,78,0
+Li Yiqiang,13,162,165,0
+Makoto Uchida,14,118,43,0
+Marcela Morales Quispe,2,12,9,0
+jackonan,4,8,4,0
+Nehal J Wani,4,4,2,0
+Yicheng Fan,10,102,125,0
+shengfuintel,4,41,4087,0
+Andreas Madsen,16,960,14,0
+Tingbo Lu,1,0,0,0
+Andrew Banchich,1,0,0,0
+YongJoon Lee,3,5,5,0
+Christopher Olston,78,5345,388,0
+joe yearsley,3,5,5,0
+Joe Yearsley,10,23,7,0
+josephyearsley,9,47,14,0
+lanhin,3,0,0,0
+knightXun,1,3,0,0
+Piotr Padlewski,149,6166,1608,0
+franklin5,2,4,4,0
+Rin Arakaki,3,4,4,0
+IMBurbank,39,346,95,0
+Dave Airlie,3,3,0,0
+William Irons,1,2,0,0
+Isaac Burbank,2,0,78,0
+Richard Yu,4,9,9,0
+Debidatta Dwibedi,3,39,5,0
+Steven,10,500,26,0
+Yutaka Leon,130,7920,2227,0
+Dougal J. Sutherland,3,476,3,0
+Roland Fernandez,1,0,0,0
+Elms,1,0,0,0
+Yanbo Liang,18,168,55,0
+manipopopo,6,243,82,0
+Shujian2015,1,3,4,0
+Moritz Kröger,1,5,4,0
+David G. Andersen,213,3496,1627,0
+Max Pumperla,1,38,38,0
+Akshay Agrawal,337,9704,5402,0
+Samuel Matzek,6,85,33,0
+Jenny Sahng,2,2,2,0
+leondgarse,3,2,9,0
+(David) Siu-Kei Muk,14,155,106,0
+Rasmi Elasmar,4,10,0,0
+Joppe Geluykens,2,4,3,0
+hellcom,1,0,0,0
+Johannes Bannhofer,1,0,0,0
+Olivia Nordquist,389,6150,4956,4
+Smokrow,3,20,5,0
+pengwa,16,25,46,1
+Edvard Fagerholm,1,7,2,0
+Jonathan Homer,1,3,3,0
+在原佐为,4,3,3,0
+Vinícius Camargo,1,3,3,0
+Roger Xin,1,2,2,0
+Sangjung Woo,1,0,0,0
+coder3101,2,8,8,1
+Patrik Sundberg,15,2507,589,0
+Naurril,2,4,0,0
+Ming Li,2,0,0,0
+naurril,8,67,46,0
+Yao Zhang,533,21712,3975,0
+weidankong,20,735,182,0
+Misha Brukman,14,64,56,0
+Keishi Hattori,1,4,3,0
+Stefan Dyulgerov,6,110,29,1
+Santosh Kumar,1,2,2,0
+Dao Zhang,1,3,3,0
+Avijit,28,3153,2474,0
+Zafarali Ahmed,3,86,0,0
+Vikram Tankasali,100,11,28870,0
+gracehoney,400,7324,6264,1
+Soila Kavulya,30,457,351,0
+Kate Hodesdon,2,0,0,0
+Aapeli,1,0,2,0
+Artem Sobolev,2,0,2,0
+Mehdi Sharifzadeh,6,514,514,0
+Vitaly Lavrukhin,4,28,16,0
+feiquan,3,20,0,0
+kouml,2,2,2,0
+bstriner,6,38,40,0
+formath,13,135,89,0
+Ruizhi,4,2,2,0
+Wesley Qian,15,970,99,0
+Patrick Nguyen,1014,31015,15197,0
+Seb Bro,5,8,9,0
+npow,2,17,12,0
+Jiawei Zhang,1,2,2,0
+Robin Richtsfeld,66,1110,615,1
+rasmi,3,2,0,0
+Reeze Xia,2,2,2,0
+melvinljy96,2,10,6,0
+Xuechen Li,104,7273,3446,1
+Niall Moran,2,10,7,0
+weidan.kong,2,246,44,0
+Monica Dinculescu,1,3,3,0
+Vicente Reyes,1,0,0,0
+silent567,1,2,2,0
+Justin Shenk,3,2,2,0
+Andrew Gibiansky,7,9,7,1
+Pei Zhang,1,3,3,0
+ThisIsPIRI,2,7,4,0
+cbockman,3,5,2,1
+Max Galkin,71,1770,729,0
+Raymond Yuan,8,402,13,1
+Daniel Zheng,3,11,12,0
+sfujiwara,1,2,2,0
+Johannes Schmitz,1,2,2,0
+David,1,0,0,0
+Áron Ricardo Perez-Lopez,1,0,0,0
+Rakesh Chada,3,15,12,0
+CUI Wei,1,0,0,0
+Matt Dodge,1,2,2,0
+Rui Zhao,23,276,408,0
+hehongliang,6,250,107,0
+cosine0,1,0,0,0
+shaohua,1,2,2,1
+Guoliang Hua,1,2,0,0
+Yoshihiro Yamazaki,7,16,3,0
+Man Yuan,1,0,0,0
+Herman Zvonimir Došilović,2,0,4,0
+Jie,263,7653,4151,1
+Shaba Abhiram,6,104,67,0
+adoda,1,0,0,0
+Eliel Hojman,2,2,2,0
+Anirudh Koul,1,0,0,0
+Miguel Mota,1,0,0,0
+KB Sriram,72,3172,672,0
+XFeiF,1,15,10,0
+Ray Kim,1,0,0,0
+qwertWZ,1,0,0,0
+Nick Desaulniers,122,1945,930,0
+Sunitha Kambhampati,10,95,21,0
+Peng Wang (SIMPENG),2,0,0,0
+Jacker,1,4,7,0
+vilmar-hillow,1,0,0,0
+cheerss,1,2,2,0
+wim glenn,1,8,8,0
+Kenneth Blomqvist,1,0,0,1
+Jongmin Park,1,0,0,0
+Paul Woitaschek,4,9,5,0
+Pratik Kalshetti,1,0,0,0
+Amogh Mannekote,3,37,49,0
+Jan Horst Hünnemeyer,9,16,16,0
+Jon Perl,3,2,0,0
+Shashi,2,4,2,0
+wangershi,1,4,2,0
+Nafis Sadat,1,201,0,0
+tianyapiaozi,1,4,4,0
+Rodrigo Silveira,1,0,0,0
+Li Liangbin,7,41,12,0
+Dmitry Klimenkov,4,16,16,0
+Pradeep Banavara,2,109,14,0
+kjopek,1,0,0,0
+SneakyFish5,2,3,3,0
+mktozk,14,405,37,0
+TShapinsky,1,0,0,0
+Alex Wiltschko,2,63,114,0
+Nitish,1,0,0,0
+Bjørn Moholt,1,0,0,0
+Andrew Ginns,1,0,0,0
+Tristan Rice,14,648,28,0
+张晓飞,1,0,0,0
+Mahmoud Aslan,1,0,0,0
+nrstott,16,124,20,0
+张天启,1,0,0,0
+Dan J,7,75,21,0
+Terry Koo,5,65,14,0
+PENGWA,7,39,23,1
+Tony Wang,49,1308,494,0
+Jon Triebenbach,5,37,2,0
+Parag Jain,1,0,0,0
+Nicolas Lopez,3,24,2,0
+Dan Dascalescu,1,0,0,0
+Yu YI,1,4,4,0
+"freedom"" Koan-Sin Tan",55,1629,67,0
+Zé Vinícius,1,0,0,0
+xxxx001,15,147,147,0
+Christian Ertler,8,527,40,0
+Peng Wang(SIMPENG),2,11,0,0
+Jayaram Bobba,58,2953,2550,0
+Andrei Nigmatulin,14,161,32,0
+Yu Yi,2,231,245,0
+Naman Bhalla,2,0,0,0
+Wenyi Tang,15,304,57,0
+Vikram,1,4,4,0
+Rafal Wojdyla,2,29,0,0
+Jongmin Baek,1,0,0,0
+Martin Patz,1,0,0,0
+Dan Osipov,16,58,128,0
+ManHyuk,112,121,121,0
+chinmay Das,1,0,0,0
+Younghee Kwon,102,9286,776,0
+Jiandong Ruan,1,2,2,0
+Mohammad Ashraf Bhuiyan,6,233,6,1
+ruanjiandong,2,21,0,0
+Steven Schmatz,1,2,2,0
+Taras Sereda,1,0,0,0
+Jason Taylor,1,0,0,0
+Surry Shome,1,0,3,0
+maxpumperla,1,39,21,0
+Emanuele Ballarin,2,11,0,0
+jiefangxuanyan,3,32,10,1
+hsm207,4,4,4,0
+Madiyar,1,0,2,0
+SRIRAM VETURI,1,0,0,0
+Nishidha,8,77,25,0
+Hsien-Yang Li,3,98,9,0
+accraze,3,23,8,0
+tucan,2,0,0,0
+Karan Kaw,3,0,0,0
+Chikanaga Tomoyuki,5,53,2,0
+Benjamin H. Myara,2,3,3,0
+chengzhi chen,7,115,9,0
+An Jiaoyang,1,2,2,0
+apantykhin,2,17,5,0
+Jesse,4,7,8,0
+Courtial Florian,8,167,15,0
+KinmanLam,1,0,3,0
+vchigrin,11,510,134,0
+Dan Douthit,2,11,36,0
+G K,3,9,3,0
+Frédéric Branchaud-Charron,4,68,18,0
+jsawruk,1,2,2,0
+ImSheridan,75,342,335,2
+leiiwang,1,8,2,0
+Roland Zimmermann,2,167,61,0
+Martin Zeitler,1,3,3,0
+Benoit Steiner,3723,327386,137069,4
+Xiaoqiang Zheng,317,12854,3325,0
+Felix Abecassis,11,30,26,0
+Jesse Benson,1,4,0,0
+JxKing,14,1166,35,0
+Chris Ying,37,1116,286,0
+Florian Courtial,10,387,170,0
+Rob Sloan,6,900,642,0
+Guido Zuidhof,1,0,0,0
+voegtlel,2,36,30,0
+braincodercn,1,0,0,0
+Brian Zier,1,2,2,0
+AD-530,1,2,0,0
+crafet,1,0,2,0
+Ankur Taly,146,1679,326,0
+Sdalbsoo,1,2,2,0
+Justine Tunney,2275,100129,89929,0
+Fergal Cotter,1,4,4,0
+gdh1995,2,11,0,0
+Sarah Edkins,1,0,0,0
+soonson,1,25,4,0
+Nand Dalal,4,71,7,0
+Qing ZHao,1,0,0,0
+Bruno Goncalves,1,2,0,0
+krantideep95,2,0,0,0
+Jesse Gumz,2,12,2,0
+u2takey,1,3,0,0
+Utkarsh Upadhyay,2,14,3,0
+Joel Hestness,31,3145,204,0
+Yilei (Dolee) Yang,1,3,3,0
+Jan Zikes,3,8,9,0
+Paul Van Eck,18,108,51,0
+pillarpond,1,2,0,0
+Achal Shah,1,0,0,0
+P-Hidringer,1,0,0,0
+Smit Shilu,3,0,2,0
+Zhixian Yan,38,1959,142,0
+Letian Feng,3,3,5,0
+jjsjann123,12,355,498,0
+tucan9389,1,0,0,1
+Krish Ravindranath,7,18,12,0
+Anya Petrova,1,0,0,0
+Aditya Yogi,1,0,0,0
+Nicholas Nadeau P.Eng. AVS,86,97,98,0
+Elson Rodriguez,2,69,16,0
+Mostafa Alaa,1,0,0,0
+joel-shor,55,663,444,0
+Maciej,2,7,4,0
+Eli Bendersky,662,3705,6299,0
+rmanyari,1,0,0,0
+Sherry Moore,206,9064,1054,0
+QingYing Chen,4,254,11,0
+Stefan Schweter,1,0,0,0
+Sandeep N Gupta,3,138,53,0
+Malcolm Reynolds,12,162,83,0
+Junpeng Lao,22,321,67,0
+Filipe Filardi,6,37,26,0
+anj-s,5,109,58,0
+Sagi,1,0,0,0
+zhangyaobit,2,0,0,0
+Andy Kernahan,6,106,8,0
+Steven Winston,1,0,0,0
+Tao Wei,1,0,0,0
+Bryan Heden,1,0,0,0
+foo0x29a,1,0,0,0
+ADiegoCAlonso,5,3,3,0
+Haggai,10,101,16,0
+jinghuangintel,10,293,144,0
+Yangzihao Wang,211,10237,1976,1
+akindyakov,15,270,69,0
+SukHwan Kim,1,0,0,0
+imsheridan,102,237,242,1
+Jiajia Li,1,2,0,0
+MyungSung Kwak,1,0,0,0
+Karol M. Langner,1,3,3,0
+Wenhao Hu,20,157,75,0
+wenhao.hu,6,10,10,0
+Neil Tenenholtz,1,0,5,0
+Sam Sendelbach,1,2,0,0
+eqy,1,0,0,0
+Siu Kei Muk,5,57,10,0
+David T.H. Kao,3,17,3,0
+James Wexler,19,157,64,0
+Ka Long,1,0,0,0
+Russell Klopfer,3,20,5,0
+Seyed Majid Azimi,1,0,0,0
+Yihong Wang,1,6,0,0
+Quanlong,1,2,0,0
+Shaoning Zeng,1,4,4,0
+Wai Hon Law,1,0,0,0
+Hovhannes Harutyunyan,14,1137,245,1
+Seungwoo Choi (Biggie),1,0,0,0
+Michal Turek,2,4,0,0
+tamimaddari82,1,22,12,0
+Ivan Zhang,1,0,0,0
+Vadim Markovtsev,4,13,2,0
+bhavani-subramanian,1,9,0,0
+Rajendra arora,33,64,57,0
+Ilya Polenov,1,0,2,0
+DosLin,2,2,0,0
+nio1814,2,75,23,0
+Thomas Bastiani,1,4,0,0
+Cédric Deltheil,2,10,5,0
+Sebastián Ramírez,1,3,3,0
+Jon Shlens,9,534,16,0
+Silver Chan,1,0,0,0
+Andrew Harp,1323,40343,10059,2
+msofka,1,0,0,0
+Chris Tava,7,42,22,0
+Nathan Burnham,1,2,2,0
+Jerry Liu,3,64,7,0
+Ou Changkun,1,2,0,0
+Maximilian Mitchell,2,4,4,0
+Stanislaw Antol,14,396,7,0
+Anton Matosov,13,159,79,0
+Yashal Shakti Kanungo,1,28,26,0
+Marvin Richter,1,0,0,0
+Joel Shor,3,46,4,0
+Sang Han,2,6,4,0
+Frank Perbet,17,441,192,0
+Ziyue(Louis) Lu,1,0,0,0
+Ankit Gupta,2,2,2,0
+Piotr Czapla,2,11,7,0
+Surya Bhupatiraju,6,324,68,0
+Tarang Chugh,1,0,0,0
+Fanjin Zeng,1,0,0,0
+Alan Lee,2,0,0,0
+Brent Yi,1,0,0,0
+Aghasy,1,3,3,1
+Giovanni Terlingen,1,4,2,0
+Jiongyan Zhang (张炯衍),3,5,3,0
+Jakub Kolodziejczyk,7,81,2,0
+Jong Wook Kim,1,10,8,0
+Xian Xu,1,0,0,0
+Aris L,1,0,0,0
+qjivy,9,131,5,0
+Rodrigo Formigone,1,8,0,0
+Laurence Moroney,2,9,0,0
+Gor Baghdasaryan,1,0,0,1
+Julian Eisenschlos,14,22,22,0
+Mustafa Kasap,1,4,0,0
+yaox12,1,2,2,0
+Animesh Karnewar,1,11,6,0
+Jason Sadler,1,0,2,0
+Oleg Zabluda,3,12,8,0
+Daniel Erenrich,1,2,2,0
+ryantimjohn,1,2,2,0
+Hanchen Li,12,244,12,1
+Siby Jose Plathottam,1,0,0,0
+Carl Thomé,14,54,12,0
+Panos Ipeirotis,2,7,2,0
+Dahan Gong,2,4,2,0
+Giuseppe,3,5,9,0
+Luke Iwanski,345,5443,1688,1
+Chi Zeng,4,57,53,0
+Yin Li,2,162,0,0
+Peter Lee,1,0,0,0
+Minmin Sun,5,901,6,0
+Penghao Cen,14,112,60,0
+june-one,1,3,3,0
+MandarJKulkarni,2,5,5,0
+vihanjain,2,8,2,0
+Jingwen,1,0,0,0
+Daniel Trebbien,14,41,48,0
+Seo Sanghyeon,1,0,0,0
+Martin Pool,1,3,2,0
+terrytangyuan,401,6209,4484,2
+Seungil You,6,14,12,0
+harumitsu.nobuta,1,0,0,0
+Danny Goodman,8,23,20,0
+Henry Spivey,1,0,0,0
+Deron Eriksson,2,14,14,0
+Michael Zhou,5,133,48,0
+Abe,2,2,2,0
+kdavis-mozilla,1,8,0,0
+Naman Kamra,1,0,0,0
+Donny Viszneki,1,0,0,0
+Jiongyan Zhang,7,355,287,1
+DONGGEON LIM,3,138,2,0
+MyungsungKwak,1,3,3,0
+seaotterman,3,0,0,0
+Yukun Chen,13,88,88,0
+MyungJoo Ham,11,257,121,0
+DylanDmitri,1,2,2,0
+Sukriti Ramesh,303,8640,1505,0
+mholzel,1,37,0,0
+matthieudelaro,1,0,0,0
+Johnson145,3,22,14,0
+Jerome,8,159,16,0
+Liang-Chi Hsieh,3,4,4,0
+"Haichen ""HC"" Li",1,0,0,0
+lazypanda1,2,4,2,0
+Phil,18,955,437,0
+Brad Wannow,1,2,2,0
+Glenn Weidner,2,0,0,0
+Julian Wolff,4,2,2,0
+Yusuke Yamada,1,0,0,0
+Marcus Ong,24,185,43,0
+Francisco Guerrero,1,2,0,1
+Tim H,17,1512,234,0
+Tod,1,0,0,1
+Mahesh Bhosale,1,0,0,0
+Rohin Mohanadas,1,0,0,0
+JackyKo,20,330,90,0
+Chris Drake,1,0,0,0
+Kenji,1,0,0,0
+lissyx,2,2,2,0
+Jeff Tang,1,0,0,0
+Jin-Hwan CHO,2,8,8,0
+jackyko,33,210,131,1
+Anjum Sayed,1,4,2,0
+Colin Raffel,6,84,2,0
+Dandelion Mané,584,16587,4436,0
+simsicon,1,0,6,0
+Cole Gerdemann,1,2,2,0
+yegord,2,48,42,0
+Boris Pfahringer,4,8,8,0
+Omar Aflak,1,0,0,0
+Qiumin Xu,4,20,15,0
+Jean Flaherty,22,1237,0,0
+elilienstein,3,4,4,0
+resec,24,305,90,0
+mjwen,2,39,4,0
+Po-Hsien Chu,2,18,20,0
+Jun Wang,1,2,3,0
+Yoni Tsafir,1,12,0,0
+Shrinidhi KL,2,2,0,0
+Shengpeng Liu,1,6,0,0
+Santiago Castro,6,90,70,0
+Keiji Ariyama,2,5,2,0
+Armando Fandango,1,5,2,0
+Luke Schaefer,1,0,0,0
+Stanislav Levental,4,24,2,0
+Jian Lin,1,3,0,0
+Ashish Kumar Ram,1,0,0,0
+Viraj Navkal,1,26,33,0
+Sam Matzek,1,51,0,0
+David Goodwin,1,8,2,0
+Paweł Kapica,4,181,0,0
+Jekyll Song,1,0,0,0
+Mohamed Aly,3,10,3,0
+Darjan Salaj,1,3,3,0
+Renat Idrisov,1,0,0,0
+Cesc,4,129,26,0
+lspvic,5,36,31,0
+Jesse Kinkead,3,135,116,0
+michaelkhan3,3,14,0,0
+Victor Costan,4,10,9,0
+Netzeband,1,6,2,0
+Clemens Schulz,2,43,42,0
+eladweiss,17,1601,897,0
+dssgsra,1,0,0,0
+Valentin Khrulkov,2,33,0,0
+starsblinking,1,0,0,0
+yordun,1,0,0,0
+Ashwini Shukla,2,350,0,0
+Ozge Yalcinkaya,1,85,19,0
+Parth P Panchal,4,28,5,0
+nathansilberman,3,122,0,0
+JerrikEph,2,103,16,0
+dmaclach,3,9,4,0
+cph,2,15,11,0
+Kiril Gorovoy,99,5158,393,3
+loki der quaeler,6,157,0,0
+fanlu,13,22,22,0
+Eunji Jeong,3,3,0,0
+Vivek Rane,98,6778,972,1
+hyunyoung2,2,2,2,0
+tkunic,2,37,12,0
+Kasper Marstal,9,9,45,0
+Yusef Shafi,2,16,0,0
+Takuya Wakisaka,1,2,2,0
+Raghu Krishnamoorthi,6,55,30,0
+Aiden Scandella,2,6,3,0
+Tijmen Verhulsdonck,2,49,8,0
+Kamil Sindi,2,51,0,0
+vade,1,0,0,0
+powderluv,8,464,230,0
+Allen Goodman,1,0,0,0
+Eric Lilienstein,1,2,2,0
+Philip Yang,1,24,2,0
+Matt Basta,1,0,0,0
+dongsamb,1,3,3,0
+Miguel Piedrafita,1,0,0,0
+Jay Young,8,14,4,0
+clint (woonhyuk baek),2,63,25,0
+Patryk Chrabaszcz,9,517,340,0
+Lynn Jackson,1,9,4,0
+Puyu Wang,1,0,0,0
+田传武,11,4,4,0
+Simone Cirillo,3,65,53,0
+Timofey Kondrashov,2,0,3,0
+JoshVarty,5,260,63,0
+Edward H,1,0,0,0
+jing1.huang,1,4,4,0
+codrut3,11,983,92,0
+k-w-w,2,14,5,0
+Dong--Jian,1,9,0,0
+Johnny Chan,1,0,0,0
+Stephen Lumenta,4,30,3,0
+Rasmus,1,0,0,0
+patrickzzy,1,0,0,0
+Pierre BLONDEAU,1,2,0,0
+Sahil Singh,1,0,0,0
+sandipmgiri,5,8,2,0
+Su Tang,1,0,0,0
+Changming Sun,83,511,262,0
+error.d,2,7,3,0
+Yaroslav Bulatov,40,185,47,0
+Ronald Eddy Jr,3,6,6,0
+Matthew Schulkind,2,54,28,0
+Dandelion Man?,1632,24761,153869,0
+wagonhelm,4,5,5,0
+Lucas Sloan,1,0,0,0
+Shreyash sharma,4,21,14,0
+Randy West,2,9,2,0
+Ted Ying,1,0,0,0
+Erich Elsen,3,10,4,0
+Andrei Costinescu,5,10,10,0
+Daniel Ylitalo,19,93,25,0
+Mike Knapp,1,4,0,0
+Viraj,4,63,49,0
+jfaath,2,18,18,0
+CQY,5,26,21,0
+Chris Donahue,2,13,2,0
+Akimasa KIMURA,2,0,0,0
+Johan Ju,1,2,0,0
+Codrut Grosu,3,27,29,0
+Zhengsheng Wei,7,44,38,0
+FirefoxMetzger,3,86,87,0
+Chris Filo Gorgolewski,1,2,0,0
+arixlin,1,0,0,0
+hannesa2,6,266,3,0
+Adam Zahran,1,0,0,0
+MathSquared,2,2,0,0
+dongpilYu,4,5,5,0
+Josh Varty,2,322,116,0
+Dan Becker,31,461,296,0
+peisong,1,0,0,0
+Toni Kunic,1,0,0,0
+Matt Wytock,1,4,3,0
+Jan,1,17,14,0
+Jeff,13,656,0,0
+John Sungjin Park,1,7,7,0
+Vishvananda Ishaya Abrams,2,33,3,0
+Ishant Mrinal Haloi,1,0,0,0
+FredZhang,2,4,4,0
+Gary Deer,2,19,0,0
+Alexander,13,301,88,0
+Charles Shenton,10,1239,0,0
+Jimmy Jia,6,69,43,0
+Guenther Schmuelling,18,93,30,1
+Marek Šuppa,1,0,0,0
+László Csomor,11,190,149,0
+scott,2,9,3,0
+concerttttt,1,0,0,0
+Keven Wang,1,0,0,0
+zxcqwe4906,1,3,3,0
+CSJY,5,40,0,0
+Chris Hoyean Song,77,588,103,0
+Christopher Shallue,6,139,45,0
+Kyle Mills,1,0,0,0
+cinqS,2,8,6,0
+Daniyar,3,40,9,0
+Alistair Low,1,4,3,0
+Youssef Hesham,3,0,0,0
+Gregg Helt,1,0,0,0
+Sandeep Dcunha,1,0,0,0
+Winnie Tsang,1,9,9,0
+Samuel He,1,0,3,0
+PinkySan,1,9,0,0
+Mats Linander,1,0,0,0
+Alex Rothberg,16,193,51,0
+Dave MacLachlan,1,3,0,0
+dariavel,21,606,148,0
+Joe Castagneri,3,9,7,0
+TTrapper,10,246,142,0
+Tim,1,67,63,0
+Daniel Zhang,2,4,2,0
+Thomas Schumm,11,183,10,0
+PW486,15,12,15,0
+Ralph Tang,1,0,0,0
+Cem Eteke,1,37,14,0
+amilioto,1,3,0,0
+Amy,4,24,18,0
+Ilya Edrenkin,7,288,12,0
+Cameron Thomas,1,2,0,0
+Amir H. Jadidinejad,1,10,0,0
+fcharras,1,6,5,0
+Nathan van Doorn,1,0,0,0
+pks,1,2,0,0
+Maximilian Bachl,1,12,10,0
+Noa Ezra,3,13,2,0
+Toon Verstraelen,1,0,0,0
+Yan Chen,24,654,293,0
+Yi Yang,1,0,0,0
+Qiao Longfei,1,14,11,0
+gunan,162,16793,2021,1
+miqlas,12,72,19,0
+opensourcemattress,6,178,153,0
+Eric Lv,1,0,0,0
+Steffen Schmitz,1,2,2,0
+Gaojin CAO,1,6,6,0
+qiao hai-jun,1,2,2,0
+Dmitry Trifonov,4,58,0,0
+Vish (Ishaya) Abrams,1,3,0,0
+Vijay Pai,5,33,14532,0
+Bo Wang,24,443,0,0
+Matthew Daley,2,58,0,0
+Jinze Bai,23,1098,190,0
+SaintNazaire,1,14,0,0
+Artëm Sobolev,1,2,2,0
+Urs Köster,1,7,0,0
+nolan liu,13,401,83,0
+Dhananjay Nakrani,11,144,85,0
+cglewis,3,3,3,0
+LevineHuang,2,2,2,0
+Rohan Varma,1,0,0,0
+Jeremy Sharpe,1,0,0,0
+Sarah Maddox,3,54,51,0
+Tim Harley,10,143,107,0
+ashankar,13,2999,12,0
+Mahdi Abavisani,1,2,2,0
+chi-hung,1,22,11,0
+Christian Grail,1,4,0,0
+michelleirvine,1,52,91,0
+Se-won Kim,1,0,0,0
+Bill Prin,1,0,0,0
+Simon Perkins,19,3238,501,0
+Ali Yahya,66,2518,1557,0
+Ryohei Kuroki,5,4,4,0
+Atlas7,2,35,2,0
+Sylvus,3,116,3,0
+Scott Mudge,1,40,11,0
+Armen Donigian,3,3,3,0
+Hanmin Qin,1,0,0,0
+melvyniandrag,1,0,0,0
+ZxYuan,1,2,4,0
+Jeff Carpenter,2,3,3,0
+Mike Case,2,2,2,0
+Scott Kirkland,1,0,2,0
+Fan Xia,1,10,10,0
+horance,21,116,114,0
+Andrew Myers,71,1792,764,0
+Sean Vig,2,44,2,0
+Pavel Christof,1,0,0,0
+John Impallomeni,1,3,3,0
+m-smith,1,0,0,0
+Anastasios Doumoulakis,26,289,105,0
+lhlmgr,2,2,2,0
+Matt Smith,1,3,2,0
+Dorokhov,1,2,2,0
+Ash Hall,1,6,6,0
+Jett Jones,1,4,3,0
+EMCP,1,0,0,0
+Codrut,3,6,7,0
+Jean Wanka,2,18,2,0
+John B Nelson,1,0,0,0
+JKurland,2,10,0,0
+Michele Colombo,2,0,0,0
+Sven Mayer,2,0,0,0
+tetris,1,3,2,0
+Kai Sasaki,7,40,29,0
+Duncan Mac-Vicar P,3,3,0,0
+Aseem Raj Baranwal,4,39,39,0
+Patrik Erdes,1,2,0,0
+jinze1994,1,12,18,0
+Chris Oelmueller,1,21,21,0
+Vincent Vanhoucke,118,7085,3552,0
+Mark Aaron Shirley,1,2,2,0
+Stuart Berg,2,2,2,0
+Kevin Slagle,1,5,7,0
+Lyndon White,1,0,0,0
+postBG,1,0,0,0
+joshkyh,1,0,0,0
+Jonas,1,0,0,0
+Daniel Grazian,5,421,25,0
+Andrew Erlichson,1,0,0,0
+Rasmi,1,0,0,0
+David Röthlisberger,1,0,0,0
+Sebastian Weiss,5,485,34,0
+Artsiom Chapialiou,6,86,51,1
+jinghua2,12,440,154,0
+EdwardDixon,1,3,6,0
+Marcel Puyat,1,0,0,0
+Amit Kushwaha,9,19,63,0
+Kenichi Ueno,1,0,0,0
+Lin Min,8,294,0,0
+liu.guangcong,3,6,17,0
+niranjan.hasabnis,2,10,10,0
+ben,1,2,2,0
+Alexey Petrenko,6,72,15,0
+yanivbl6,11,378,294,0
+Anton Daitche,4,37,2,0
+MtDersvan,1,0,0,0
+Louie Helm,9,840,7,0
+Fritz Obermeyer,5,5,3,0
+Shivam Kotwalia,1,0,0,0
+Tiago Freitas Pereira,5,190,0,0
+Bill Piel,9,158,0,0
+Bart Kiers,1,2,0,0
+Raphael,1,0,0,0
+meijun,6,20,20,0
+Dhruv,3,2,0,0
+Hee Jung Ryu,7,215,23,0
+Hyungsuk Yoon,1,0,0,0
+vfdev,1,2,2,0
+Ti Zhou,2,3,3,0
+Nouce,1,12,8,0
+superzerg,1,0,0,0
+wangqr,4,81,70,0
+lucasmoura,3,35,38,0
+Weber Xie,2,4,2,0
+Yue Zhang,1,0,0,0
+youkaichao,1,0,0,0
+Sergey Kolesnikov,3,202,7,0
+Brian Williammee,8,283,2,0
+Rasmus Larsen,6,5,229,0
+Lakshay Garg,104,1835,70,0
+raymondxyang,12,126,41,0
+Ruben Vereecken,2,2,2,0
+Ziming Dong,51,1930,435,0
+Xiang Gao,46,2051,257,0
+Anish Shah,15,296,35,0
+luke iwanski,73,893,343,0
+Vaibhav Sood,1,26,0,0
+Renze Yu,1,0,0,0
+Jun MEI,2,14,5,0
+HectorSVC,6,68,25,0
+Darren Garvey,20,494,34,0
+asdf2014,1,0,0,0
+Oliver Hennigh,3,326,0,0
+Andrew Stepanov,1,0,0,0
+Francois Xavier,1,0,0,0
+jeremy rutman,1,3,3,0
+Yufeng,3,6,4,0
+Tomoaki Oiki,1,0,0,0
+James Pruegsanusak,2,6,19,0
+黄璞,2,0,0,0
+Aditya Dhulipala,1,0,0,0
+Sumit Gouthaman,2,109,29,0
+Vahid Kazemi,4,5,19,0
+David Kristoffersson,1,0,0,0
+joetoth,1,0,0,0
+Abdullah Alrasheed,1,0,0,0
+Kongsea,8,378,12,0
+ebrevdo,8,1114,5,0
+Adam Salvail,1,2,2,0
+Jun Luan,1,2,2,0
+AngryPowman,1,0,0,0
+DimanNe,3,20,2,0
+Sebastian Raschka,2,4,0,0
+Androbin,56,537,222,0
+Will Frey,1,0,0,0
+osdamv,6,512,255,0
+Roffel,1,0,0,0
+lewuathe,2,0,0,0
+Batchu Venkat Vishal,1,2,0,0
+Yixing Lao,1,2,0,0
+Manjunath Kudlur,4201,434466,12744,0
+John Lawson,7,42,26,0
+Guo Yejun (郭叶军),3,20,0,0
+Catalin Voss,1,0,0,0
+Lef Ioannidis,1,2,2,0
+Arvinds-ds,1,0,0,0
+Shuolongbj,1,0,0,0
+vhasanov,2,0,31,0
+zhongzyd,9,41,43,0
+TJ Rana,5,26,26,0
+Yann Henon,2,6,4,0
+Chris Song,37,43,43,0
+Louis Tiao,1,0,0,0
+Bruno Rosa,1,10,0,0
+yorkie,1,2,0,0
+Julian Viereck,2,5,2,0
+Michaël Defferrard,3,11,3,0
+Melody Guan,1,3,0,0
+myPrecious,12,141,7,0
+Pankaj Gupta,1,0,0,0
+Wei Wu,2,4,2,0
+Chase Roberts,2,15,0,0
+davidpham87,1,2,2,0
+Alexey Surkov,200,10072,2074,0
+Kevin van der Burgt,1,0,0,0
+Baptiste Arnaud,1,0,0,0
+Tiago Morais Morgado,1,0,0,0
+Liangliang He,27,266,110,1
+Rockford Wei,1,0,0,0
+Jayeol Chun,1,0,0,0
+Mike Brodie,1,0,0,0
+Tapan Prakash,1,4,3,0
+Alex Lattas,11,91,2,0
+J Alammar,4,7,7,0
+Mosnoi Ion,2,60,2,0
+Ben Mabey,3,10,3,0
+raoqiyu,2,4,3,0
+Stephen Fox,1,4,4,0
+Siim Põder,1,11,10,0
+Boyuan Deng,1,0,0,0
+Maxwell Paul Brickner,2,0,0,0
+superryanguo,2,2,31,0
+Rishabh Patel,1,0,0,0
+Dumitru Erhan,4,379,25,0
+Mark Neumann,3,28,2,0
+sj6077,4,31,18,0
+mdymczyk,2,6,0,0
+ribx,1,0,0,0
+Hauke Brammer,1,0,0,0
+Pierre,1,2,2,0
+Chirag Bhatia,2,7,7,0
+Sahil Dua,1,2,2,0
+Adriano Carmezim,14,81,26,0
+Kaarthik Sivashanmugam,1,0,2,0
+windead,2,17,5,0
+Andrew Hundt,7,68,24,0
+Alexandr Baranezky,2,10,6,0
+Alex Baranezky,1,38,5,0
+Yi Wang,1,0,0,0
+Gyu-Ho Lee,1,0,0,0
+Richard S. Imaoka,2,2,2,0
+Humanity123,1,10,6,0
+Jing Jun Yin,1,3,0,0
+Zongheng Yang,339,11354,2344,1
+Daniel Cardenas,1,3,2,0
+preciousdp11,5,7,7,0
+magixsno,1,0,0,0
+Spotlight0xff,1,4,6,0
+Jianfei Wang,3,15,9,0
+ksellesk,1,0,0,0
+Yan (Asta) Li,2,47,0,0
+orome,1,3,2,0
+Wei Ho,166,6674,2033,0
+Joan Puigcerver,1,6,0,1
+Beomsu Kim,2,12,2,0
+Michał Jastrzębski,1,0,0,0
+Earthson Lu,1,4,2,0
+Christos Nikolaou,1,4,4,0
+Jon Malmaud,3,14,0,0
+Drew Hintz,1,0,0,0
+cxx,1,3,3,0
+Yuan Yu,346,9135,3669,1
+My name is,4,34,14,0
+ddurham2,2,14,5,0
+Yi-Lin Juang,3,6,4,0
+Croath Liu,2,5,0,0
+Shitian Ni,4,5,2,0
+Ryan Kung,1,7,11,0
+Maciek Chociej,8,21,21,0
+Benedikt Linse,2,4,4,0
+sgt101,1,0,0,0
+Fabian Winnen,1,0,0,0
+b1rd,1,3,6,0
+Nelson Liu,1,2,2,0
+Czxck001,3,117,67,0
+David Brailovsky,2,2,2,0
+zhengjiajin,37,426,371,0
+ethiraj,1,0,0,0
+Steffen Eberbach,1,3,3,0
+mouradmourafiq,2,0,0,0
+SOLARIS,1,0,0,0
+Ali Siddiqui,50,1445,617,0
+Andreas Solleder,172,225,225,0
+4F2E4A2E,3,0,0,0
+peeyush18,1,0,0,0
+ispirmustafa,1,2,0,0
+Kevin Carbone,1,18,0,0
+Neeraj Kashyap,1,0,0,0
+Adrià Arrufat,2,54,0,0
+Robert Walecki,1,5,0,0
+Johannes Mayer,3,0,0,0
+Jonathan Alvarez-Gutierrez,1,0,0,0
+Corey Wharton,10,487,65,0
+krivard,1,0,0,0
+Mathew Wicks,9,31,10,0
+Ikaro Silva,1,2,2,0
+Leandro Gracia Gil,12,28,16,0
+Raingo,16,129,113,0
+Mark Wong,10,25,13,0
+Scott Sievert,1,5,2,0
+Ido Shamay,1,5,0,0
+Piyush Chaudhary,1,0,0,0
+Junwei Pan,5,10,10,0
+Elliot Saba,2,4,24,0
+Xiaolin Lin,1,3,0,0
+Mortada Mehyar,3,12,12,0
+Sanders Kleinfeld,15,1164,132,0
+Chris,1,67,0,0
+Zader Zheng,2,2,24,0
+Jonghoon Jin,1,11,13,0
+Kwotsin,1,4,4,0
+Oleksii Kuchaiev,4,239,5,0
+wuhaixutab,1,13,3,0
+Shane,1,3,0,0
+Aaron Schumacher,4,2,2,0
+Alex Egg,1,0,0,0
+Sam Abrahams,85,1586,355,1
+weipingpku,2,0,0,0
+Arno Leist,2,4,2,0
+Dalei Li,1,2,2,0
+Cassandra Xia,50,1823,382,0
+Julian Villella,1,4,7,0
+Jun Kim,2,0,6,0
+Michael Hofmann,1,0,0,0
+Falcon Dai,2,21,12,0
+Neven Miculinic,1,7,87,0
+Jamie Cooke,1,44,0,0
+Sebastian Schlecht,2,63,0,0
+Nghia Tran,2,6,9,0
+Li Chen,5,26,2,0
+Zakaria Haque,81,4276,1502,0
+Miguel Flores Ruiz de Eguino,1,2,2,0
+Darío Hereñú,1,0,0,0
+GBLin5566,2,14,11,0
+David Eng,1,0,0,0
+Ruizhe Zhao (Vincent),2,3,3,0
+Yi Liu,5,9,0,0
+admcrae,11,171,2,0
+Vu Pham,31,2034,817,0
+Karan Desai,7,459,20,0
+Alexandre Caulier,1,3,3,0
+David Y. Zhang,1,5,5,0
+Charles Nicholson,354,8809,6383,0
+Nikhil Thorat,303,17684,3223,0
+wydwww,1,21,21,0
+ZhipengShen,1,0,0,0
+Daniel Mané,217,18627,5252,3
+Yuming Wang,3,15,0,0
+Harun Gunaydin,1,2,0,0
+Dominic Rossi,2,5,6,0
+Fei Gao,1,2,0,0
+Jun Shi,28,2775,8,0
+poohzrn,1,0,0,0
+t13m,4,84,7,0
+Richard Davies,1,2,2,0
+Umang Mehta,1,2,0,0
+Thomas H. P. Andersen,1,2,2,0
+td2014,1,14,7,0
+Namnamseo,1,15,13,0
+Egil Martinsson,1,25,25,0
+Evan Klitzke,2,0,0,0
+Luiz Henrique Soares,6,44,44,0
+zjj2wry,7,25,18,0
+wannabesrevenge,2,2,2,0
+cfperez,1,3,3,0
+FloopCZ,1,0,0,0
+Zhaojun Zhang,2,5,17,0
+Vit Stepanovs,17,639,158,0
+Vincent Zhao,1,2,2,0
+Eduardo Pinho,1,10,0,0
+agramesh1,11,57,57,0
+Matthew Rahtz,1,17,0,0
+Alan Mosca,2,42,40,0
+Arron Cao,1,0,0,0
+MikeTam1021,1,3,27,0
+KhabarlakKonstantin,1,0,0,0
+John Maidens,1,0,0,0
+Abhi Agg,13,1123,303,0
+NORTHAMERICA\vistepan,65,1282,876,0
+Damien Martin-Guillerez,22,110,55,0
+Anand Venkat,4,186,46,0
+Alexander Heinecke,16,265,78,0
+Oyesh Mann Singh,1,0,0,0
+jubjamie,4,11,5,0
+Eric Bigelow,1,2,2,0
+Shubhankar Deshpande,1,0,0,0
+Toby Petty,1,0,0,0
+Alexander Matyasko,23,1980,279,0
+jyegerlehner,1,10,26,0
+Immexxx,1,7,0,0
+Dmytro Kyrychuk,1,0,0,0
+James Mishra,1,0,0,0
+Fung LAM,1,0,0,0
+akimitsu seo,1,3,3,0
+Fabrizio Milo,56,678,90,0
+Sean O'Keefe,1,2,2,0
+Sahit Chintalapudi,1,2,2,0
+Quim Llimona,1,0,0,0
+Gu Wang,2,0,0,0
+Yoshihiro Sugi,3,0,0,0
+Nate Harada,1,2,2,0
+John Bates,15,641,772,0
+Deepak Subburam,1,5,0,0
+Anmol Sharma,1,0,0,0
+guschmue,84,1227,154,1
+critiqjo,1,10,5,0
+Karel van de Plassche,1,4,2,0
+Mycosynth,1,0,4,0
+Panmari,4,34,17,0
+Valentin Iovene,3,21,16,0
+Nick Lyu,1,2,2,0
+Arie,2,14,14,0
+Davy Song,2,6,3,0
+SunYeop Lee,6,31,14,0
+Patrick,1,0,0,0
+Sean Papay,3,35,17,0
+A. Besir Kurtulmus,1,0,0,0
+Joey Meyer,6,0,30,0
+Aravind,1,3,3,0
+Mark Szepieniec,1,0,0,0
+John C F,1,0,0,0
+Conchylicultor,2,6,8,0
+Saisai Shao,6,14,14,0
+Eddie,1,3,3,0
+Mandeep Singh,2,10,18,1
+Sriram Narayanamoorthy,1,0,0,0
+Nicholas Connor,1,0,0,0
+Hannah Provenza,3,7,7,0
+Memo Akten,2,11,0,0
+Gefu Tang,2,25,2,0
+Niraj Patel,3,4,2,0
+Marek Kolodziej,14,242,14,0
+Tim Anglade,1,5,0,0
+Viktor Malyi,1,3,0,0
+Alec-DeSouza,1,0,0,0
+Nathan Silberman,110,9370,1102,1
+Micael Carvalho,7,7,15,0
+sanosay,1,0,0,0
+Yi Hsiao,1,2,3,0
+Ben Visser,1,8,9,0
+hsiao yi,1,2,0,0
+nghiattran,1,7,3,0
+Dimitar Pavlov,1,0,0,0
+Erfan Noury,1,0,2,0
+Mark McDonald,11,69,33,0
+Ivan Bogatyy,4,14,13,1
+Jojy G Varghese,13,42,28,0
+Jason Morton,1,0,0,0
+Jojy George Varghese,25,94,68,0
+Zifei Tong,2,2,2,0
+Allen Guo,2,12,10,0
+Jason Gavris,4,68,31,0
+Ryo ASAKURA,1,7,14,0
+MircoT,2,5,0,0
+Jiaming Liu,3,4,0,0
+Vlad Firoiu,2,27,3,0
+Stefano Probst,1,0,0,0
+rasbt,6,12,5,0
+Igor Chorążewicz,1,2,2,0
+wangg12,5,9,9,0
+Pavel Bulanov,3,9,2,0
+Vijay D'Silva,4,146,0,0
+Christopher Berner,1,4,2,0
+Calpa Liu,1,0,0,0
+jiqiu,1,2,2,0
+Vamsi Sripathi,11,152,73,0
+Clark Zinzow,1,7,7,0
+Dmitry Persiyanov,2,39,22,0
+Jack Rae,39,971,466,0
+Xiaoyu Tao,1,0,0,0
+Franck Dernoncourt,2,8,8,0
+teldridge11,2,2,5,0
+Tomas Reimers,1,2,2,0
+tbonza,1,0,0,1
+Dan Ellis,1,0,0,0
+guilherme,1,2,2,0
+Michael Gharbi,1,0,0,0
+Jan Prach,129,659,406,1
+Shaurya Sharma,2,26,0,0
+alanwang93,3,3,0,0
+Ankesh Anand,1,4,2,0
+Reid Pryzant,1,0,0,0
+Jeremy Sawruk,1,2,0,0
+Ivan Smirnov,1,2,2,0
+Adal Chiriliuc,1,7,0,0
+Javi Ribera,3,6,8,0
+selay01,1,0,0,0
+LI Yi,17,412,35,0
+Jihun Choi,10,358,61,0
+Huazuo Gao,28,945,524,1
+Rahul Kavi,1,0,0,0
+Prayag Verma,1,2,2,0
+David Truong,1,3,0,0
+will,1,5,0,0
+Kankroc,1,0,0,0
+lurker,1,2,0,0
+Rüdiger Busche,1,0,0,0
+Anton Loss,2,4,2,0
+Raven Iqqe,2,0,0,0
+bakunyo,1,0,0,0
+Raphael Gontijo Lopes,9,24,14,0
+Kristina Chodorow,6,59,46,0
+Joan Thibault,1,2,2,0
+Julian Berman,1,0,0,0
+Russell Kaplan,1,6,0,0
+Evgeny Mazovetskiy,1,0,0,0
+Chad Whipkey,2,0,0,0
+Brady Zhou,1,0,0,0
+Lezcano,1,2,2,0
+mahmoud-abuzaina,14,1220,3,0
+Nikolaas Steenbergen,9,297,65,0
+Rizwan Asif,1,26,17,0
+mlucool,1,9,7,0
+LUO Yun,1,27,11,0
+Jongwook Choi,3,15,3,0
+hartb,1,9,8,0
+Eron Wright,8,789,21,0
+Muammar ibn Faisal,2,3,3,0
+Martial Hue,1,0,0,0
+Richard Shin,1,4,4,0
+akash,1,0,0,0
+Ashutosh Das,1,2,2,0
+Alexander Mossin,1,77,62,0
+Chih Cheng Liang,1,0,0,0
+Philip Pries Henningsen,2,36,10,0
+Fisher Coder,1,2,2,0
+Hanna Revinskaya,7,9,15,0
+Medhat Omr,1,3,3,0
+Johannes Haux,1,0,0,0
+Gagan Goel,1,5,4,0
+Fabrizio (Misto) Milo,41,1080,53,0
+Zafar Takhirov,43,432,11,0
+polonez,1,11,11,0
+Illia Polosukhin,1691,28230,11745,3
+Kyle Bostelmann,1,0,0,0
+elirex,1,0,0,0
+KOUASSI Konan Jean-Claude,1,9,0,0
+Alexander Rosenberg Johansen,17,466,74,0
+Leo Mao,1,0,0,0
+Andy Chong Chin Shin,1,0,8,0
+Norman Heckscher,1,0,0,0
+Erik Aigner,3,32,0,0
+taknevski,10,555,59,0
+Hvass-Labs,3,255,0,0
+Keiji Kanazawa,2,101,0,0
+Yoni Ben-Meshulam,4,15,3,0
+nagachika,3,4,4,0
+Inflation,1,0,2,0
+David Z. Chen,115,2322,1707,0
+Michael Basilyan,1,0,0,0
+yaroslavvb@gmail.com,1,3,0,0
+Pengfei Ni,1,6,7,0
+Morten Just,1,0,0,0
+Daniel N. Lang,1,2,2,0
+Steffen Müller,3,17,0,0
+Wangda Tan,2,40,18,0
+Yota Toyama,3,3,2,0
+Alexander Novikov,1,9,12,0
+Jacob Israel,1,0,0,0
+John Pope,1,4,5,0
+Sam Putnam,1,3,0,0
+Finbarr Timbers,2,38,0,0
+SeongAhJo,1,0,0,0
+Jin Kim,1,5,6,0
+Xingdong Zuo,9,38,30,1
+TheUSER123,1,0,0,0
+Wenjian Huang,38,113,71,0
+Comic Chang,7,385,4,0
+Rudolf Rosa,1,2,2,0
+danielgordon10,1,0,0,0
+Nishant Shukla,1,0,0,0
+Adam Michael,1,2,0,0
+Aaron Hu,3,4,0,0
+Dmitri Lapin,2,48,0,0
+Jingtian Peng,33,510,229,0
+Carmezim,2,30,4,1
+Kye Bostelmann,1,0,0,0
+Chad Kennedy,4,8,8,0
+chadkennedyonline,2,8,12,0
+cais,7,44,58,0
+Dan Mané,722,28766,19904,0
+Ronny,1,4,4,1
+b0noI,6,68,35,0
+Dan,3,25,19,0
+Issac,1,14,5,0
+Evan Cofer,1,0,0,0
+Darcy Liu,3,2,0,0
+newge,5,5,5,0
+Mihir Patel,1,0,0,0
+Ian,1,2,2,0
+jangsoo park,1,3,0,0
+Ling Zhang,1,2,2,0
+Luheng He,2,4,4,0
+Nick Butlin,1,0,0,0
+Thiébaud Weksteen,1,0,0,0
+RustingSword,1,0,0,0
+skavulya,2,8,0,0
+Przemyslaw Tredak,2,27,0,0
+Connor Braa,1,2,2,0
+A. Rosenberg Johansen,21,635,114,0
+Abhishek Aggarwal,1,2,2,0
+Shi Jiaxin,2,15,4,0
+Garrett Smith,1,2,2,0
+Daniel W Mane,4,8,2,0
+AfirSraftGarrier,1,2,2,0
+Holst Henrik,4,4,4,0
+tiriplicamihai,1,0,0,0
+Hao WEI,2,2,0,1
+BoyuanJiang,2,11,3,0
+Vladislav Gubarev,1,0,5,0
+Kamil Hryniewicz,1,0,2,0
+zhongyuk,1,8,2,0
+Gökçen Eraslan,1,0,0,0
+luke,59,673,92,0
+DjangoPeng,11,509,467,0
+Jithin Odattu,1,4,4,0
+Javier Dehesa,1,2,0,0
+Ken Shirriff,6,8,8,0
+Kai Wolf,8,19,16,0
+Terry Tang,4,7,80,0
+xmbrst,4,0,10,0
+Frank Li,19,805,191,0
+Uwe Schmidt,1,7,0,0
+Adriano,2,2,2,0
+Leonard Lee,2,0,0,0
+Ghedeon,1,0,0,0
+Xuesong Yang,1,0,0,0
+hoangmit,2,12,0,1
+Karen Brems,2,0,0,0
+Fabrício Ceschin,1,4,0,0
+郭同jet · 耐心,5,115,22,0
+a7744hsc,1,4,0,0
+qitaishui,1,2,0,0
+Moustafa Alzantot,4,54,0,0
+drag0,3,5,4,0
+Burness Duan,1,4,2,1
+Aki Sukegawa,4,100,85,0
+Kamran Amini,2,24,0,0
+Martin,2,4,4,0
+Ondřej Filip,3,13,2,0
+Karl Lattimer,1,8,0,0
+Haroen Viaene,1,0,0,0
+zhengxq,10,44,687,1
+raix852,9,121,165,0
+MrQianjinsi,2,2,2,0
+SriramRamesh,1,0,0,0
+c0g,3,173,11,0
+Di Zeng,5,36,26,0
+DI ZENG,1,2,2,0
+youyou3,1,2,0,0
+Ondrej Skopek,1,0,0,0
+David Jones,1,0,0,0
+Benjamin Mularczyk,1,2,2,0
+tyfkda,16,104,69,0
+Victor Villas,2,24,20,0
+fp,1,2,0,0
+tvn,5,327,16,0
+Anand Chakravarty,6,45,16,0
+Hannes,1,2,2,0
+Jianmin Chen,95,5489,218,0
+Quarazy,2,2,2,0
+thuyenvn,12,97,65,0
+wujingyue,1,0,0,0
+nschuc,1,0,3,0
+Nikhil Mishra,19,538,82,0
+Ben guidarelli,1,3,2,0
+Haosdent Huang,17,47,42,0
+beopst,1,0,0,0
+Lie He,2,3,3,0
+haosdent,43,240,273,0
+Olivia,3,16,0,0
+Johan Mathe,1,0,0,0
+caisq,24,128,65,0
+Joan Pastor,1,76,61,0
+kborer,8,8,8,0
+Laurent Mazare,3,9,0,0
+Nick Meehan,1,0,0,0
+amcrae,21,152,29,0
+Pablo Moyano,1,0,0,0
+Andre Simpelo,1,4,4,0
+Balachander Ramachandran,3,101,60,0
+Henrik Holst,1,12,4,0
+Neil Han,1,0,0,0
+harold cooper,3,15,0,0
+Amlan Kar,1,7,7,0
+Justus Schwabedal,2,4,4,0
+Tushar Soni,1,0,0,0
+OscarDPan,1,0,0,0
+Ivan Ukhov,3,5,5,0
+Rehs Philipp Helo,1,0,0,0
+Larissa Laich,1,2,2,0
+Alex Kendall,1,6,2,0
+Arnaud Lenglet,1,6,0,0
+chanis,3,13,10,0
+Eric Platon,1,0,0,0
+Danijar Hafner,5,31,21,0
+Gaetan Semet,3,3585,3258,0
+Daeyun Shin,4,287,2,0
+ironhead,2,28,0,0
+郑泽宇,1,0,0,0
+Zack Polizzi,1,5,0,0
+Andrew Thomas,1,0,0,0
+Kirill Bobyrev,1,89,62,0
+Malith Yapa,1,0,0,0
+Gustav Larsson,5,37,5,0
+Matthias Winkelmann,2,2,2,0
+Erik Erwitt,2,10,10,0
+Igor Macedo Quintanilha,4,65,5,0
+Daniel Julius Lasiman,1,9,3,0
+Steve,1,0,0,0
+Ajay Rao,1,0,0,0
+Yunfeng Wang,3,0,0,0
+YenChenLin,1,0,0,0
+Chenyang Liu,1,0,0,0
+Shinichiro Hamaji,1,0,0,0
+Fangwei Li,4,43,12,0
+Josh Bleecher Snyder,1,2,2,0
+Appleholic,2,0,0,0
+Ofir Press,1,0,2,0
+Robin Nabel,49,2067,185,0
+Martin Englund,3,2,0,0
+Denis Gorbachev,1,0,0,0
+jpangburn,1,3,3,0
+Renato Utsch,157,3005,1960,0
+Park Jiin,1,3,3,0
+Mrinal Kalakrishnan,3,0,14,0
+Sahil Sharma,1,13,6,0
+CISSP® Bryon Gloden,2,3,0,0
+Yuncheng Li,1,0,0,0
+afshinrahimi,1,0,0,0
+Jules Gagnon-Marchand,1,2,2,0
+Daniel Waterworth,1,2,2,0
+Ritwik Gupta,1,2,2,0
+AidanGG,7,81,24,0
+Maniteja Nandana,2,70,0,0
+Georg Nebehay,1,3,0,0
+Brandon Amos,3,3,3,0
+cwhipkey,1,0,0,0
+HW-ZZ,2,18,0,0
+ichuang,2,2,2,0
+Ben Dilday,4,56,8,0
+Sangheum,2,42,2,0
+Igor Babuschkin,179,3878,807,0
+Egor-Krivov,2,34,7,0
+Simon DENEL,13,21,21,0
+Jennifer Guo,1,3,0,0
+Wei-Ting Kuo,2,17,0,0
+Pieter de Rijk,2,7,2,0
+Andrew Stromme,1,0,0,0
+Tijmen Tieleman,3,11,11,0
+Bastiaan Quast,1,0,0,0
+Daniel Castro Chin,2,0,0,0
+tijmentieleman,2,0,6,0
+Nathan Howell,29,107,62,0
+Longqi Yang,2,0,0,0
+Elia Palme,1,0,0,0
+suiyuan2009,2,20,7,0
+Josh Levenberg,1597,24901,7146,0
+Tiago Jorge,1,0,0,0
+Adam Crume,2,5,0,0
+Mu-ik Jeon,4,8,6,0
+Bofu Chen,1,16,8,0
+mecab,1,3,3,0
+Satoshi Kataoka,1,0,0,0
+Pēteris Paikens,1,0,0,0
+Iver Jordal,1,4,0,0
+Wang Yang,4,10,10,0
+Glen Baker,6,0,12,0
+yifeif,1,22,0,0
+ssyrain,1,0,0,0
+John Allen,2,5,5,0
+Thomas Oldervoll,1,2,2,0
+Siddharth Agrawal,50,910,486,0
+Johann Petrak,1,15,0,0
+Haebin Shin,1,2,0,0
+Thomas Lee,1,0,0,0
+Ted Fujimoto,1,0,0,0
+SergejsRk,6,110,69,0
+James Fysh,1,0,0,0
+Abid K,1,0,0,0
+satok16,1,16,3,0
+Brian Diesel,1,0,0,0
+Nico Galoppo,1,2,0,0
+sono-bfio,1,0,0,0
+Rohit Girdhar,1,2,0,0
+Sergey Kishchenko,1,2,2,0
+Eric Nielsen,12,0,1354,0
+maxmelnick,3,107,27,0
+chemelnucfin,4,218,14,0
+Marco Marchesi,1,2,2,0
+Henry Saputra,2,15,0,0
+dauba-dauba,3,11,2,0
+Gideon Dresdner,1,27,35,0
+Dmitry Savintsev,1,0,0,0
+Justin Francis,1,2,2,0
+Huarong,1,0,0,0
+tobe,1,2,2,0
+heinzbeinz,1,20,20,0
+Chris Lesniewski,2,8,8,0
+Jan Wilken Dörrie,3,16,6,0
+Shota,4,4,4,0
+Nishant Agrawal,1,0,0,0
+Emmanuel T Odeke,1,3,2,0
+Jonathan Raiman,1,0,0,0
+ysuematsu,1,0,0,0
+shenhanc78,1,56,2,0
+dcastro9,2,0,0,0
+Austin Marshall,1,0,0,0
+Gavin Sherry,6,4,7,0
+Bob Adolf,1,0,0,0
+Mostafa Gazar,1,0,0,0
+lilac,10,279,4,0
+Petr Janda,1,0,0,0
+Robin-des-Bois,1,0,0,0
+Marc Khoury,1,0,0,0
+Daniel Rodriguez,1,22,3,0
+mikowals,1,19,10,0
+Thijs Vogels,2,2,2,0
+Ernest Grzybowski,2,57,6,0
+baoblackcoal,2,79,0,0
+Andrew Royer,1,0,0,1
+Gregory King,3,9,4,1
+Johnny Lim,49,59,59,0
+Charles-Emmanuel,1,9,9,0
+Isaac Yang,1,4,4,0
+Undo1,1,0,0,1
+Dylan Paiton,2,86,94,0
+Jesper Steen Møller,1,0,0,0
+Orion Reblitz-Richardson,1,0,0,0
+Robert Rose,1,0,8,0
+Waleed,1,4,4,0
+Snake Charmer,3,6,0,0
+Yeison Rodriguez,1,0,0,0
+Aidan Dang,2,5,5,0
+Justin Harris,1,2,0,0
+Maxim Grechkin,2,11,6,0
+Felix Maximilian Möller,1,3,3,0
+Robert DiPietro,3,103,6,0
+Sung Kim,7,35,116,0
+Kristina,6,50,17,0
+Akihiko ITOH,1,2,2,0
+Kevin Robinson,2,0,0,0
+Clement Courbet,1,5,5,0
+Łukasz Bieniasz-Krzywiec,2,4,4,0
+Victor Melo,4,15,4,0
+Mario Cho,1,0,0,0
+Arbit Chen,1,0,0,0
+Zohar Jackson,2,26,0,0
+Mostafa Rahmani,1,3,2,0
+hunkim,3,21,7,0
+Stephen Roller,1,4,0,0
+Michael Heilman,3,17,10,0
+Paul Tucker,1,17,19,0
+Aziz Alto,1,0,0,0
+ninotoshi,4,4,2,0
+Ville Kallioniemi,19,554,139,0
+Lucas Moura,4,216,2,0
+Kannappan Sirchabesan,1,0,0,0
+ry,11,131,68,0
+Fabien Benureau,1,0,0,0
+Vladislav,1,42,46,0
+SeongJae Park,13,21,111,0
+Dan Aloni,2,2,2,0
+ross,1,0,3,0
+Fred Bertsch,13,80,55,0
+kchen92,2,6,6,0
+e-lin,3,7,6,0
+Jeongkyu Shin,5,8,8,0
+Kai Curtis,1,0,0,0
+Shan Carter,1,0,0,0
+lahwran,1,0,0,0
+fredbertsch,10,551,4,0
+Jonas Meinertz Hansen,14,39,28,0
+Bas Veeling,4,19,23,0
+Alexander G. de G. Matthews,6,249,5,0
+David Dao,1,0,0,0
+Cheng-Lung Sung,10,48,6,0
+Awni Hannun,2,16,0,0
+Rob Culliton,1,0,3,0
+amchercashin,7,16,16,0
+Yuwen Yan,2,12,7,0
+ExplodingCabbage,1,3,3,0
+gaohuazuo,2,35,3,0
+Olav Nymoen,2,17,16,0
+Daniel Smilkov,1,2,2,0
+Dongjoon Hyun,216,357,317,0
+Kanit Wongsuphasawat,1,9,0,0
+Andy Kitchen,1,0,0,0
+Jeff Hodges,1,0,0,0
+znah,4,27,0,0
+lekaha,1,4,0,0
+Pedro Lopes,2,3,3,0
+Alexander Mordvintsev,5,1380,0,0
+David Kretch,2,2,2,0
+ronrest,2,8,8,0
+Alan Wu,18,399,29,0
+panmari,30,670,207,0
+Jack Zhang,1,3,5,0
+Iblis Lin,10,12,10,0
+Sarath Shekkizhar,1,6,6,0
+papelita1234,1,0,0,0
+Dustin Dorroh,1,0,0,0
+Cameron Chen,3,105,0,0
+Syed Ahmed,1,0,0,0
+BanditCat,1,0,0,0
+Kenneth Mitchner,1,0,0,0
+Daniel Golden,2,22,21,0
+Vlad Zagorodniy,2,8,6,0
+Lucas Adams,2,27,16,0
+e3,8,11,11,0
+Yuya Kusakabe,2,0,0,0
+timsl,1,0,0,0
+Aggelos Avgerinos,1,0,0,0
+Pranav Sailesh Mani,1,0,2,0
+Isaac Hodes,1,0,0,0
+Michael Peteuil,1,0,0,0
+J Yegerlehner,1,0,0,0
+Konrad Magnusson,1,0,0,0
+Dan Van Boxel,1,96,0,0
+Ali Elqursh,4,26,10,0
+urimend,1,2,2,0
+liyongsea,2,51,0,0
+Jarek Wilkiewicz,2,16,5,0
+Nathan Daly,1,2,2,0
+Scott Graham,1,0,0,0
+Vesnica,2,0,0,0
+Wladimir Schmidt,2,2,0,0
+cg,18,34,17,0
+Singlet,1,0,0,0
+Isaac Turner,2,4,4,0
+Kenta Yonekura,1,3,3,0
+rizzomichaelg,1,0,0,0
+Frank Chu,13,457,98,0
+Povilas Liubauskas,1,0,0,0
+Mandar,1,12,14,0
+Moussa Taifi,1,2,2,0
+Lukas Krecan,1,5,2,0
+Chen Yu,1,0,0,0
+Zero Chen,9,10,3,0
+Takeshi Hagikura,1,85,0,0
+Konstantin Lopuhin,1,2,2,0
+Taehoon Kim,1,0,0,0
+Christian Jauvin,3,6,6,0
+jmtatsch,1,4,0,0
+Sagan Bolliger,1,0,0,1
+Andrew Dai,10,215,28,0
+Timothy J Laurent,1,10,0,0
+Andre Cruz,1,0,0,0
+emmjaykay,1,6,3,0
+nick,1,2,0,0
+Krishna Sankar,1,0,0,0
+Niklas Riekenbrauck,1,2,2,0
+Zhifeng Chen,1,0,0,0
+Eren Güven,1,7,7,0
+RainerWasserfuhr,2,0,0,0
+Naveen Sundar G,1,2,2,0
+Cesar Salgado,3,8,8,0
+Linchao Zhu,3,2,2,0
+Kenton Lee,11,299,73,0
+Bi-Ruei Chiu,2,2,2,0
+makseq-ubnt,14,119,68,1
+okoriko,24,39,42,0
+Joao Felipe Santos,4,26,12,0
+Carl Vondrick,1,0,0,0
+Nicolas Fauchereau,1,9,6,0
+Yangqing Jia,8,123,86,0
+Bart Coppens,2,2,2,0
+Dan Vanderkam,1,2,2,0
+MarkDaoust,2,88,0,0
+Jim Fleming,2,8,0,0
+Zachary Lipton,3,3,5,0
+Olivier Grisel,1,0,0,0
+jalammar,2,6,0,1
+aymericdamien,2,2,2,0
+Vlad Zavidovych,1,0,0,0
+Joshi,2,4,4,0
+Akiomi KAMAKURA,2,0,0,0
+Nick Sweeting,1,5,0,0
+Vlad Frolov,3,69,48,0
+Bernardo Pires,1,0,0,0
+Denny Britz,1,12,10,0
+prolearner,1,4,4,0
+ivallesp,2,13,8,0
+Alex Vig,1,0,0,0
+Mark Borgerding,7,151,23,0
+arahuja,1,0,0,0
+Jeff Hammerbacher,2,6,5,0
+dresimpelo,2,4,2,0
+William Dmitri Breaden Madden,8,15,20,0
+Dave Decker,1,0,0,0
+Boris Daskalov,1,2,2,0
+Christopher Bonnett,6,45,29,0
