@@ -1,0 +1,20 @@
+[
+  [
+    { "area": "File Changed Score", "value": 11 },
+    { "area": "Insertions Score", "value": 11 },
+    { "area": "Deletions Score", "value": 11 },
+    { "area": "Issues Score", "value": 10 }
+  ],
+  [
+    { "area": "File Changed Score", "value": 8 },
+    { "area": "Insertions Score", "value": 1 },
+    { "area": "Deletions Score", "value": 10 },
+    { "area": "Issues Score", "value": 1 }
+  ],
+  [
+    { "area": "File Changed Score", "value": 9 },
+    { "area": "Insertions Score", "value": 8 },
+    { "area": "Deletions Score", "value": 1 },
+    { "area": "Issues Score", "value": 1 }
+  ]
+]
