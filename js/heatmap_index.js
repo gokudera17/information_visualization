@@ -169,7 +169,7 @@ svg.append("text")
 
 svg.append("text")
         .attr("x",140)
-        .attr("y",height + 29)
+        .attr("y",height + 28)
         .attr("text-anchor", "center")
         .style("font-size", "13px")
         .style("fill", "grey")
