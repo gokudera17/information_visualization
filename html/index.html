@@ -89,7 +89,7 @@
 <!--Heatmap-->
 <div>
     <div class="chart" align="center">
-        <h3 class="text_title">1. Top 100 PR占比圖</h3>
+        <h3 class="text_title">2. Top 100 PR行為與貢獻者關係熱圖</h3>
     </div>
 
     <div id="page_heatmap"></div>
@@ -102,13 +102,13 @@
         <div class="word">
             <h3 class="left_word">圖例説明：</h3>
             <p class="left__word">
-                本圖表的圖例位於圖表的右上角，點擊Legend左側的方框即可彈出圖例，圖例中提供了<span
-                    class="text_dark">Pull Request、Comment、Commit、Review</span>四種類型對應在圖表中的顔色，方便使用者快速查詢。
+                本圖表的圖例位於圖表的上角，由左至右有淺至深表示<span
+                    class="text_dark">Pull Request、Comment、Commit、Review</span>四種類型次數對應在圖表中的顔色。
             </p>
             <h3 class="left_word">簡要説明：</h3>
             <p class="left__word">
-                本圖表以Repo的前100筆PR資料爲例，將PR中四種交互類型對應的數量以及各個參與者的交互次數通過<span class="text_dark">旭日圖</span>的方式展示，圖表將根據使用者目前滑鼠所在區域著重展示目前區塊的占比資訊，並淡化其他資訊。<br>
-                除此之外，左上角提供了目前滑鼠所在區域的路徑，方便使用者瞭解當前的<span class="text_dark">層級關係</span>，從視覺化圖表中獲取更多的訊息。
+                本圖表以Repo的前100筆PR資料爲例，資料為記錄中所有貢獻者以及行為(Pull Request、Comment、Commit、Review)的次數，我們利用<span class="text_dark">熱圖</span>，
+                可以清楚從顏色分區看出各個貢獻者的<span class="text_dark">貢獻次數</span>，次數多的熱區顏色越深。
             </p>
             <div class="null">after</div>
         </div>
