@@ -91,7 +91,7 @@ var div = d3.select("#my_dataviz")
         .style("border-width", "2px")
           
 //Read the data
-d3.csv("../data/heatmap_stats.csv").then(function(data) {
+d3.csv("./data/heatmap_stats.csv").then(function(data) {
 
   var x = d3.scaleBand()
     .range([ 0, 350 ])

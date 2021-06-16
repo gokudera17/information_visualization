@@ -1,6 +1,6 @@
 function draw_network() {
   var width = 900, height = 600;
-  d3.json("../data/network.json").then((data) => {
+  d3.json("./data/network.json").then((data) => {
     const {
       links,
       nodes

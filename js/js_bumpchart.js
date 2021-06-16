@@ -4,13 +4,13 @@ function bumpchart() {
     bumpRadius = 13;
 
     // padding = 25
-    padding = 25;
+    padding = 30;
 
     // margin = Object {left: 105, right: 105, top: 20, bottom: 50}
     margin = ({left: 105, right: 105, top: 20, bottom: 50});
 
     data = [];
-    d3.csv("../data/git-log-tensorflow-stat-v2.csv", function(row){
+    d3.csv("./data/git-log-tensorflow-stat-v2.csv", function(row){
         data.push({
             "Name": row.Name,
             "Quarter": row.Quarter,
