@@ -43,51 +43,90 @@
 <br/>
 <br/>
 
-<div class="chart" align="center">
-    <h3 class="text_title">1. Top 100 PR占比圖</h3>
-</div>
+<!--Sunburst-->
+<div>
+    <div class="chart" align="center">
+        <h3 class="text_title">1. Top 100 PR占比圖</h3>
+    </div>
 
-<div id="sunburst">
-    <div id="main">
-        <div id="sunburst-breadcrumbs"></div>
-        <div id="sunburst-chart">
-            <div id="sunburst-description"></div>
+    <div id="sunburst">
+        <div id="main">
+            <div id="sunburst-breadcrumbs"></div>
+            <div id="sunburst-chart">
+                <div id="sunburst-description"></div>
+            </div>
+        </div>
+        <div id="sidebar">
+            <input type="checkbox" id="togglelegend"> Legend<br/>
+            <div id="sunburst-legend" style="visibility: hidden;"></div>
         </div>
     </div>
-    <div id="sidebar">
-        <input type="checkbox" id="togglelegend"> Legend<br/>
-        <div id="sunburst-legend" style="visibility: hidden;"></div>
+
+    <div class="pd-sunburst-top">
+        <p class="center_word">資料來源：<a href="https://github.com/tensorflow/tensorflow">Tensorflow</a></p>
+    </div>
+
+    <br>
+    <div align="center">
+        <div class="word">
+            <h3 class="left_word">圖例説明：</h3>
+            <p class="left__word">
+                本圖表的圖例位於圖表的右上角，點擊Legend左側的方框即可彈出圖例，圖例中提供了<span
+                    class="text_dark">Pull Request、Comment、Commit、Review</span>四種類型對應在圖表中的顔色，方便使用者快速查詢。
+            </p>
+            <h3 class="left_word">簡要説明：</h3>
+            <p class="left__word">
+                本圖表以Repo的前100筆PR資料爲例，將PR中四種交互類型對應的數量以及各個參與者的交互次數通過<span class="text_dark">旭日圖</span>的方式展示，圖表將根據使用者目前滑鼠所在區域著重展示目前區塊的占比資訊，並淡化其他資訊。<br>
+                除此之外，左上角提供了目前滑鼠所在區域的路徑，方便使用者瞭解當前的<span class="text_dark">層級關係</span>，從視覺化圖表中獲取更多的訊息。
+            </p>
+            <div class="null">after</div>
+        </div>
+        <br/>
+        <br/>
     </div>
 </div>
 
-<div class="pd-sunburst-top">
-    <p class="center_word">資料來源：<a href="https://github.com/tensorflow/tensorflow">Tensorflow</a></p>
-</div>
-
-
-<br>
-<div align="center">
-    <div class="word">
-        <h3 class="left_word">圖例説明：</h3>
-        <p class="left__word">
-            本圖表的圖例位於圖表的右上角，點擊Legend左側的方框即可彈出圖例，圖例中提供了<span class="text_dark">Pull Request、Comment、Commit、Review</span>四種類型對應在圖表中的顔色，方便使用者快速查詢。
-        </p>
-        <h3 class="left_word">簡要説明：</h3>
-        <p class="left__word">
-            本圖表以Repo的前100筆PR資料爲例，將PR中四種交互類型對應的數量以及各個參與者的交互次數通過<span class="text_dark">旭日圖</span>的方式展示，圖表將根據使用者目前滑鼠所在區域著重展示目前區塊的占比資訊，並淡化其他資訊。<br>
-            除此之外，左上角提供了目前滑鼠所在區域的路徑，方便使用者瞭解當前的<span class="text_dark">層級關係</span>，從視覺化圖表中獲取更多的訊息。
-        </p>
-        <div class="null">after</div>
-    </div>
-    <br/>
-    <br/>
+<!--Heatmap-->
+<div>
     <div class="chart" align="center">
         <h3 class="text_title">1. Top 100 PR占比圖</h3>
     </div>
 
     <div id="page_heatmap"></div>
 
-    <div >
+    <div>
+        <p class="center_word">資料來源：<a href="https://github.com/tensorflow/tensorflow">Tensorflow</a></p>
+    </div>
+    <br>
+    <div align="center">
+        <div class="word">
+            <h3 class="left_word">圖例説明：</h3>
+            <p class="left__word">
+                本圖表的圖例位於圖表的右上角，點擊Legend左側的方框即可彈出圖例，圖例中提供了<span
+                    class="text_dark">Pull Request、Comment、Commit、Review</span>四種類型對應在圖表中的顔色，方便使用者快速查詢。
+            </p>
+            <h3 class="left_word">簡要説明：</h3>
+            <p class="left__word">
+                本圖表以Repo的前100筆PR資料爲例，將PR中四種交互類型對應的數量以及各個參與者的交互次數通過<span class="text_dark">旭日圖</span>的方式展示，圖表將根據使用者目前滑鼠所在區域著重展示目前區塊的占比資訊，並淡化其他資訊。<br>
+                除此之外，左上角提供了目前滑鼠所在區域的路徑，方便使用者瞭解當前的<span class="text_dark">層級關係</span>，從視覺化圖表中獲取更多的訊息。
+            </p>
+            <div class="null">after</div>
+        </div>
+        <br/>
+        <br/>
+    </div>
+</div>
+
+<!--BumpChart-->
+<div>
+    <div class="chart" align="center">
+        <h3 class="text_title">1. Top 100 PR占比圖</h3>
+    </div>
+
+    <div id="page_bumpchart"></div>
+
+
+    <div>
         <p class="center_word">資料來源：<a href="https://github.com/tensorflow/tensorflow">Tensorflow</a></p>
     </div>
     <br>
@@ -111,8 +150,6 @@
 
     </div>
 </div>
-</div>
-
 
 
 <script type="text/javascript">
@@ -144,6 +181,8 @@
     })();
 
     $("#page_heatmap").load("./heatmap_index.html");
+    $("#page_bumpchart").load("./html_bumpchart.html");
+
 </script>
 </body>
 
