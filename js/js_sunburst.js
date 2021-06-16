@@ -26,7 +26,7 @@
 		colorScale: d3.scaleOrdinal([d3.interpolateYlGnBu(0.3),d3.interpolateYlGnBu(0.4),d3.interpolateYlGnBu(0.65),d3.interpolateYlGnBu(0.8),d3.interpolateYlGnBu(0.95)]),
 		colorScaleLength: 20,
 
-
+		
 		// Breadcrumb dimensions: width, height, spacing, width of tip/tail.
 		breadcrumbs: {
 			w: 105,
