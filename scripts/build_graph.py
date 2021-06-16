@@ -41,7 +41,7 @@ with open("../data/git-log_tensorflow.txt") as fin:
             )
             line = fin.readline()
         index += 1
-        if index == 100:
+        if index == 40:
             break
 
 graph = {

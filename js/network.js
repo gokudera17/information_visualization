@@ -1,12 +1,12 @@
 function draw_network() {
-  var width = 3000, height = 3000;
+  var width = 900, height = 600;
   d3.json("../data/network.json").then((data) => {
     const {
       links,
       nodes
     } = data;
     const types = Array.from(new Set(nodes.map(d => d.type)))
-    const color = d3.scaleOrdinal(types, d3.schemeCategory10)
+    color = d3.scaleOrdinal([d3.interpolateYlGnBu(0.7), d3.interpolateYlGnBu(0.2)])
     const linkArc = d => `M${d.source.x},${d.source.y}A0,0 0 0,1 ${d.target.x},${d.target.y}`;
     const drag = simulation => {
   
@@ -34,13 +34,13 @@ function draw_network() {
     }
     const simulation = d3.forceSimulation(nodes)
       .force("link", d3.forceLink(links).id(d => d.id))
-      .force("charge", d3.forceManyBody().strength(-300))
+      .force("charge", d3.forceManyBody().strength(-10))
       .force("x", d3.forceX())
       .force("y", d3.forceY())
       .force('collide', d3.forceCollide(d => 65))
     const svg = d3.select("div#network")
       .append("svg")
-      .attr("viewBox", [-width / 2, -height / 2, width, height])
+      .attr("viewBox", [-width, -height, width*2, height*2])
     svg.append("defs").selectAll("marker")
       .data(types)
       .join("marker")
@@ -69,7 +69,7 @@ function draw_network() {
       .data(links)
       .join("path")
       .attr("stroke", d => color(d.type))
-      .attr("marker-end", d => `url(${new URL(`#arrow-${d.type}`, location)})`);
+      .attr("marker-end", d => d);
     node.append("circle")
       .attr("stroke", "white")
       .attr("stroke-width", 1.5)
@@ -85,7 +85,7 @@ function draw_network() {
         .attr("stroke", "white")
         .attr("stroke-width", 3);
 
-    node.on('dblclick', (e, d) => console.log(nodes[d.index]))
+    node.on('dblclick', (e, d) => alert(nodes[d.index].name))
 
 
     simulation.on("tick", () => {
@@ -100,13 +100,3 @@ draw_network()
 
 
 
-// draw box
-// tag
-// svg.append('rect')
-//     .attr("class", "color_tag_1")
-//     .attr("transform", "translate(-380,-280)");
-//
-// svg.append("text")
-//     .attr("class","text_tag")
-//     .attr("transform", "translate(-355,-268)")
-//     .text("實際報到");

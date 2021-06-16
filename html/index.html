@@ -184,7 +184,7 @@
 <!--Network-->
 <div>
     <div class="chart" align="center">
-        <h3 class="text_title">Top 3 Authors 的貢獻類型差別</h3>
+        <h3 class="text_title">開發者與檔案互動關係圖</h3>
     </div>
 
     <div id="page_network"></div>
@@ -197,14 +197,12 @@
         <div class="word">
             <h3 class="left_word">圖例説明：</h3>
             <p class="left__word">
-                本圖表的目的是以雷達圖的形式展示Top 3 Authors貢獻類型<span
-                    class="text_dark">File Changed,  Insertions, Deletions, Issue</span>的差別。
+                此圖表顯示 Git Log 每位作者更動檔案的關係圖，每一個節點代表一位作者或是檔案，而建邊則代表有修改過該檔案。圖例中提供了 File 和 Author 兩種類型對應在圖表中的顔色，方便使用者快速查詢。
             </p>
             <h3 class="left_word">簡要説明：</h3>
             <p class="left__word">
-                本圖表原有資料只有各個Authors各項行為事件的總次數，我們按每項行為事件排序Author的名次，再轉化成對應的分數，反映該Author的各項貢獻程度。我們只展示<span
-                    class="text_dark">Top3 Author</span>的貢獻程度是因為主力Author跟其他Author的行為事件次數有很大的差異(0次 VS
-                118992次)，甚至無法在圖表上有明顯的差別顯示，以及為了讓用戶能夠集中看最多貢獻的Author之間的差異, 所以選擇只展示Top3 Author的各項貢獻程度。
+                此圖表依照 Git log 紀錄針對每一位作者及其修改的檔案依序建邊，其中可以發現有特定幾位作者如 A. Unique TensorFlower, Tomer Kaftan 是 Repo 中的重要角色經常修改檔案，檔案改動數量較多。
+                也可以發線哪些檔案是重要的檔案經常需叫進行修改，相較 Github 上現行的 Commits 更方便使用者觀察一個 Repo 當前檔案和開發者的關係。
             </p>
             <div class="null">after</div>
         </div>
