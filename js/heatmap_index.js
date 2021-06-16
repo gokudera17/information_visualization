@@ -1,4 +1,4 @@
-var margin = {top: 80, right: 25, bottom: 30, left: 150},
+var margin = {top: 60, right: 25, bottom: 40, left: 150},
   width = 600 - margin.left - margin.right,
   height = 700 - margin.top - margin.bottom;
 var datasets = ["sts.csv", "issue_status.csv"];
@@ -21,57 +21,65 @@ var bars = svg.selectAll(".bars")
         .enter().append("rect")
         .attr("class", "bars")
         .attr("x", function(d, i) { return i*3.45; })
-        .attr("y", -40)
+        .attr("y", -60)
         .attr("rx", 4)
         .attr("ry", 4)
         .attr("height", 20)
         .attr("width", 6)
         .style("font-family","system-ui")
         .style("fill", function(d, i) { return myColor(d); })
-
+svg.append("text")
+    .attr("x", -60)
+    .attr("y", -46)
+    .attr("text-anchor", "center")
+    .style("font-size", "12px")
+    .style("fill", "grey")
+    .style("font-family","system-ui")
+    .style("max-width", 400)
+    .text("COUNT");
 
 svg.append("text")
     .attr("x", 2)
-    .attr("y", -8)
+    .attr("y", -23)
     .attr("text-anchor", "center")
-    .style("font-size", "14px")
+    .style("font-size", "12px")
     .style("fill", "grey")
     .style("font-family","system-ui")
     .style("max-width", 400)
     .text("0");
 svg.append("text")
-    .attr("x", 87.5)
-    .attr("y", -8)
+    .attr("x", 85)
+    .attr("y", -23)
     .attr("text-anchor", "center")
-    .style("font-size", "14px")
+    .style("font-size", "12px")
     .style("fill", "grey")
     .style("font-family","system-ui")
     .style("max-width", 400)
     .text("25");      
 svg.append("text")
-    .attr("x", 173)
-    .attr("y", -8)
+    .attr("x", 170)
+    .attr("y", -23)
     .attr("text-anchor", "center")
-    .style("font-size", "14px")
+    .style("font-size", "12px")
     .style("fill", "grey")
     .style("font-family","system-ui")
     .style("max-width", 400)
     .text("50"); 
 svg.append("text")
-    .attr("x", 258.5)
-    .attr("y", -8)
+    .attr("x", 257)
+    .attr("y", -23)
     .attr("text-anchor", "center")
-    .style("font-size", "14px")
+    .style("font-size", "12px")
     .style("fill", "grey")
     .style("font-family","system-ui")
     .style("max-width", 400)
     .text("75"); 
 
 svg.append("text")
-        .attr("x", 330)
-        .attr("y", -8)
+        .attr("x", 326)
+        .attr("y", -23)
         .attr("text-anchor", "center")
-        .style("font-size", "10px")
+        .style("font-size", "12")
         .style("fill", "grey")
         .style("font-family","system-ui")
         .style("max-width", 400)
@@ -124,16 +132,16 @@ d3.csv("../data/heatmap_stats.csv").then(function(data) {
       .style("stroke", "none")
       .style("opacity", 0.8)
       .on("mouseover", function(event,d) {
-          div.style("opacity", 1)
+          div.style("opacity", 0.9)
           d3.select(this)
             .style("stroke", "black")
-            .style("opacity", 1)
+            .style("opacity", 0.9)
        })
       .on("mousemove", function(event,d) {
         div
-         .style("opacity", 1)
+         .style("opacity", 0.9)
          div.html("["+d.group +"] from ["+ d.variable +"]: " + d.value)
-         .style("left",(d3.mouse(this)[0]+70)  + "px")
+         .style("left",(d3.mouse(this)[0])-100  + "px")
          .style("top", (d3.mouse(this)[1]) + "px");
        })
       .on("mouseleave", function(d) {
@@ -144,21 +152,9 @@ d3.csv("../data/heatmap_stats.csv").then(function(data) {
           .style("opacity", 0.8)
        });
 
-  squares.transition()
-    .duration(3000)
-    .delay((d,i) => i*200)
-    .style("opacity", 1)
-  squares.exit.remove();
 
 });
 
-svg.append("text")
-        .attr("x", 60)
-        .attr("y", -50)
-        .attr("text-anchor", "center")
-        .style("font-size", "20px")
-        .style("font-family","system-ui")
-        .text("The Record of USERS");
 
 svg.append("text")
         .attr("x", -300)
@@ -173,9 +169,9 @@ svg.append("text")
 
 svg.append("text")
         .attr("x",140)
-        .attr("y",height + 30)
+        .attr("y",height + 35)
         .attr("text-anchor", "center")
-        .style("font-size", "14px")
+        .style("font-size", "13px")
         .style("fill", "grey")
         .style("font-family","system-ui")
         .style("max-width", 400)

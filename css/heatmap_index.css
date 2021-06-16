@@ -1,12 +1,13 @@
 .tooltip {
-    position: sticky;
+    position: relative;
     font-size: 15px;
     font-family: system-ui;
     font-weight: bold;
-    text-align: match-parent;
-    color: #000000;
-    background: #ffffff;
-    height: 30px;
+    text-align: center;
+    color: #101d52;
+    background: #fafadb;
+    height: 22px;
+    width: 520px;
     padding: 5px;
     border: solid;
     border-radius: 5px;
