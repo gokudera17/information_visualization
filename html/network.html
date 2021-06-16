@@ -8,8 +8,29 @@
         <link rel="stylesheet" type="text/css" href="../css/css_network.css"/>
     </head>
     <body>
-    <div class="div_network">
-        <div id="network"></div>
-    </div>
+        <div class="div_network">
+            <div style="display: flex; align-items: center; min-height: 33px; margin-left: 0px; font: 10px sans-serif;">
+                <style>
+                    .O-1 {
+                        display: inline-flex;
+                        align-items: center;
+                        margin-right: 1em;
+                    }
+                    
+                    .O-1::before {
+                        content: "";
+                        width: 15px;
+                        height: 15px;
+                        margin-right: 0.5em;
+                        background: var(--color);
+                    }
+                </style>
+                <div>
+                    <span class="O-1" style="--color: rgb(32, 115, 178)">Author</span>
+                    <span class="O-1" style="--color: rgb(213, 238, 179)">Modified File</span>
+                </div>
+            </div>
+            <div id="network"></div>
+        </div>
     </body>
 </html>
