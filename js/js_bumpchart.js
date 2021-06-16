@@ -4,10 +4,10 @@ function bumpchart() {
     bumpRadius = 13;
 
     // padding = 25
-    padding = 50;
+    padding = 25;
 
     // margin = Object {left: 105, right: 105, top: 20, bottom: 50}
-    margin = ({left: 50, right: 50, top: 0, bottom: 0});
+    margin = ({left: 105, right: 105, top: 20, bottom: 50});
 
     data = [];
     d3.csv("../data/git-log-tensorflow-stat-v2.csv", function(row){
@@ -142,7 +142,7 @@ function bumpchart() {
         const svg = d3.select("div#bump-chart")
             .append("svg")
             .attr("cursor", "default")
-            .attr("viewBox", [0, 0, width, height]);
+            .attr("viewBox", [0, 0, width, height + 50]);
 
         svg.append("g")
             .attr("transform", `translate(${margin.left + padding}, 0)`)
@@ -216,6 +216,94 @@ function bumpchart() {
 
         const rightY = svg.append("g")
             .call(g => drawAxis(g, width - margin.right, 0, d3.axisRight(y.domain(right))));
+
+        svg.append("rect")
+            .attr("width", "50")
+            .attr("height", "15")
+            .attr("fill", "#D5EEB3")
+            .attr("transform", "translate(10, 480)");
+
+        svg.append("text")
+            .attr("transform", "translate(10, 510)")
+            .attr("font-size", "10px")
+            .text("A. Unique TensorFlower");
+
+        svg.append("rect")
+            .attr("width", "50")
+            .attr("height", "15")
+            .attr("fill", "#C1E7B5")
+            .attr("transform", "translate(160, 480)");
+
+        svg.append("text")
+            .attr("transform", "translate(160, 510)")
+            .attr("font-size", "10px")
+            .text("Shivani Agrawal");
+
+        svg.append("rect")
+            .attr("width", "50")
+            .attr("height", "15")
+            .attr("fill", "#A9DDB7")
+            .attr("transform", "translate(310, 480)");
+
+        svg.append("text")
+            .attr("transform", "translate(310, 510)")
+            .attr("font-size", "10px")
+            .text("Jiri Simsa");
+
+        svg.append("rect")
+            .attr("width", "50")
+            .attr("height", "15")
+            .attr("fill", "#73C9BD")
+            .attr("transform", "translate(460, 480)");
+
+        svg.append("text")
+            .attr("transform", "translate(460, 510)")
+            .attr("font-size", "10px")
+            .text("Chao Mei");
+
+        svg.append("rect")
+            .attr("width", "50")
+            .attr("height", "15")
+            .attr("fill", "#34A7C2")
+            .attr("transform", "translate(610, 480)");
+
+        svg.append("text")
+            .attr("transform", "translate(610, 510)")
+            .attr("font-size", "10px")
+            .text("Isha Arkatkar");
+
+        svg.append("rect")
+            .attr("width", "50")
+            .attr("height", "15")
+            .attr("fill", "#2073B2")
+            .attr("transform", "translate(750, 480)");
+
+        svg.append("text")
+            .attr("transform", "translate(750, 510)")
+            .attr("font-size", "10px")
+            .text("HanBin Yoon");
+
+        svg.append("rect")
+            .attr("width", "50")
+            .attr("height", "15")
+            .attr("fill", "#223E95")
+            .attr("transform", "translate(900, 480)");
+
+        svg.append("text")
+            .attr("transform", "translate(900, 510)")
+            .attr("font-size", "10px")
+            .text("Robert David");
+
+        svg.append("rect")
+            .attr("width", "50")
+            .attr("height", "15")
+            .attr("fill", "#081D58")
+            .attr("transform", "translate(1050, 480)");
+
+        svg.append("text")
+            .attr("transform", "translate(1050, 510)")
+            .attr("font-size", "10px")
+            .text("Meghna Natraj");
 
         return svg.node();
 
