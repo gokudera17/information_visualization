@@ -7,11 +7,11 @@
 }
 
 .word {
-    border: 5px solid #E3E4E0;
+    border: 5px solid #CDD0CB;
     border-radius: 10px;
     align: center;
     width: 65%;
-    background-color: #E3E4E0;
+    background-color: #CDD0CB;
 }
 
 .left_word {
@@ -197,4 +197,21 @@ div.tooltip_2 {
     font-family: "Lucida Console";
     vertical-align: top;
     overflow: hidden;
+}
+
+blockquote{
+    height: 50px;
+    max-width:600px;
+    text-align: left;
+    border-left: 3px solid #125D98;
+    padding-left: 5px;
+    margin:0 auto;
+    background:#DDDDDD;
+    width:auto;
+}
+
+.text_dark{
+    color: #0A81AB;
+    font-weight: bold;
+    font-size: 20px;
 }
